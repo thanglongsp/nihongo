@@ -1,0 +1,5546 @@
+[
+  {
+    "goi": "レファレンス",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Reference：tham chiếu",
+    "co-mean": "参照",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "コーディングガイドライン",
+    "kanji": "Empty data",
+    "read": " Coding guideline",
+    "mean": "hướng dẫn, Quy tắc code, ",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "コーディング用紙 ",
+    "kanji": "Dụng chỉ",
+    "read": "コーディングようし",
+    "mean": "Coding form",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "対応",
+    "kanji": "Đối ứng",
+    "read": "たいおう",
+    "mean": "phản ứng,xử lý,tương ứng",
+    "co-mean": "support (IT)",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "コーディングをする",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": " Viết code",
+    "co-mean": "Empty data",
+    "explain": "サイトをコーディングした viết code cho side"
+  },
+  {
+    "goi": "端末",
+    "kanji": "ĐOAN MẠT",
+    "read": "Empty data",
+    "mean": "máy,thiết bị(device)(IT) | thiết bị đầu cuối | Thiết bị kết nối",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "縮小表示する",
+    "kanji": "SÚC TIỂU BIỂU KÌ",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "可読性",
+    "kanji": "KHẢ ĐỘC TÍNH",
+    "read": "かどくせい",
+    "mean": "Tính dễ đọc dễ xem",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "操作性",
+    "kanji": "Empty data",
+    "read": "そうさせい",
+    "mean": "Tính khả dụng,Tính dễ sử dụng",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "メディアクエリ",
+    "kanji": "THAO TÁC TÍNH",
+    "read": "Empty data",
+    "mean": "◆ Truy vấn phương tiện truyền thông",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "タブレット",
+    "kanji": "Empty data",
+    "read": "tablet",
+    "mean": "tablet",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "ブレイクポイント",
+    "kanji": "Empty data",
+    "read": "Break point",
+    "mean": "Break point",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "レスポンシブ",
+    "kanji": "Empty data",
+    "read": "Responsive",
+    "mean": "Responsive",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "工数",
+    "kanji": "CÔNG SỔ",
+    "read": "こうすう",
+    "mean": "IT man-hour /man month",
+    "co-mean": "Empty data",
+    "explain": "1.見積工数:みつもりこうすう Số giờ công ước tính | 2.工数費用: こうすうひよう Chi phí giờ công"
+  },
+  {
+    "goi": "見切れる",
+    "kanji": "KIẾN THIẾT",
+    "read": "Empty data",
+    "mean": "bị cắt nham nhở, giữa chừng đẫn đến không thấy hết được. (ảnh, chữ...)",
+    "co-mean": "PDFの文字が見切れないことを確認する。: kiểm tra xem chữ trong file pdf không bị căt ngang giữa chừng.",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "横スクロール",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "cuộn sang ngang",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "強制",
+    "kanji": "CƯỜNG CHẾ",
+    "read": "きょうせい",
+    "mean": "IT:　強制終了 = force close (app bắt buộc dừng)",
+    "co-mean": "cưỡng chế; sự cưỡng bức; cưỡng chế; cưỡng bức; bắt buộc; ép buộc",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "もしくは",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Hoặc là: Dùng khi chỉ có 2 lựa chọn, hoặc cái này hoặc là cái kia không còn sự lựa chọn nào khác.",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "実装",
+    "kanji": "THỰC TRANG",
+    "read": "じっそう",
+    "mean": "Implement (Chuyen nganh IT) コーディング（IT) triển khai (IT) Dev",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "ホバー",
+    "kanji": "Empty data",
+    "read": "hover",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "アニメーション>< 静止画",
+    "kanji": "TĨNH CHỈ HỌA",
+    "read": "animation",
+    "mean": "hình ảnh động",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "ロールアウト",
+    "kanji": "Empty data",
+    "read": "roll out",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "潜水艦",
+    "kanji": "TIỀM THỦY HẠM",
+    "read": "せんすいかん",
+    "mean": "Empty data",
+    "co-mean": "サブマリン= submarine Tàu ngầm",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "マウスカーソル",
+    "kanji": "Empty data",
+    "read": "mouse cursor",
+    "mean": "Thao tác chuột",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "グラデーション",
+    "kanji": "Empty data",
+    "read": "Gradation",
+    "mean": "Sự thay đổi dần dần,Mức độ màu",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "アンダーライン",
+    "kanji": "Empty data",
+    "read": "Underline",
+    "mean": "Gạch dưới; gạch chân",
+    "co-mean": "〜下線",
+    "explain": "アンダーラインを引く gạch chân＝線を引く"
+  },
+  {
+    "goi": "付け加える",
+    "kanji": "PHÓ GIA",
+    "read": "つけくわえる",
+    "mean": "bổ sung bổ sung hoặc đóng góp thêm những 意見,アイデア,意味 v..v",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "属性",
+    "kanji": "CHÚC TÍNH",
+    "read": "ぞくせい",
+    "mean": "IT: attribute Thuộc tính, tính chất",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "背景画像",
+    "kanji": "BỐI CẢNH HỌA TƯỢNG",
+    "read": "Background image",
+    "mean": "Hình nền",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "要素",
+    "kanji": "YẾU TỐ",
+    "read": "ようそ",
+    "mean": "ＩＴ：element",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "ピクセル",
+    "kanji": "Empty data",
+    "read": "pixcel",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "カラム",
+    "kanji": "Empty data",
+    "read": "collum",
+    "mean": "Cột",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "レイアウト",
+    "kanji": "Empty data",
+    "read": "layout",
+    "mean": "Layout : Sơ đồ, bố cục",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "抜粋",
+    "kanji": "BẠT TÚY",
+    "read": "ばっすい",
+    "mean": "đoạn trích",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "余白",
+    "kanji": "DƯ BẠCH",
+    "read": "よはく",
+    "mean": "chừa lề, canh lề.",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "方向",
+    "kanji": "PHƯƠNG HƯỚNG",
+    "read": "ほうこう",
+    "mean": " Phương hướng",
+    "co-mean": "direction",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "背景色",
+    "kanji": "BỐI CẢNH SẮC",
+    "read": "はいけいいろ",
+    "mean": "Background color (Màu nền)",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "構文",
+    "kanji": "CẤU VĂN",
+    "read": "こうぶん",
+    "mean": "IT: Syntax (code) cấu trúc(câu lệnh)",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "フォント",
+    "kanji": "Empty data",
+    "read": "font",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "単色",
+    "kanji": "ĐƠN SẮC",
+    "read": "たんしょく",
+    "mean": "Đơn sắc, một màu",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "透かし",
+    "kanji": "THẤU",
+    "read": "watermark",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "ツール",
+    "kanji": "Empty data",
+    "read": "tool",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "ブラウザ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "it: ウェブブラウザ : web browser : Trình duyệt web",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "コンソール",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Giao diện điều khiển IT: Console trong chrome",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "出力",
+    "kanji": "XUẤT LỰC",
+    "read": "output",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "セミコロン",
+    "kanji": "Empty data",
+    "read": "semicolon",
+    "mean": "dấu chấm phẩy",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "ライブラリ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": " Thư viện",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "命令文",
+    "kanji": "MỆNH LỆNH VĂN",
+    "read": "めいれいぶん",
+    "mean": "IT Câu lệnh, command",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "文末",
+    "kanji": "VĂN MẠT",
+    "read": "ぶんまつ",
+    "mean": "cuối câu",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "先頭",
+    "kanji": "TIÊN ĐẦU",
+    "read": "せんとう",
+    "mean": "Đầu; sự dẫn đầu; tiên phong",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "見栄え",
+    "kanji": "KIẾN VINH",
+    "read": "みばえ",
+    "mean": "hình thức đẹp, đẹp mắt",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "関数",
+    "kanji": "QUAN SỔ",
+    "read": "かんすう",
+    "mean": "hàm số",
+    "co-mean": "function",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "変数",
+    "kanji": "BIẾN SỔ",
+    "read": " variable",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "プロパティ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "thuộc tính",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "揃える",
+    "kanji": "TIỄN",
+    "read": "そろえる",
+    "mean": "căn chỉnh",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "揃え",
+    "kanji": "TIỄN",
+    "read": "そろえ",
+    "mean": "căn chỉnh",
+    "co-mean": "Empty data",
+    "explain": "中央揃え: căn giữa | 右揃え: căn phải | 左揃え: căn trái | 上揃え: căn trên | 下揃え: căn dưới"
+  },
+  {
+    "goi": "配置",
+    "kanji": "PHỐI TRÍ",
+    "read": "はいち",
+    "mean": "căn chỉnh",
+    "co-mean": "IT用：Alignment",
+    "explain": "テキストの配置：text alignment: căn chỉnh text | 横配置の場合は上揃え、縦配置の場合は左揃え | 横配置の場合は下揃え、縦配置の場合は右揃え"
+  },
+  {
+    "goi": "折り返す",
+    "kanji": "CHIẾT PHẢN",
+    "read": "おりかえす",
+    "mean": "wrap text (IT)",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "文字列",
+    "kanji": "VĂN TỰ LIỆT",
+    "read": "Empty data",
+    "mean": "chuỗi kí tự",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "特殊文字",
+    "kanji": "ĐẶC THÙ VĂN TỰ",
+    "read": "とくしゅもじ",
+    "mean": "kí tự đặc biệt",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "エンコード",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "mã hóa",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "デコード",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "giải mã",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "ルート",
+    "kanji": "Empty data",
+    "read": "root",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "閲覧",
+    "kanji": "DUYỆT LÃM",
+    "read": "えつらん",
+    "mean": "Empty data",
+    "co-mean": "view",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "挿入",
+    "kanji": "SÁP NHẬP",
+    "read": "そうにゅう",
+    "mean": "Empty data",
+    "co-mean": "insert",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "更新",
+    "kanji": "CANH TÂN",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "update",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "削除",
+    "kanji": "TƯỚC TRỪ",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "delete",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "適用範囲",
+    "kanji": "THÍCH DỤNG PHẠM VI",
+    "read": "てきようはんい",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "ドメイン",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": " tên miền",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "再現する",
+    "kanji": "TÁI HIỆN",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "スピードくじ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Xổ số tốc độ",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "スクラッチくじ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Xổ số cào",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "リマインド",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "reminde",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "受け渡し",
+    "kanji": "THỤ ĐỘ",
+    "read": "うけわたし",
+    "mean": "giao hàng giao nhận",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "特記",
+    "kanji": "ĐẶC KÍ",
+    "read": "とっき",
+    "mean": "Đặc biệt đề cập",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "差分",
+    "kanji": "SOA PHÂN",
+    "read": "さぶん",
+    "mean": "Coppy theo từng thư mục. Trong IT khi deliver code người ta thường copy cả source code chỉ chứa những file đã sửa.",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "性能改善",
+    "kanji": "TÍNH NĂNG CẢI THIỆN",
+    "read": "Empty data",
+    "mean": "Cải thiện tính năng",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "ロジック改修",
+    "kanji": "CẢI TU",
+    "read": "Empty data",
+    "mean": "Sửa logic",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "手を貸して：giúp tui 1 tay",
+    "kanji": "THỦ THẢI",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "耳を貸して: nghe tui nói nè",
+    "kanji": "NHĨ THẢI",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "顔を貸して: đến đây 1 chút nè.",
+    "kanji": "NHAN THẢI",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "ダッシュボード",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "◆ Bảng điều khiển",
+    "co-mean": "Dashboard",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "導入",
+    "kanji": "NẠP NHẬP",
+    "read": "どうにゅう",
+    "mean": "Đưa vào, áp dụng vào ( một hệ thống mới, công nghệ mới, ...)",
+    "co-mean": "Empty data",
+    "explain": "Đưa vào : 機械を導入して作業のスピードを上げる。Đưa máy móc vào sử dụng nâng cao tốc độ."
+  },
+  {
+    "goi": "分割",
+    "kanji": "PHÂN CÁT",
+    "read": "ぶんかつ",
+    "mean": "phân chia",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "現体制",
+    "kanji": "HIỆN THỂ CHẾ",
+    "read": "げんたいせい",
+    "mean": "Chế độ hiện tại",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "策定",
+    "kanji": "SÁCH ĐỊNH",
+    "read": "さくてい",
+    "mean": "Làm nên (chương trình) Xác lập, thiết lập",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "プロダクトビジョン",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "product vision",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "ポジネガ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Tích cực tiêu cực",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "人員",
+    "kanji": "NHÂN VIÊN",
+    "read": "じんいん",
+    "mean": "Số lượng người, nhân viên",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "目処",
+    "kanji": "Empty data",
+    "read": "めど",
+    "mean": "Mục tiêu; mục đích, Quan điểm",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "JANコード版",
+    "kanji": "BẢN",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "JAN code",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "デスクリプション文言",
+    "kanji": "VĂN NGÔN",
+    "read": "Empty data",
+    "mean": "Câu giải thích",
+    "co-mean": "description pharse",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "「バーコード読み込み」",
+    "kanji": "ĐỘC ",
+    "read": "Empty data",
+    "mean": "(quét mã code) ",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "審査 ",
+    "kanji": "THẨM TRA",
+    "read": "しんさ",
+    "mean": "xét duyệt hồ sơ, thẩm định hồ sơ",
+    "co-mean": "Empty data",
+    "explain": "出国審査場: quầy check-in, cửa kiểm tra an ninh (ở sân bay)"
+  },
+  {
+    "goi": "臨時用",
+    "kanji": "LÂM THỜI DỤNG",
+    "read": "Empty data",
+    "mean": ": Sử dụng tạm thời",
+    "co-mean": "Empty data",
+    "explain": "臨時休講（りんじきゅうこ）nghỉ học tạm thời(để nhà trường tổ chức gì đó,như kì thi vào đại học hàng năm của 1 số trường thì nhà trường sẽ cho nghỉ học) | 臨時病院:Bệnh viện dã chiến | 臨時休業: tạm thời nghỉ kinh doanh , tạm thời đóng cửa "
+  },
+  {
+    "goi": "暫定のスケジュール: lịch trình tạm thời.| 暫定版 bản tạm thời (khi release app/web) | 暫定休業、 tạm thời đóng cửa,( tạm thời nghỉ kinh doanh)",
+    "kanji": "TẠM ĐỊNH, TẠM ĐỊNH BẢN, TẠM ĐỊNH HƯU NGHIỆP",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "テキストの配置",
+    "kanji": "PHỐI TRÍ",
+    "read": "Empty data",
+    "mean": "IT用：Alignment：text alignment: căn chỉnh text",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "項目",
+    "kanji": "HẠNG MỤC",
+    "read": "Empty data",
+    "mean": "mục",
+    "co-mean": "Empty data",
+    "explain": "必須項目：mục cần thiết"
+  },
+  {
+    "goi": "備考",
+    "kanji": "BỊ KHẢO",
+    "read": "びこう",
+    "mean": "ghi chú, chú thích, ghi chú thêm",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "所持",
+    "kanji": "SỞ TRÌ",
+    "read": "しょじ",
+    "mean": "sở hữu, tích lũy, tàng trữ",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "倣う: ならう",
+    "kanji": "PHỎNG",
+    "read": "Empty data",
+    "mean": "phỏng theo,bắt chước theo,làm theo>Lấy cái gì đó làm mẫu và làm giống như thế =>Khác với 習う là 倣う không mang ý học hỏi, đơn thuần là bắt chước lại y chang lại vậy thôi =>Khi nói k phân biệt nhưng viết thì có",
+    "co-mean": "Empty data",
+    "explain": "• A社の製品に倣って商品開発を行う • 伝統に倣った技術が外国人を魅了する"
+  },
+  {
+    "goi": "一先ず:ひとまず: ",
+    "kanji": "NHẤT TIÊN",
+    "read": "Empty data",
+    "mean": "trước tiên, tạm thời",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "ベリファイ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "xác minh chính chủ",
+    "co-mean": "本人確認",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "工事種別",
+    "kanji": "CÔNG SỰ CHỦNG BIỆT",
+    "read": "Empty data",
+    "mean": "kiểu xây dựng",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "ブリッジSE",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Br SE",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "アイコン",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Icon Là các biểu tượng nhỏ nhỏ hiển thị trên màn hình Desktop. Khi ta rê chuột vào rồi click hay double click thì chương trình (program) sẽ được thực thi. ",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "圧縮",
+    "kanji": "ÁP SÚC",
+    "read": "あっしゅく",
+    "mean": "Nén (file) Làm nhỏ size của các file có dung lượng lớn nhằm tiết kiệm bộ nhớ lưu trữ (có thể là local Driver như ổ C D E hoặc bộ lưu trữ online như One Driver, Cloud Driver…) ",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "アップデート",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Update",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "アドレス",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Là những đường dẫn địa chỉ trên thanh URL đến các trang thư điện tử của 1 cá nhân nào đó như gọi URL",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "アフィリエイト",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Là 1 hệ thống thanh toán tiền bạc từ việc mua hàng trên những trang web. Gần đây dù không mua hàng nhưng số lượng hàng mua ứng với lần click đã tăng lên.",
+    "co-mean": "Affiliate ",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "アプリケーション",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Là tên thường gọi của app , là 1 chương trình được tạo ra cho công việc kế toán và phác họa như là phần mềm Microsoft Office, game, GIMP,Inkscape ",
+    "co-mean": "Application ",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "イノベーション",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Innovation – sự cải tiến, đổi mới Có nghĩa là 1 hướng đi, cách nhìn, giải pháp, mới , sự kết hợp mới mẻ. ",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "インターフェース",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Interface Là hệ thống kết nối giữa máy tính và thiết bị ngoại vi. Trong lập trình thì interface là một bản thiết kế của một lớp. Nó chỉ bao gồm các phương thức trừu tượng. ",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "インタプリタ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Trình thông dịch biên dịch một chương trình nguồn theo từng phân đoạn rồi thực thi các đoạn mã đã được biên dịch. Tức là vừa dịch ra mã máy vừa thực thi từng đoạn 1, khác với trình biên dịch là dịch luôn toàn bộ source code (chứ không phải từng dòng) thành các run file, ta hay gặp nhất là file .exe.",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "ウィルス対策ソフト",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Phần mềm diệt vi rút | Là phần mềm bảo vệ máy tính khỏi vi rút. Loại quét virut dựa trên hành vi bất thường của các chương trình và loại quét virut trên cơ sở so sánh với database danh sách virut. ",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "ウィンドウ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Window Là màn hình nhỏ thuộc phạm vi bên trong màn hình thao tác. Tức là cái hiện ra khi ta chạy ứng dụng. ",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "ウィンドウズ ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Windows Hệ điều hành của Microsoft.",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "液晶ディスプレイ",
+    "kanji": "DỊCH TINH",
+    "read": "えきしょうでぃすぷれい",
+    "mean": "Màn hình tinh thể lỏng.",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "エンコード",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Encode – mã hoá ký tự",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "エンコーダ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Encoder – bộ mã hoá Phần mềm chuyển đổi (mã hoá) dữ liệu.",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "拡張子",
+    "kanji": "KHUẾCH TRƯƠNG TỬ",
+    "read": "かくちょうし",
+    "mean": "File extension (Phần mở rộng) Ví dụ : .jpg、.png、.bmp … Image File .doc、.docx…Word… Document File",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "仮想メモリ",
+    "kanji": "GIẢ TƯỞNG",
+    "read": "かそうめもり",
+    "mean": "Bộ nhớ ảo. Là vùng nhớ phụ trợ thuộc 1 phần của ở đĩa cứng được sử dụng khi thực thi chương trình lớn vượt quá dung lượng bộ nhớ chính.",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "画素",
+    "kanji": "HỌA TỐ",
+    "read": "がそ",
+    "mean": "Pixel. Đơn vị nhỏ nhất của hình ảnh. VD : Image 220×220 Pixels",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "完全性",
+    "kanji": "HOÀN TOÀN TÍNH",
+    "read": "かんぜんせい",
+    "mean": "Tính toàn vẹn. Việc đảm bảo các thông tin và phương pháp xử lý chính xác và đầy đủ. ",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "キーボード",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Bàn phím (keyboard)",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "キーロガー",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Keylogger.Phần mềm (virut) chạy ngầm ghi lại thao tác phím. Vì nó không thể phát hiện ngay cả với phần mềm chống vi rút, nên có thể bị lấy cắp các thông tin quan trọng như mật khẩu và hay mã số thẻ ngân hàng khi người sử dụng bị nhiễm loại virut này.",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "キャッシュメモリ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Bộ nhớ Cache",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "キャパシティ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Capacity.Khả năng xử lý của 「network, software, hardware tạo nên hệ thống」. Được viết tắt là “Capa”.",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "キャプチャ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Capture",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "クッキー",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Cookie",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "クライアント",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "clint",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "クライアントサーバシステム",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Client server system.",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "クラウドコンピューティング",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Cloud computing. Điện toán đám mây.",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "クラスタシステム",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Hệ thống Cluster.",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "クラッキング",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Cracking.",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "クラッカー",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Craker",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "経営管理",
+    "kanji": "KINH DOANH QUẢN LÍ",
+    "read": "けいえいかんり",
+    "mean": "Quản trị kinh doanh",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "経営資源",
+    "kanji": "KINH DOANH TƯ NGUYÊN",
+    "read": "けいえいしげん",
+    "mean": "Tài nguyên kinh doanh (như con người, sổ sách, tiền bạc …)",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "経営戦略",
+    "kanji": "KINH DOANH CHIẾN LƯỢC",
+    "read": "けいえいせんりゃく",
+    "mean": "Chiến lược kinh doanh",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "結合",
+    "kanji": "KẾT HỢP",
+    "read": "けつごう",
+    "mean": "Kết hợp (tích hợp)",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "検索",
+    "kanji": "KIỂM TÁC",
+    "read": "Empty data",
+    "mean": "Search",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "検収書",
+    "kanji": "KIỂM THU THƯ",
+    "read": "けんしゅうしょ",
+    "mean": "Acceptance report",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "工数",
+    "kanji": "CÔNG SỔ",
+    "read": "こうすう",
+    "mean": "Cost",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "構成管理",
+    "kanji": "CẤU THÀNH QUẢN LÍ",
+    "read": "こうせいかんり",
+    "mean": "Quản lý cấu hình",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "コーディング",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Coding",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "コードレビュー",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Code review",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "コールセンター",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Call center",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "サーバ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Server Là máy chủ cung cấp dịch vụ cho các máy tính đã được nối mạng.",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "サービスサポート",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Dịch vụ hỗ trợ. Support Service",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "システム設計",
+    "kanji": "THIẾT KẾ",
+    "read": "Empty data",
+    "mean": "System design (Thiết kế hệ thống)",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "シミュレータ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Simulator (trình mô phỏng)Tên gọi của phần cứng và phần mềm mô phỏng trên máy tính.",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "障害管理",
+    "kanji": "CHƯỚNG HẠI QUẢN LÍ",
+    "read": "しょうがいかんり",
+    "mean": "Quản lý sự cố.Trong dịch vụ IT thì khi phát sinh sự cố cần phải có sự quản lý chặt chẽ nhằm khôi phục lại dịch vụ một cách nhanh chống nhất trong khả năng có thể.",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "数式",
+    "kanji": "SỔ THỨC",
+    "read": "すうしき",
+    "mean": "Kiểu số",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "スクリプト言語",
+    "kanji": "NGÔN NGỮ",
+    "read": "すくりぷとげんご",
+    "mean": "Ngôn ngữ script. (VD : JavaScript)",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "スタック",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Stack",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "請求書",
+    "kanji": "THỈNH CẦU THƯ",
+    "read": "せいきゅうしょ",
+    "mean": "Bill",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "生産性",
+    "kanji": "SANH SẢN TÍNH",
+    "read": "せいさんせい",
+    "mean": "ProductivitySố dòng code được của 1 người trong 1 tháng. Ví dụ như Java/C# là 2500 LOC/1 người/1 tháng, C là 1700 LOC …",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "正常",
+    "kanji": "CHÁNH THƯỜNG",
+    "read": "せいじょう",
+    "mean": "Normal – Trạng thái bình thường (ý tốt)",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "製造",
+    "kanji": "CHẾ TẠO",
+    "read": "せいぞう",
+    "mean": "Sản xuất Xử lý nguyên liệu để sản xuất ra sản phẩm",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "セキュリティ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Sercurity",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "ソフトウェア障害",
+    "kanji": "CHƯỚNG HẠI",
+    "read": "そふとうぇあしょうがい",
+    "mean": "Lỗi phần mềm",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "ソフトウェア詳細設計",
+    "kanji": "TƯỜNG TẾ THIẾT KẾ",
+    "read": "そふとうぇあしょうさいせっけい",
+    "mean": "Software Detail Design",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "ソフトウェアパッケージ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Software Package",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "実装",
+    "kanji": "THỰC TRANG",
+    "read": "Empty data",
+    "mean": "triển khai",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "非同期",
+    "kanji": "PHI ĐỒNG KÌ",
+    "read": "ひどうき",
+    "mean": "Không đồng bộ",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "フレームボーダー",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "khung viền",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "初期表示",
+    "kanji": "SƠ KÌ BIỂU THỊ",
+    "read": "Empty data",
+    "mean": "hiển thị ban đầu",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "抽出",
+    "kanji": "TRỪU XUẤT",
+    "read": "ちゅうしゅつ",
+    "mean": " IT : Query/ Tin học : Trích xuất (dữ liệu từ bảng Database)",
+    "co-mean": "Empty data",
+    "explain": "データを抽出する: trích xuất dữ liệu"
+  },
+  {
+    "goi": "部分一致",
+    "kanji": "BỘ PHÂN NHẤT TRÍ",
+    "read": "ぶぶんいっち",
+    "mean": "partial match",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "インタラクション",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Interaction: Tương tác",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "早送り",
+    "kanji": "TẢO TỐNG",
+    "read": "はやおくり",
+    "mean": "Tua nhanh",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "巻き戻し",
+    "kanji": "QUYỂN LỆ",
+    "read": "まきもどし",
+    "mean": "Tua ngược",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "再生",
+    "kanji": "TÁI SANH",
+    "read": "Empty data",
+    "mean": "play",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "停止",
+    "kanji": "ĐÌNH CHỈ",
+    "read": "Empty data",
+    "mean": "Pause",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "リピート",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "repeat",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "シャッフル",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "shuffle",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "前の曲",
+    "kanji": "TIỀN KHÚC",
+    "read": "Empty data",
+    "mean": "previous",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "次の曲",
+    "kanji": "KHỨ THÚC",
+    "read": "Empty data",
+    "mean": "next",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "ループ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "loop",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "再生速度",
+    "kanji": "TÁI SANH TỐC ĐỘ",
+    "read": "Empty data",
+    "mean": "playback speed",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "倍速",
+    "kanji": "BỘI TỐC",
+    "read": "Empty data",
+    "mean": "2x speed",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "半分の速度",
+    "kanji": "BÁN PHÂN TỐC ĐỘ",
+    "read": "Empty data",
+    "mean": "half speed",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "巻き戻し",
+    "kanji": "QUYỂN LỆ",
+    "read": "Empty data",
+    "mean": "backward",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "字幕",
+    "kanji": "TỰ MẠC",
+    "read": "Empty data",
+    "mean": "subtitle",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "自動再生",
+    "kanji": "TỰ ĐỘNG TÁI SINH",
+    "read": "Empty data",
+    "mean": "autoplay",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "レポジトリ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "repository",
+    "co-mean": "Empty data",
+    "explain": "ファイルやディレクトリの内容を記録するところ"
+  },
+  {
+    "goi": "ローカルレポジトリ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "local repository",
+    "co-mean": "Empty data",
+    "explain": "自分のPC上に作られるレポジトリ"
+  },
+  {
+    "goi": "リモートレポジトリ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "remote repository",
+    "co-mean": "Empty data",
+    "explain": "ネットワーク上にある他の人のリポジトリ。複数人で管理ができる。"
+  },
+  {
+    "goi": "クローン",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "clone",
+    "co-mean": "Empty data",
+    "explain": "リモートリポジトリの内容をローカルレポジトリにコピー。git を使って行う。"
+  },
+  {
+    "goi": "フォーク",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "fork",
+    "co-mean": "Empty data",
+    "explain": "github アカウントを使って行う。リモートリポジトリがコピーされる。リポジトリは github アカウント上に残る"
+  },
+  {
+    "goi": "プッシュ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "push",
+    "co-mean": "Empty data",
+    "explain": "クローンされたリポジトリを直接プッシュする。アクセス権がある必要がある"
+  },
+  {
+    "goi": "プル リクエスト",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "pull request",
+    "co-mean": "Empty data",
+    "explain": "レポジトリの所有者にフォークしたあとで変更を加えた内容をマージさせてくださいとお願いすること。アクセス権がないときはリクエストする必要がある"
+  },
+  {
+    "goi": "イニット",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "init",
+    "co-mean": "Empty data",
+    "explain": "レポジトリの新規作成"
+  },
+  {
+    "goi": "ワーキングツリー",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Working Tree",
+    "co-mean": "Empty data",
+    "explain": "作業中の場所"
+  },
+  {
+    "goi": "ステージインデックス",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Stage Index",
+    "co-mean": "Empty data",
+    "explain": "コミット対象になるファイル置き場"
+  },
+  {
+    "goi": "アド",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "add",
+    "co-mean": "Empty data",
+    "explain": "ステージにファイルを加える"
+  },
+  {
+    "goi": "コミット",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "commit",
+    "co-mean": "Empty data",
+    "explain": "変更を完了する"
+  },
+  {
+    "goi": "コミットメッセージ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "commit message",
+    "co-mean": "Empty data",
+    "explain": "コミット箇所・理由などのメモ"
+  },
+  {
+    "goi": "ヘッド",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Head",
+    "co-mean": "Empty data",
+    "explain": "最新コミットの位置"
+  },
+  {
+    "goi": "マスターブランチ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Master Branch",
+    "co-mean": "Empty data",
+    "explain": "プロジェクトの幹の部分"
+  },
+  {
+    "goi": "ブランチ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Branch",
+    "co-mean": "Empty data",
+    "explain": "プロジェクトの枝の部分。枝分かれで作業が記録されている"
+  },
+  {
+    "goi": "マージ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "merge",
+    "co-mean": "Empty data",
+    "explain": "修正・変更を加えたブランチを元のブランチに統合する"
+  },
+  {
+    "goi": "リセット",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "reset",
+    "co-mean": "Empty data",
+    "explain": "あるコミットを取り消す"
+  },
+  {
+    "goi": "リバート",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "revert",
+    "co-mean": "Empty data",
+    "explain": "あるコミットを取り消して、新たにコミットを作成する。 たとえば、コミットによって新しいバグが生じた際、手作業でバグを直すのではなく、前バージョンからのリバートで元に戻して対応するなどの使い方がある"
+  },
+  {
+    "goi": "リベイス",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "rebase",
+    "co-mean": "Empty data",
+    "explain": "作業完了したブランチを分岐元のブランチに統合する"
+  },
+  {
+    "goi": "チェリーピック",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Cherry Pick",
+    "co-mean": "Empty data",
+    "explain": "特定のコミットだけを別ブランチに取り込む"
+  },
+  {
+    "goi": "フェッチ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "fetch",
+    "co-mean": "Empty data",
+    "explain": "リポジトリの最新情報を取得する。ほかの作業者の内容確認や内容統合前のチェックなどでマージしたくないときなどに使用。"
+  },
+  {
+    "goi": "スタッシュ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "stash",
+    "co-mean": "Empty data",
+    "explain": "作業途中で一時保存 (棚上げ) しておく。コミット準備ができていないときなどに使用。"
+  },
+  {
+    "goi": "コンフリクトマージコンフリクト",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "conflict merge conflict",
+    "co-mean": "Empty data",
+    "explain": "同じファイルの同じ箇所の変更が同時に起こること。たとえば、あるブランチでファイルを編集し、別のブランチでファイルを削除したときや、2つのブランチで同じ行を編集したときに起きる"
+  },
+  {
+    "goi": "チェックアウト",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "checkout",
+    "co-mean": "Empty data",
+    "explain": "違うファイル、コミット、ブランチに切り替えること"
+  },
+  {
+    "goi": "ダミー",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Mô hình; hình mẫu, thay thế",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "踏み台",
+    "kanji": "ĐẠP THAI",
+    "read": "ふみだい",
+    "mean": "IT: chỉ những server hoặc máy tính có bảo mật kém, bị chiếm quyền điều kiển phục vụ cho những mục đích bất chính (như spam mail server, ddos ...)",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "エクスポート",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "二転三転",
+    "kanji": "NHỊ CHUYỂN TAM CHUYỂN",
+    "read": "にてんさんてん",
+    "mean": "Lúc thế này lúc thế kia, thay đổi xoành xoạch",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "選択肢",
+    "kanji": "TUYỂN TRẠCH CHI",
+    "read": "せんたくし",
+    "mean": "Câu hỏi trắc nghiệm",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "続報",
+    "kanji": "TỤC BÁO",
+    "read": "ぞくほう",
+    "mean": "thông báo tiếp theo",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "後日、リリースタイミングを策定予定です。",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "概算見積",
+    "kanji": "Empty data",
+    "read": "がいさん",
+    "mean": "báo giá sơ bộ",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "通話",
+    "kanji": "Empty data",
+    "read": "つうわ",
+    "mean": "gọi điện thoại",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "プレミアムアカウント",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Tài khoản trả phí",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "設定を切り替える",
+    "kanji": "THIẾT ĐỊNH THIẾT THẾ",
+    "read": "Empty data",
+    "mean": "Thay đổi cài đặt",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "拠点",
+    "kanji": "CỨ ĐIỂM",
+    "read": "きょてん",
+    "mean": "văn phòng đại diện, cơ sở, Cơ sở sản xuất, cơ sở (cty) tại các nơi",
+    "co-mean": "Empty data",
+    "explain": "Một bệnh viện có nhiều cơ sở, 第一拠点、第二拠点 海外21カ国に22の拠点 22 văn phòng đại diện tại 21 nước trên thế giới"
+  },
+  {
+    "goi": "障害",
+    "kanji": "CHƯỚNG HẠI",
+    "read": "しょうがい",
+    "mean": "Bug (IT)",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "スタック",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Tổ hợp",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "UGCとは、「一般ユーザーによって作られたコンテンツ」",
+    "kanji": "NHẤT BÀN",
+    "read": "UGC（User Generated Contents＝ユーザー生成コンテンツ） ",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Gmail へのアクセス権を付与するユーザーを追加",
+    "kanji": "quyền phó dự",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Gmail へのアクセスを許可するユーザーのメールアドレスを入力",
+    "kanji": "HỨA KHẢ",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "データ連携",
+    "kanji": "LIÊN HUỀ",
+    "read": "データれんけい",
+    "mean": "Data linkage Liên kết dữ liệu",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "パラメータを渡す",
+    "kanji": "ĐỘ",
+    "read": "Empty data",
+    "mean": "truyền tham số",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "やり取り",
+    "kanji": "THỦ",
+    "read": "Empty data",
+    "mean": "giao dịch",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "コールバック",
+    "kanji": "Empty data",
+    "read": "call back",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "挙動制御",
+    "kanji": "CỬ ĐỘNG CHẾ NGỰ",
+    "read": "きょどうせいぎょ",
+    "mean": "kiểm soát hành động",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "引継ぎのプロセス",
+    "kanji": "DẪN KẾ",
+    "read": "Empty data",
+    "mean": "Quy trình bàn giao",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "受け入れテスト　＝受け入れ検証",
+    "kanji": "THỤ KIỂM CHỨNG",
+    "read": "Empty data",
+    "mean": " Test nghiệm thu",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "ポータル",
+    "kanji": "Empty data",
+    "read": "portal",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "喫食",
+    "kanji": "KHIẾT THỰC",
+    "read": "きっしょく",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "食事予約情報を同期するAPI",
+    "kanji": "THỰC SỰ DƯ ƯỚC TÍNH BÁO - ĐỒNG KÌ",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "並び順",
+    "kanji": "TỊNH THUẬN",
+    "read": "Sort",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "・呼出しタイミング",
+    "kanji": "HÔ XUẤT",
+    "read": "Call timing",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "取下げ",
+    "kanji": "THỦ HẠ",
+    "read": "とりさげ",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Sự khác nhau giữa 発生する và 生じる và 起きる",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "・発生する → vấn đề đã phát sinh ngoài dự tính",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "・生じる → về điều này có lo lắng sẽ phát sinh vấn đề này",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "・起きる → dùng được cho cả 2 trường hợp",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Ví dụ :",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "思いがけない損失が発生した → Tổn thất đã xảy ra rồi",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "損失が生じる可能性がある → Dự tính có khả năng phá",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "進捗",
+    "kanji": "TIẾN DUỆ",
+    "read": "Empty data",
+    "mean": "tiến độ công việc (IT) Progress",
+    "co-mean": "Empty data",
+    "explain": "進捗状況進捗会　họp tiến độ "
+  },
+  {
+    "goi": "進行",
+    "kanji": "TIẾN HÀNH",
+    "read": "しんこう",
+    "mean": "Đi tới | Tiến độ | Tiến triển ( xấu)",
+    "co-mean": "Empty data",
+    "explain": "進行表:bản tiến độ công việc | 進行状況:quá trình tiến triển"
+  },
+  {
+    "goi": "進歩",
+    "kanji": "TIẾN BỘ",
+    "read": "しんぽ",
+    "mean": "Tiến bộ",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "進度",
+    "kanji": "TIẾN ĐỘ",
+    "read": "Empty data",
+    "mean": "tiến độ ",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "基本設計",
+    "kanji": "CƠ BỔN THIẾT KẾ",
+    "read": "Empty data",
+    "mean": "Thiết kế cơ bản",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "詳細設計",
+    "kanji": "TƯỜNG TẾ THIẾT KẾ",
+    "read": "Empty data",
+    "mean": "Thiết kế chi tiết",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "製造(Coding)",
+    "kanji": "CHẾ TẠO",
+    "read": "Empty data",
+    "mean": "Chế tác (Coding)",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "単体テスト",
+    "kanji": "ĐƠN THỂ",
+    "read": "Empty data",
+    "mean": "Kiểm thử đơn vị",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "結合テスト",
+    "kanji": "KẾT HỢP",
+    "read": "Empty data",
+    "mean": "Kiểm thử tích hợp",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "権限を請求する",
+    "kanji": "QUYỀN HẠN THỈNH CẦU",
+    "read": "請求: せいきゅう",
+    "mean": "yêu cầu cấp quyền",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "要件定義書",
+    "kanji": "YÊU KIỆN ĐỊNH NGHĨA THƯ",
+    "read": "Empty data",
+    "mean": "bản định nghĩa yêu cầu, tài liệu yêu cầu mô tả",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "要求分析（要件定義）",
+    "kanji": "YẾU CẦU PHÂN TÍCH (YẾU KIỆN ĐỊNH NGHĨA)",
+    "read": "Empty data",
+    "mean": "𝗣𝗵𝗮̂𝗻 𝘁𝗶́𝗰𝗵 𝘆𝗲̂𝘂 𝗰𝗮̂̀𝘂",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "・要求分析書（要件定義書）",
+    "kanji": "YÊU CẦU PHÂN TÍCH THƯ ( YÊU KIỆN ĐỊNH NGHĨA THƯ)",
+    "read": "Empty data",
+    "mean": "Tài liệu phân tích yêu cầu",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "基本設計（外部設計）",
+    "kanji": "CƠ BỔN THIẾT KẾ (NGOẠI BỘ THIẾT KẾ)",
+    "read": "Empty data",
+    "mean": "𝗧𝗵𝗶𝗲̂́𝘁 𝗸𝗲̂́ 𝗰𝗼̛ 𝗯𝗮̉𝗻",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "・業務フロー ",
+    "kanji": "NGHIỆP VỤ",
+    "read": "Empty data",
+    "mean": "Flow nghiệp vụ",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "・システム構成図  ",
+    "kanji": "CẤU THÀNH ĐỒ",
+    "read": "Empty data",
+    "mean": "Sơ đồ cấu trúc hệ thống",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "・ER図  ",
+    "kanji": "ĐỒ",
+    "read": "Empty data",
+    "mean": "Sơ đồ ER (Sơ đồ quan hệ)",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "・テーブル定義書　",
+    "kanji": "ĐỊNH NGHĨA THƯ",
+    "read": "Empty data",
+    "mean": "Tài liệu định nghĩa database",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "・機能一覧表　",
+    "kanji": "KI NĂNG NHẤT LÃM BỘ",
+    "read": "Empty data",
+    "mean": "Danh sách chức năng",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "・基本設計書　",
+    "kanji": "CƠ BẢN THIẾT KẾ THƯ",
+    "read": "Empty data",
+    "mean": "Tài liệu thiết kế cơ bản",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "詳細設計（内部設計）",
+    "kanji": "TƯỜNG TẾ THIẾT KẾ (NỘI BỘ THIẾT KẾ)",
+    "read": "Empty data",
+    "mean": "𝗧𝗵𝗶𝗲̂́𝘁 𝗸𝗲̂́ 𝗰𝗵𝗶 𝘁𝗶𝗲̂́𝘁",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "・画面遷移図　",
+    "kanji": "HỌA DIỆN THIÊN DI ĐỒ",
+    "read": "Empty data",
+    "mean": "Sơ đồ di chuyển màn hình",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "・詳細設計書（内部設計書）",
+    "kanji": "TƯỜNG TẾ THIẾT KẾ THƯ",
+    "read": "Empty data",
+    "mean": "Tài liệu thiết kế chi tiết",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "・プロジェクト共通ルール　",
+    "kanji": "CỘNG THÔNG",
+    "read": "Empty data",
+    "mean": "Quy tắc chung trong dự án",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "プログラミング　",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "𝗖𝗼𝗱𝗲",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "・コーディング規約　",
+    "kanji": "QUY ƯỚC",
+    "read": "Empty data",
+    "mean": "Quy tắc code (coding convention)",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "単体テスト",
+    "kanji": "ĐƠN THỂ",
+    "read": "Empty data",
+    "mean": " 𝗨𝗻𝗶𝘁 𝘁𝗲𝘀𝘁 / 𝗧𝗲𝘀𝘁 𝗰𝗵𝘂̛́𝗰 𝗻𝗮̆𝗻𝗴, 𝗸𝗶𝗲̂̉𝗺 𝘁𝗿𝗮 𝗺𝘂̛́𝗰 đ𝗼̛𝗻 𝘃𝗶̣ ( 𝗨𝗻𝗶𝘁 )",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "・単体テスト仕様書　",
+    "kanji": "SĨ DẠNG THƯ",
+    "read": "Empty data",
+    "mean": "Testcase Unit test",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "・単体テスト報告書   ",
+    "kanji": "BÁO CÁO THƯ",
+    "read": "Empty data",
+    "mean": " Báo cáo Unit test",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "結合テスト  ",
+    "kanji": "KẾT HỢP",
+    "read": "Empty data",
+    "mean": " 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻 𝘁𝗲𝘀𝘁/𝗰𝗼𝗺𝗯𝗶𝗻𝗮𝘁𝗶𝗼𝗻 𝘁𝗲𝘀𝘁 / 𝗧𝗲𝘀𝘁 𝘁𝗶́𝗰𝗵 𝗵𝗼̛̣𝗽",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "・結合テスト仕様書　",
+    "kanji": "SĨ DẠNG THƯ",
+    "read": "Empty data",
+    "mean": "Testcase test tích hợp",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "・結合テスト報告書　",
+    "kanji": "BÁO CÁO THƯ",
+    "read": "Empty data",
+    "mean": "Báo cáo test tích hợp",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "総合テスト ",
+    "kanji": "TỔNG HỢP",
+    "read": "Empty data",
+    "mean": "𝗦𝘆𝘀𝘁𝗲𝗺 𝘁𝗲𝘀𝘁 / 𝗧𝗲𝘀𝘁 𝗵𝗲̣̂ 𝘁𝗵𝗼̂́𝗻𝗴",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "・総合テスト仕様書　",
+    "kanji": "TỔNG HỢP",
+    "read": "Empty data",
+    "mean": "Testcase System test　",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "・総合テスト報告書",
+    "kanji": "TỔNG HỢP",
+    "read": "Empty data",
+    "mean": "Báo cáo System test",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "システムテスト",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": " System test.",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": " 障害 (しょうがい)",
+    "kanji": "CHƯỚNG HẠI",
+    "read": "Empty data",
+    "mean": "Hệ thống bị chạy sai, hỏng dữ liệu do lỗi hệ thống.",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "不具合（ふぐあい）",
+    "kanji": "BẤT CỤ HỢP",
+    "read": "Empty data",
+    "mean": "Lỗi, bug.",
+    "co-mean": "Empty data",
+    "explain": "不具合を対応します"
+  },
+  {
+    "goi": "バグ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "(bug)",
+    "co-mean": "Empty data",
+    "explain": "バグを調査する"
+  },
+  {
+    "goi": "エラー(error)",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "エラーが発生しました。"
+  },
+  {
+    "goi": "例外 (exception)",
+    "kanji": "LỆ NGOẠI",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": " データベース  (DB)",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Cơ sở dữ liệu (database)"
+  },
+  {
+    "goi": "テーブル",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Bảng (table)"
+  },
+  {
+    "goi": "外部キー  (FK)",
+    "kanji": "NGOẠI BỘ",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Khóa ngoại."
+  },
+  {
+    "goi": "エンティティ  (実体)",
+    "kanji": "THỰC THỂ",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": " entity"
+  },
+  {
+    "goi": "主キー  (PK)",
+    "kanji": "chủ",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Khóa chính"
+  },
+  {
+    "goi": "コラム (列)",
+    "kanji": "LIỆT",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Cột"
+  },
+  {
+    "goi": "行",
+    "kanji": "HÀNH",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": " Hàng"
+  },
+  {
+    "goi": "レコード",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Dữ liệu (record)"
+  },
+  {
+    "goi": "フィルード",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": " Trường, miền, phạm vi (field)"
+  },
+  {
+    "goi": "リレーショナル",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Có quan hệ (relational)"
+  },
+  {
+    "goi": "降順",
+    "kanji": "HÀNG THUẬN",
+    "read": "こうじゅん",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Sắp xếp giảm dần"
+  },
+  {
+    "goi": "昇順",
+    "kanji": "THĂNG THUẬN",
+    "read": "しょうじゅん",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Sắp xếp tăng dần"
+  },
+  {
+    "goi": "要件定義",
+    "kanji": "YẾU KIỆN ĐỊNH NGHĨA",
+    "read": "ようけんていぎ",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Requirement definition / Mô tả yêu cầu"
+  },
+  {
+    "goi": "ヒアリング",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Hearing/ Họp trao đổi"
+  },
+  {
+    "goi": "修正する",
+    "kanji": "TU CHÁNH",
+    "read": "しゅうせいする",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Sửa"
+  },
+  {
+    "goi": "デプロイ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Deploy/ triển khai tiến hành sử dụng phần mềm hoàn thiện trong môi trường ứng dụng thực tế"
+  },
+  {
+    "goi": "本番ローンチ",
+    "kanji": "BỔN PHIÊN",
+    "read": "ほんばんろーんち",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Production launch"
+  },
+  {
+    "goi": "納品",
+    "kanji": "NẠP PHẨM",
+    "read": "のうひん",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Giao hàng/ bàn giao sản phẩm cho khách hàng"
+  },
+  {
+    "goi": "メインテナンス ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Maintenance ( nâng cấp, chỉnh sửa, duy trì)"
+  },
+  {
+    "goi": "本番環境",
+    "kanji": "BỔN PHIÊN HOÀN CẢNH",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "môi trường product"
+  },
+  {
+    "goi": "URLを踏む",
+    "kanji": "ĐẠP",
+    "read": "Empty data",
+    "mean": " tiến hành URL",
+    "co-mean": "Empty data",
+    "explain": "URLを踏むと、パスワード再設定画面。変更サンクス。Nếu click vào URL thì xuất hiện MH reset PW URL là dạng viết tắt của Uniform Resource Locator, URL là vị trí của một trang web, trang hoặc tệp cụ thể trên Internet"
+  },
+  {
+    "goi": "太字・イタリック・取り消し線・引用・段落",
+    "kanji": "THÁI TỰ - ĐOẠN LẠC",
+    "read": "Empty data",
+    "mean": "In đậm・in nghiêng・gạch ngang・trích dẫn・đoạn văn.",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "消去",
+    "kanji": "TIÊU KHỨ",
+    "read": "しょうきょ",
+    "mean": "xoá toàn bộ ",
+    "co-mean": "Empty data",
+    "explain": "消去:xoá hết 削除:xoá 1 phần nào đó"
+  },
+  {
+    "goi": "制約",
+    "kanji": "CHẾ ƯỚC",
+    "read": "せいやく",
+    "mean": "「IT」Constraint: Ràng buộc Ràng buộc, bị giới hạn",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "ナビゲーション",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "điều hướng、Bảng điều hướng ( chỉ đường、",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "雛形",
+    "kanji": "SỒ HÌNH",
+    "read": "ひながた",
+    "mean": "Mẫu, mô hình nhỏ",
+    "co-mean": "Empty data",
+    "explain": "がんしょを雛形ひながたの通とおり認したためる。Tạo đơn theo mẫu có sẵn."
+  },
+  {
+    "goi": "モックフェーズ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Giai đoạn giả lập",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "バーグラフ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "thanh biểu đồ",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "保持",
+    "kanji": "BẢO TRÌ",
+    "read": "ほじ",
+    "mean": "IT: giữ, bảo trì",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "定数",
+    "kanji": "ĐỊNH SỔ",
+    "read": "ていすう",
+    "mean": "hằng số/ constant",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "APIを呼び出す",
+    "kanji": "HÔ XUẤT",
+    "read": "Empty data",
+    "mean": "call API",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "アクセストークンを取得します",
+    "kanji": "THỦ ĐẮC",
+    "read": "Empty data",
+    "mean": "Lấy access token",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "BEがMillviAPIを呼び出す要求を処理",
+    "kanji": "YẾU CẦU - XỨ LÍ",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "塩味  ",
+    "kanji": "DIÊM VỊ",
+    "read": "しおあじ",
+    "mean": "vị mặn",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "甘味  ",
+    "kanji": "CAM VỊ",
+    "read": "あまみ",
+    "mean": "vị ngọt",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "酸味",
+    "kanji": "TOAN VỊ",
+    "read": "さんみ",
+    "mean": "  vị chua",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "苦味",
+    "kanji": "KHỔ VỊ",
+    "read": " にがみ",
+    "mean": " vị đắng",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "うま味",
+    "kanji": "vị",
+    "read": " うまみ",
+    "mean": " vị mì chính",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "IT: 活性: active,",
+    "kanji": "HOẠT TÍNH",
+    "read": "かっせい",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "非活性: inactive",
+    "kanji": "PHI HOẠT TÍNH",
+    "read": "Empty data",
+    "mean": "Không hoạt động",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "ラジオボタン",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "radio buton",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "メンバーが担当者に設定されている",
+    "kanji": "ĐẢM ĐƯƠNG GIẢ",
+    "read": "Empty data",
+    "mean": "member được set cho làm task worker",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "未設定",
+    "kanji": "VỊ THIẾT ĐỊNH",
+    "read": "Empty data",
+    "mean": "chưa thiết lập, chưa đặt",
+    "co-mean": "Empty data",
+    "explain": "開始日を未設定にする: start date chưa thiết lập"
+  },
+  {
+    "goi": "現在日付を開始日に設定する",
+    "kanji": "HIỆN TẠI NHẬT PHÓ - KHAI THỦY NHẬT",
+    "read": "Empty data",
+    "mean": "đặt ngày hiện tại thành start date",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "引用",
+    "kanji": "DẪN DỤNG",
+    "read": "Empty data",
+    "mean": "quote (trích dẫn)",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "ステータスを未着手に更新する",
+    "kanji": "VỊ TRỨ THỦ - CANH TÂN",
+    "read": "Empty data",
+    "mean": "update status là 未着手 (chưa làm) ",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "自動",
+    "kanji": "TỰ ĐỘNG",
+    "read": "Empty data",
+    "mean": "auto",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "期限 ",
+    "kanji": "KÌ HẠN",
+    "read": "Empty data",
+    "mean": "Due date",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "レイアウト",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "layout",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "コンテンツ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "content",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "契約",
+    "kanji": "KHẾ ƯỚC",
+    "read": "Empty data",
+    "mean": "contract",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "クリア",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "clear",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "前ページ",
+    "kanji": "TIỀN",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "一つ前のページのタスク情報を表示する",
+    "kanji": "TÌNH BÁO",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "次ページ",
+    "kanji": "THỨ ",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "一つ後のページのタスク情報を表示する",
+    "kanji": "BIỂU KÌ",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "入力桁",
+    "kanji": "NHẬP LỰC HÀNH",
+    "read": "にゅうりょくけた",
+    "mean": "chuỗi input, dãy input",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "読み取りモード",
+    "kanji": "ĐỘC THỦ",
+    "read": "Empty data",
+    "mean": "Read mode",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "編集モード",
+    "kanji": "BIÊN TẬP",
+    "read": "Empty data",
+    "mean": "Edit mode",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "差分",
+    "kanji": "SOA PHÂN",
+    "read": "さぶん",
+    "mean": "Sự khác nhau, khác biệt (giữa trước và sau khi thay đổi)",
+    "co-mean": "Empty data",
+    "explain": "環境差分: Khác môi trườngCoppy theo từng thư mục. Trong IT khi deliver code người ta thường copy cả source code chỉ chứa những file đã sửa."
+  },
+  {
+    "goi": "キャプチャー",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "Capture (ảnh chụp màn hình)",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "初期化",
+    "kanji": "SƠ KÌ HÓA",
+    "read": "しょきか",
+    "mean": "init it: initialize: giá trị khởi tạo | Recovery: khôi phục lại cài đặt mặc định | mặc định lại thiết đặt nguyên sơ nhà sản xuất.(điện thoại)",
+    "co-mean": "Empty data",
+    "explain": "init develop to develope | khởi tạo develop sang develope"
+  },
+  {
+    "goi": "Valiadate",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "xác thực, kiểm tra phù hợp của dữ liệu",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "再現する",
+    "kanji": "TÁI HIỆN",
+    "read": "Empty data",
+    "mean": "reproduce, tái hiện",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "タスク一覧からタスク詳細への画面遷移 ",
+    "kanji": "NHẤT LÃM",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "不正報告",
+    "kanji": "BẤT CHÍNH BÁO CÁO",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "オートリプライ",
+    "kanji": "Empty data",
+    "read": "auto reply ",
+    "mean": "Empty data",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "収集",
+    "kanji": "THU TẬP",
+    "read": "しゅうしゅう",
+    "mean": "thu thập tài liệu, thông tin, ",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "関連リンク ",
+    "kanji": "QUAN LIÊN",
+    "read": "Empty data",
+    "mean": "Link liên kết ",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "サブドメ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "miền phụ",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "操作",
+    "kanji": "THAO TÁC",
+    "read": "そうさ",
+    "mean": "thao tác",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "改行",
+    "kanji": "CẢI HÀNH",
+    "read": "かいぎょう",
+    "mean": "Dấu xuống dòng Dấu xuống dòng (Line break)",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "喚起",
+    "kanji": "HOÁN KHỞI",
+    "read": "かんき",
+    "mean": "warn: cảnh báo",
+    "co-mean": "Empty data",
+    "explain": "注意喚起 tạo sự chú ý!!!"
+  },
+  {
+    "goi": "構成 ",
+    "kanji": "CẤU THÀNH",
+    "read": "Empty data",
+    "mean": ":IT configuration, cáu hình",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "ソースアドレス ",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": "source adress",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "読み込みをする",
+    "kanji": "ĐỘC",
+    "read": "Empty data",
+    "mean": "đọc",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "フレーム",
+    "kanji": "Empty data",
+    "read": "Empty data",
+    "mean": " Khung",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "伝送",
+    "kanji": "TRUYỀN TỐNG",
+    "read": "でんそう",
+    "mean": "truyền đi",
+    "co-mean": "Empty data",
+    "explain": "コンピュータデータの高速伝送 Truyền dữ liệu máy tính với tốc độ cao."
+  },
+  {
+    "goi": "複製",
+    "kanji": "PHỨC CHẾ",
+    "read": "ふくせい",
+    "mean": "Empty data",
+    "co-mean": "IT: Duplicate",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "複製元",
+    "kanji": "PHỨC CHẾ NGUYÊN",
+    "read": "Empty data",
+    "mean": "nguồn copy",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "挿入そうにゅう",
+    "read": "SÁP NHẬP",
+    "mean": "Chèn",
+    "co-mean": "Insert",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "境界線 きょうかいせん",
+    "read": "CẢNH GIỚI TUYẾN",
+    "mean": "Ranh giới",
+    "co-mean": "Border",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "フォーマット",
+    "read": "Empty data",
+    "mean": "Định dạng",
+    "co-mean": "Format",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "印刷 いんさつ",
+    "read": "ẤN XOÁT",
+    "mean": "In ấn",
+    "co-mean": "Print",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "置換 ちかん",
+    "read": "TRÍ HOÁN",
+    "mean": "Thay thế",
+    "co-mean": "Replace",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "選択 せんたく",
+    "read": "TUYỂN TRẠCH",
+    "mean": "Lựa chọn",
+    "co-mean": "Selection",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "上書き うわがき",
+    "read": "THƯỢNG THƯ",
+    "mean": "Ghi đè",
+    "co-mean": "Overwrite",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "グリッド",
+    "read": "Empty data",
+    "mean": "Lưới",
+    "co-mean": "Grid",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "フォント",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Font",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "デザイン",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Design",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "レイアウト",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Layout",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "センター",
+    "read": "Empty data",
+    "mean": "Chính giữa",
+    "co-mean": "Center",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "グラフ",
+    "read": "Empty data",
+    "mean": "Biểu đồ",
+    "co-mean": "Graph",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "書き込む かきこむ",
+    "read": "THƯ ",
+    "mean": "Viết",
+    "co-mean": "Write",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "欄 らん",
+    "read": "LAN",
+    "mean": "Cột",
+    "co-mean": "Column",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "コラム",
+    "read": "Empty data",
+    "mean": "Cột",
+    "co-mean": "Column",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "改行 かいぎょう",
+    "read": "CẢI HÀNH",
+    "mean": "Xuống dòng",
+    "co-mean": "Line break",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "文字 もじ",
+    "read": "VĂN TỰ",
+    "mean": "Chữ",
+    "co-mean": "Character",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "大文字 おおもじ",
+    "read": "ĐẠI VĂN TỰ",
+    "mean": "Chữ hoa",
+    "co-mean": "Uppercase",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "小文字 こもじ",
+    "read": "TIỂU VĂN TỰ",
+    "mean": "Chữ thường",
+    "co-mean": "Lowercase",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "形式 けいしき",
+    "read": "HÌNH THỨC",
+    "mean": "Định dạng",
+    "co-mean": "Format",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "インデント",
+    "read": "Empty data",
+    "mean": "Thụt dòng",
+    "co-mean": "Indent",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "メモ",
+    "read": "Empty data",
+    "mean": "Ghi chú lại",
+    "co-mean": "Memo",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "サイズ",
+    "read": "Empty data",
+    "mean": "Kích thước",
+    "co-mean": "Size",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "スタイル",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Style",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "全角文字 ぜんかくもじ",
+    "read": "TOÀN GIÁC VĂN TỰ",
+    "mean": "Empty data",
+    "co-mean": "Full-width character",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "プレビュー",
+    "read": "Empty data",
+    "mean": "Xem trước",
+    "co-mean": "Preview",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "半角文字 はんかくもじ",
+    "read": "BÁN GIÁC VĂN TỰ",
+    "mean": "Empty data",
+    "co-mean": "Half-width character",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "文字化け もじばけ",
+    "read": "VĂN TỰ HÓA",
+    "mean": "Vỡ font chữ",
+    "co-mean": "Garbled",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "エディター",
+    "read": "Empty data",
+    "mean": "Trình soạn thảo",
+    "co-mean": "Editor",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ボールド",
+    "read": "Empty data",
+    "mean": "In đậm",
+    "co-mean": "Bold",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "イタリック",
+    "read": "Empty data",
+    "mean": "In nghiêng",
+    "co-mean": "Italic",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "アンダーライン",
+    "read": "Empty data",
+    "mean": "Gạch chân",
+    "co-mean": "Underline",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "左揃え ひだりそろえ",
+    "read": "TẢ TIỄN",
+    "mean": "Canh trái",
+    "co-mean": "Left justification",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "右揃え みぎそろえ",
+    "read": "HỮU TIỄN",
+    "mean": "Canh phải",
+    "co-mean": "Right justification",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "中央揃え ちゅうおうそろえ",
+    "read": "TRUNG ƯƠNG TIỄN",
+    "mean": "Canh giữa",
+    "co-mean": "Centering",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "空欄 くうらん",
+    "read": "KHÔNG LAN",
+    "mean": "Chỗ trống",
+    "co-mean": "Blank space",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "両端揃え りょうたんそろえ",
+    "read": "LƯỠNG ĐOAN TIỄN",
+    "mean": "Canh đều",
+    "co-mean": "Full justification",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "記入 きにゅう",
+    "read": "KÍ NHẬP",
+    "mean": "Ghi chép",
+    "co-mean": "Record",
+    "explain": "-"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "有理数 ゆうりすう",
+    "read": "HỮU LÍ SỔ",
+    "mean": "Số hữu tỷ",
+    "co-mean": "Rational number",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "複素数 ふくそすう",
+    "read": "PHỨC TỐ SỔ",
+    "mean": "Số phức",
+    "co-mean": "Complex number",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "シンボル",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Symbol",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "格納領域 かくのうりょういき",
+    "read": "CÁCH NẠP LĨNH VỰC",
+    "mean": "Vùng lưu trữ",
+    "co-mean": "Storage area",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "レコード",
+    "read": "Empty data",
+    "mean": "Bản ghi",
+    "co-mean": "Record",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "マルチテナント",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Multitenancy",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "データ連携 データれんけい",
+    "read": "LIÊN HUỀ",
+    "mean": "Liên kết dữ liệu",
+    "co-mean": "Data linkage",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ビット",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Bit",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "バイト",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Byte",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "キロバイト",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Kilobyte",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "メガバイト",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Megabyte",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ギガバイト",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Gigabyte",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "テラバイト",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Terabyte",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "データタイプ",
+    "read": "Empty data",
+    "mean": "Kiểu dữ liệu",
+    "co-mean": "Data type",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ハッシュ",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Hash",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "文字列 もじれつ",
+    "read": "VĂN TỰ LIỆT",
+    "mean": "Chuỗi ký tự",
+    "co-mean": "String",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "リレーションシップ",
+    "read": "Empty data",
+    "mean": "Mối quan hệ",
+    "co-mean": "Relationship",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "データベース",
+    "read": "Empty data",
+    "mean": "Cơ sở dữ liệu",
+    "co-mean": "Database",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "データ",
+    "read": "Empty data",
+    "mean": "Dữ liệu",
+    "co-mean": "Data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "リファレンス",
+    "read": "Empty data",
+    "mean": "Sự quan hệ",
+    "co-mean": "Reference",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "クエリー",
+    "read": "Empty data",
+    "mean": "Chất vấn",
+    "co-mean": "Query",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "配列 はいれつ",
+    "read": "PHỐI LIỆT",
+    "mean": "Mảng",
+    "co-mean": "Array",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "数値 すうち",
+    "read": "SỔ TRỊ",
+    "mean": "Giá trị số",
+    "co-mean": "Numerical value",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "論理値 ろんりち",
+    "read": "LUẬN LÍ TRỊ",
+    "mean": "Giá trị true false",
+    "co-mean": "Logical value",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "整数 せいすう",
+    "read": "CHỈNH SỔ",
+    "mean": "Số nguyên",
+    "co-mean": "Integer",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "数字 すうじ",
+    "read": "SỔ TỰ",
+    "mean": "Chữ số",
+    "co-mean": "Numeral",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "基数 きすう",
+    "read": "CƠ SỔ",
+    "mean": "Cơ số",
+    "co-mean": "Cardinal number",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "2進数 2しんすう",
+    "read": "TIẾN SỔ",
+    "mean": "Cơ số 2",
+    "co-mean": "Binary",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "8進数 8しんすう",
+    "read": "TIẾN SỔ",
+    "mean": "Cơ số 8",
+    "co-mean": "Octal",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "10進数 10しんすう",
+    "read": "TIẾN SỔ",
+    "mean": "Cơ số 10",
+    "co-mean": "Decimal",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "16進数 16しんすう",
+    "read": "TIẾN SỔ",
+    "mean": "Cơ số 16",
+    "co-mean": "Hexadecimal",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "オペレーター",
+    "read": "Empty data",
+    "mean": "Người trực tổng đài",
+    "co-mean": "Operator",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "疎通不具合 そつうふぐあい",
+    "read": "SƠ THÔNG BẤT CỤ HỢP",
+    "mean": "Lỗi kết nối",
+    "co-mean": "Communication failure",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "遠隔えんかく",
+    "read": "Empty data",
+    "mean": "Từ xa",
+    "co-mean": "Remote",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "IPアドレス",
+    "read": "Empty data",
+    "mean": "Địa chỉ IP",
+    "co-mean": "Ip address",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ネームサーバーアドレス",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Name server address",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "送り手 おくりて",
+    "read": "TỐNG THỦ",
+    "mean": "Bên gửi",
+    "co-mean": "Sending side",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ローカルホスト",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Localhost",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ソケット",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Socket",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ポート",
+    "read": "Empty data",
+    "mean": "Cổng",
+    "co-mean": "Port",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "リクエストヘッダ",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Request header",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "リクエストボディ",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Request body",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "レスポンスヘッダ",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Response header",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "レスポンスボディ",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Response body",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "プロキシ",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Proxy",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ストリーム",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Stream",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "受けて うけて",
+    "read": "THỤ",
+    "mean": "Bên nhận",
+    "co-mean": "Receiving side",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "光ファイバ ひかりファイバ",
+    "read": "QUANG",
+    "mean": "Cáp quang",
+    "co-mean": "Fiber Optics",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "インターネット",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Internet",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "接続 せつぞく",
+    "read": "TIẾP TỤC",
+    "mean": "Kết nối",
+    "co-mean": "Connect",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "プロトコル",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Protocol",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "コネクト",
+    "read": "Empty data",
+    "mean": "Kết nối",
+    "co-mean": "Connect",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "内線番号 ないせんばんごう",
+    "read": "NỘI TUYẾN PHIÊN HÀO",
+    "mean": "Số nội tuyến",
+    "co-mean": "Internal number",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ホスト",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Host",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "オンライン",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Online",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "オフライン",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Offline",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "連動 れんどう",
+    "read": "LIÊN ĐỘNG",
+    "mean": "Liên kết",
+    "co-mean": "Link",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "無線 むせん",
+    "read": "VÔ TUYẾN",
+    "mean": "Không dây",
+    "co-mean": "Wireless",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "有線 ゆうせん",
+    "read": "HỮU TUYẾN",
+    "mean": "Có dây",
+    "co-mean": "Wire",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ブルーツース",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Bluetooth",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "通話 つうわ",
+    "read": "THÔNG THOẠI",
+    "mean": "Gọi điện",
+    "co-mean": "Telephone call",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "サーバー",
+    "read": "Empty data",
+    "mean": "Máy chủ",
+    "co-mean": "Server",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ドメイン",
+    "read": "Empty data",
+    "mean": "Tên miền",
+    "co-mean": "Domain",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ネットワーク",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Network",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "脆弱性 ぜいじゃくせい",
+    "read": "THÚY NHƯỢC TÍNH",
+    "mean": "Lỗ hổng",
+    "co-mean": "Vulnerability",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "証明書 しょうめいしょ",
+    "read": "CHỨNG MINH THƯ",
+    "mean": "Giấy chứng nhận",
+    "co-mean": "Certificate",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "個人情報 こじんじょうほう",
+    "read": "CÁ NHÂN TÌNH BÁO",
+    "mean": "Thông tin cá nhân",
+    "co-mean": "Persional Information",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ハッキング",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Hacking",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "暗号化 あんごうか",
+    "read": "ÁM HÀO HÓA",
+    "mean": "Mã hóa",
+    "co-mean": "Encrypt",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "デジタル署名 デジタルしょめい",
+    "read": "THỰ DANH",
+    "mean": "Chữ ký điện tử",
+    "co-mean": "Digital Signature",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "認証 にんしょう",
+    "read": "NHẬN CHỨNG",
+    "mean": "Chứng nhận",
+    "co-mean": "Certification",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "暗証番号 あんしょうばんごう",
+    "read": "ÁM CHỨNG PHIÊN HÀO",
+    "mean": "Mã số bảo vệ",
+    "co-mean": "Password Number",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "アラート",
+    "read": "Empty data",
+    "mean": "Thông báo",
+    "co-mean": "Alert",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "アラーム",
+    "read": "Empty data",
+    "mean": "Báo động",
+    "co-mean": "Alarm",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "クレジットカード",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Credit card",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "デビットカード",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Debit card",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "パスワード",
+    "read": "Empty data",
+    "mean": "Mật khẩu",
+    "co-mean": "Password",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "復号化 ふくごうか",
+    "read": "PHỤC HÀO HÓA",
+    "mean": "Giải mã",
+    "co-mean": "Decrypt",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "アカウント",
+    "read": "Empty data",
+    "mean": "Tài khoản",
+    "co-mean": "Account",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "位置情報 いちじょうほう",
+    "read": "VỊ TRÍ TÌNH BÁO",
+    "mean": "Thông tin địa điểm",
+    "co-mean": "Location information",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "許可 きょか",
+    "read": "HỨA KHẢ",
+    "mean": "Cho phép",
+    "co-mean": "Allow",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "情報 じょうほう",
+    "read": "TÌNH BÁO",
+    "mean": "Thông tin địa điểm",
+    "co-mean": "Information",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "警告 けいこく",
+    "read": "CẢNH CÁO",
+    "mean": "Cảnh báo",
+    "co-mean": "Warning",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ライセンス",
+    "read": "Empty data",
+    "mean": "Giấy phép",
+    "co-mean": "License",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ウイルス",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Virus",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "セキュリティー",
+    "read": "Empty data",
+    "mean": "Bảo mật",
+    "co-mean": "Security",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "権限 けんげん",
+    "read": "QUYỀN HẠN",
+    "mean": "Quyền hạn",
+    "co-mean": "Authority",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "共有フォルダ きょうゆうフォルダ",
+    "read": "CỘNG HỮU",
+    "mean": "Thư mục chia sẻ",
+    "co-mean": "Shared Folder",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "共有ファイル きょうゆうファイル",
+    "read": "CỘNG HỮU",
+    "mean": "File chia sẻ",
+    "co-mean": "Shared File",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "隠しファイル かくしファイル",
+    "read": "ẨN",
+    "mean": "File ẩn",
+    "co-mean": "Hidden File",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "拡張子 かくちょうし",
+    "read": "KHUẾCH TRƯƠNG TỬ",
+    "mean": "Đuôi file",
+    "co-mean": "Extension",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "アドイン",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Add-in",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "プラグイン",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Plugin",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ツール",
+    "read": "Empty data",
+    "mean": "Công cụ",
+    "co-mean": "Tool",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ランチャー",
+    "read": "Empty data",
+    "mean": "Trình khởi chạy",
+    "co-mean": "Launcher",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "アプリケーション",
+    "read": "Empty data",
+    "mean": "Ứng dụng",
+    "co-mean": "Application",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "フォルダー",
+    "read": "Empty data",
+    "mean": "Thư mục",
+    "co-mean": "Folder",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "アプリケーション",
+    "read": "Empty data",
+    "mean": "Ứng dụng",
+    "co-mean": "App",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ファイル",
+    "read": "Empty data",
+    "mean": "Tập tin",
+    "co-mean": "File",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "メモ帳 メモちょう",
+    "read": "TRƯỚNG",
+    "mean": "Empty data",
+    "co-mean": "Notepad",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "カーソル",
+    "read": "Empty data",
+    "mean": "con trỏ",
+    "co-mean": "Cursor",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "オン",
+    "read": "Empty data",
+    "mean": "Mở",
+    "co-mean": "On",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "オフ",
+    "read": "Empty data",
+    "mean": "Tắt",
+    "co-mean": "Off",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "テキストエディタ",
+    "read": "Empty data",
+    "mean": "Trình soạn thảo văn bản",
+    "co-mean": "Text editor",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "デバイス",
+    "read": "Empty data",
+    "mean": "Thiết bị",
+    "co-mean": "Device",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "オペレーティングシステム",
+    "read": "Empty data",
+    "mean": "Hệ điều hành",
+    "co-mean": "Operation system",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "システム",
+    "read": "Empty data",
+    "mean": "Hệ thống",
+    "co-mean": "System",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ギャラリー",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Gallery",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ディレクトリ",
+    "read": "Empty data",
+    "mean": "Đường dẫn thư mục",
+    "co-mean": "Directory",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "管理者 かんりしゃ",
+    "read": "QUẢN LÍ GIẢ",
+    "mean": "Người quản lý",
+    "co-mean": "Administrator",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "キャッシュ",
+    "read": "Empty data",
+    "mean": "Bộ nhớ đệm",
+    "co-mean": "Cache",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "モデレーター",
+    "read": "Empty data",
+    "mean": "Người điều hành",
+    "co-mean": "Moderator",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "インターネットエクスプローラー",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Internet explorer",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "バッチ",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Batch",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "コマンドプロンプト",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Command prompt",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "リードミー",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Readme",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ターミナル",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Terminal",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "電卓 でんたく",
+    "read": "ĐIỆN TRÁC",
+    "mean": "Máy tính",
+    "co-mean": "Calculator",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ペイント",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Paint",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ショートカット",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "ショートカット",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "スクリーンショット",
+    "read": "Empty data",
+    "mean": "Ảnh chụp màn hình",
+    "co-mean": "Screenshot",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "スクショ",
+    "read": "Empty data",
+    "mean": "Ảnh chụp màn hình",
+    "co-mean": "Screenshot",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ボリューム",
+    "read": "Empty data",
+    "mean": "Âm lượng",
+    "co-mean": "Volume",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "電源 でんげん",
+    "read": "ĐIỆN NGUYÊN",
+    "mean": "Nguồn điện",
+    "co-mean": "Power",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "セーフモード",
+    "read": "Empty data",
+    "mean": "Chế độ an toàn",
+    "co-mean": "Safe mode",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ポインタ",
+    "read": "Empty data",
+    "mean": "Con trỏ",
+    "co-mean": "Pointer",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "マイコンピュータ",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "My Computer",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ウインドーズ",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Windows",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ゴミ箱 ゴミばこ",
+    "read": "TƯƠNG",
+    "mean": "Thùng rác",
+    "co-mean": "Recycle Bin",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "エクスプローラ",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Explorer",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "コントロールパネル",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Control Panel",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ウインドウ",
+    "read": "Empty data",
+    "mean": "Cửa sổ",
+    "co-mean": "Window",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "バージョン",
+    "read": "Empty data",
+    "mean": "Phiên bản",
+    "co-mean": "Version",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "～版 ～ばん",
+    "read": "BẢN",
+    "mean": "Phiên bản ~",
+    "co-mean": "~ version",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "機能",
+    "read": "KI NĂNG",
+    "mean": "Function Chức năng",
+    "co-mean": "きのう",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ワークフロー",
+    "read": "Empty data",
+    "mean": "Tiến trình công việc",
+    "co-mean": "Workflow",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "処理",
+    "read": "XỨ LÍ",
+    "mean": "Process Tiến trình",
+    "co-mean": "しょり",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "リリース",
+    "read": "Empty data",
+    "mean": "Tung ra",
+    "co-mean": "Release",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "改善",
+    "read": "CẢI THIỆN",
+    "mean": "Improve Cải thiện",
+    "co-mean": "かいぜん",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "モブプロ",
+    "read": "Empty data",
+    "mean": "Lập trình nhóm",
+    "co-mean": "Mob programming",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ペアプロ",
+    "read": "Empty data",
+    "mean": "Lập trình cặp",
+    "co-mean": "Pair programming",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "配備",
+    "read": "PHỐI BỊ",
+    "mean": "Deployment Triển khai",
+    "co-mean": "はいび",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ソフトウエア",
+    "read": "Empty data",
+    "mean": "Phần mềm",
+    "co-mean": "Software",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ハードウエア",
+    "read": "Empty data",
+    "mean": "Phần cứng",
+    "co-mean": "Hardware",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "要件",
+    "read": "YẾU KIỆN",
+    "mean": "Requirement Yêu cầu",
+    "co-mean": "ようけん",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "要件定義 ようけんていぎ",
+    "read": "YẾU KIỆN ĐỊNH NGHĨA",
+    "mean": "Định nghĩa yêu cầu",
+    "co-mean": "Requirement definition",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "アナリスト",
+    "read": "Empty data",
+    "mean": "Phân tích",
+    "co-mean": "Analyst",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "問題",
+    "read": "VẤN ĐỀ",
+    "mean": "Issue Vấn đề",
+    "co-mean": "もんだい",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "メジャーアップデート",
+    "read": "Empty data",
+    "mean": "Nâng cấp lớn",
+    "co-mean": "Major update",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "テスト",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Test",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "本番環境",
+    "read": "BỔN PHIÊN HOÀN CẢNH",
+    "mean": "Production environment Môi trường sản phẩm",
+    "co-mean": "ほんばんかんきょう",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "単体テスト",
+    "read": "ĐƠN THỂ",
+    "mean": "Unit test",
+    "co-mean": "たんたいテスト",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "結合テスト",
+    "read": "KẾT HỢP",
+    "mean": "Integration test",
+    "co-mean": "けつごうテスト",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "機能テスト",
+    "read": "KI NĂNG",
+    "mean": "Function test",
+    "co-mean": "きのうテスト",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "基本設計 きほんせっけい",
+    "read": "CƠ BỔN THIẾT KẾ",
+    "mean": "Thiết kế cơ bản",
+    "co-mean": "Basic design",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "詳細設計 しょうさいせっけい",
+    "read": "TƯỜNG TẾ THIẾT KẾ",
+    "mean": "Thiết kế chi tiết",
+    "co-mean": "Detailed design",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "外部設計 がいぶせっけい",
+    "read": "NGOẠI BỘ THIẾT KẾ",
+    "mean": "Thiết kế cơ bản",
+    "co-mean": "External design",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "内部設計 ないぶせっけい",
+    "read": "NỘI BỘ THIẾT KẾ",
+    "mean": "Thiết kế chi tiết",
+    "co-mean": "Internal design",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "性能 せいのう",
+    "read": "TÍNH NĂNG",
+    "mean": "Tính năng",
+    "co-mean": "Feature",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "機能一覧 きのういちらん",
+    "read": "KI NĂNG NHẤT LÃM",
+    "mean": "Danh sách chức năng",
+    "co-mean": "Functions list",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "画面遷移図 がめんせんいず",
+    "read": "HỌA DIỆN THIÊN DI DỰ",
+    "mean": "Sơ đồ di chuyển màn hình",
+    "co-mean": "Screen transition diagram",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "画面設計書 がめんせっけいしょ",
+    "read": "HỌA DIỆN THIẾT KẾ THƯ",
+    "mean": "Tài liệu thiết kế màn hình",
+    "co-mean": "Screen design document",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "実装 じっそう",
+    "read": "THỰC TRANG",
+    "mean": "Thực hiện、triển khai, code",
+    "co-mean": "Implement",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "テーブル設計書 テーブルせっけいしょ",
+    "read": "THIẾT KẾ THƯ",
+    "mean": "Tài liệu thiết kế table",
+    "co-mean": "Table design document",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "設計 せっけい",
+    "read": "THIẾT KẾ",
+    "mean": "Thiết kế",
+    "co-mean": "Design",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ER図 ERず",
+    "read": "DỰ",
+    "mean": "Mô hình quan hệ thực thể",
+    "co-mean": "Entity relationship diagram",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "実体関連モデル じったいかんれんモデル",
+    "read": "THỰC THỂ QUAN LIÊN",
+    "mean": "Mô hình quan hệ thực thể",
+    "co-mean": "Entity relationship diagram",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "フェーズ",
+    "read": "Empty data",
+    "mean": "Giai đoạn",
+    "co-mean": "Phase",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "計画",
+    "read": "KẾ HỌA",
+    "mean": "Plan Kế hoạch",
+    "co-mean": "けいかく",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "プラン",
+    "read": "Empty data",
+    "mean": "Plan Kế hoạch",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "要件一覧 ようけんいちらん",
+    "read": "YÊU CẦU NHẤT LÃM",
+    "mean": "Danh sách yêu cầu",
+    "co-mean": "Requirement list",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "進捗 しんちょく",
+    "read": "TIẾN DUỆ",
+    "mean": "Tiến độ",
+    "co-mean": "Progress",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "開発 かいはつ",
+    "read": "KHAI PHÁT",
+    "mean": "Phát triển",
+    "co-mean": "Development",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "開発環境 かいはつかんきょう",
+    "read": "KHAI PHÁT HOÀN CẢNH",
+    "mean": "Môi trường phát triển",
+    "co-mean": "Development environment",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "レビュー",
+    "read": "Empty data",
+    "mean": "Xem lại",
+    "co-mean": "Review",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "引き継ぎ ひきつぎ",
+    "read": "DẪN KẾ",
+    "mean": "Tiếp quản",
+    "co-mean": "Take over",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "デッドライン",
+    "read": "Empty data",
+    "mean": "Hạn chót",
+    "co-mean": "Deadline",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "システムアナリスト",
+    "read": "Empty data",
+    "mean": "Phân tích hệ thống",
+    "co-mean": "System analyst",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "パターン",
+    "read": "Empty data",
+    "mean": "Mô hình",
+    "co-mean": "Pattern",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "パッケージ",
+    "read": "Empty data",
+    "mean": "Đóng gói",
+    "co-mean": "Package",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "環境構築 かんきょうこうちく",
+    "read": "HOÀN CẢNH CẤU TRÚC",
+    "mean": "Thiết lập môi trường",
+    "co-mean": "Environment setup",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "タスク",
+    "read": "Empty data",
+    "mean": "Công việc",
+    "co-mean": "Task",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ソフトウエア",
+    "read": "Empty data",
+    "mean": "Phần mềm",
+    "co-mean": "Software",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ハードウエア",
+    "read": "Empty data",
+    "mean": "Phần cứng",
+    "co-mean": "Hardware",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "納期",
+    "read": "NẠP KÌ",
+    "mean": "Deadline",
+    "co-mean": "のうき",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "セットアップ",
+    "read": "Empty data",
+    "mean": "Cài đặt",
+    "co-mean": "Setup",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "アンロック",
+    "read": "Empty data",
+    "mean": "Mở khóa",
+    "co-mean": "Unlock",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "スキャン",
+    "read": "Empty data",
+    "mean": "Quét",
+    "co-mean": "Scan",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ミュート",
+    "read": "Empty data",
+    "mean": "Tắt âm",
+    "co-mean": "Mute",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "チェック",
+    "read": "Empty data",
+    "mean": "Kiểm tra",
+    "co-mean": "Check",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "タッチ",
+    "read": "Empty data",
+    "mean": "Chạm",
+    "co-mean": "Touch",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "圧縮",
+    "read": "ÁP SÚC",
+    "mean": "Compression Nén",
+    "co-mean": "あっしゅく",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "リネーム",
+    "read": "Empty data",
+    "mean": "Rename Đổi tên",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "展開",
+    "read": "TRIỂN KHAI",
+    "mean": "Expand Giải nén",
+    "co-mean": "てんかい",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "解除",
+    "read": "GIẢI TRỪ",
+    "mean": "Unlock Gỡ bỏ",
+    "co-mean": "かいじょ",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "起動",
+    "read": "KHỞI ĐỘNG",
+    "mean": "Start up Khởi động",
+    "co-mean": "きどう",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "リブート",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Reboot",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ブート",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Boot",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ログオフ",
+    "read": "Empty data",
+    "mean": "Empty data",
+    "co-mean": "Log off",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ドロップ",
+    "read": "Empty data",
+    "mean": "Thả",
+    "co-mean": "Drop",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "最小化",
+    "read": "TỐI TIỂU HÓA",
+    "mean": "Minimize Thu nhỏ cửa sổ",
+    "co-mean": "さいしょうか",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "最大化",
+    "read": "TỐI ĐẠI HÓA",
+    "mean": "Maximize Phóng to cửa sổ",
+    "co-mean": "さいだいか",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "押下",
+    "read": "ÁP HẠ",
+    "mean": "Press Ấn xuống",
+    "co-mean": "おうか",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "コール",
+    "read": "Empty data",
+    "mean": "Gọi",
+    "co-mean": "Call",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "マウント",
+    "read": "Empty data",
+    "mean": "Gắn kết",
+    "co-mean": "Mount",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "アンマウント",
+    "read": "Empty data",
+    "mean": "Tháo gắn kết",
+    "co-mean": "Unmount",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "クリック",
+    "read": "Empty data",
+    "mean": "Click chuột",
+    "co-mean": "Click",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "コピー",
+    "read": "Empty data",
+    "mean": "Sao chép",
+    "co-mean": "Copy",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "貼り付け",
+    "read": "THIẾP PHÓ",
+    "mean": "Paste Dán",
+    "co-mean": "はりつけ",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "キャンセル",
+    "read": "Empty data",
+    "mean": "Cancel Hủy bỏ",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "保存",
+    "read": "BẢO TỒN",
+    "mean": " Save Lưu",
+    "co-mean": "ほぞん",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "アップグレード",
+    "read": "Empty data",
+    "mean": "Nâng cấp",
+    "co-mean": "Upgrade",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "閉じる",
+    "read": "BẾ",
+    "mean": "Close Đóng",
+    "co-mean": "とじる",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "開く",
+    "read": "KHAI",
+    "mean": "Open Mở",
+    "co-mean": "ひらく",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "戻る",
+    "read": "LỆ",
+    "mean": "Back Quay lại",
+    "co-mean": "もどる",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ブロック",
+    "read": "Empty data",
+    "mean": "Chặn",
+    "co-mean": "Block",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "アップロード",
+    "read": "Empty data",
+    "mean": "Tải lên",
+    "co-mean": "Upload",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ダウンロード",
+    "read": "Empty data",
+    "mean": "Tải xuống",
+    "co-mean": "Download",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "解凍",
+    "read": "GIẢI ĐỐNG",
+    "mean": "Unpack Giải nén",
+    "co-mean": "かいとう",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "切り取り",
+    "read": "THIẾT THỦ",
+    "mean": "Cut Cắt",
+    "co-mean": "きりとり",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "スクロール",
+    "read": "Empty data",
+    "mean": "Cuộn",
+    "co-mean": "Scroll",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ドラッグ",
+    "read": "Empty data",
+    "mean": "Kéo",
+    "co-mean": "Drag",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ダブルクリック",
+    "read": "Empty data",
+    "mean": "Click đôi",
+    "co-mean": "Double click",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "右クリック",
+    "read": "HỮU",
+    "mean": "Right click Click chuột phải",
+    "co-mean": "みぎクリック",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "再起動",
+    "read": "TÁI KHỞI ĐỘNG",
+    "mean": "Restart Khởi động lại",
+    "co-mean": "さいきどう",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "シャットダウン",
+    "read": "Empty data",
+    "mean": "Shutdown",
+    "co-mean": "Tắt ",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "スリープ",
+    "read": "Empty data",
+    "mean": "Sleep",
+    "co-mean": "Tắt tạm thời",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ロック",
+    "read": "Empty data",
+    "mean": "Lock",
+    "co-mean": "Khóa",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "インポート",
+    "read": "Empty data",
+    "mean": "Đưa vào",
+    "co-mean": "Import",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "エクスポート",
+    "read": "Empty data",
+    "mean": "Xuất ra",
+    "co-mean": "Export",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "タイピング",
+    "read": "Empty data",
+    "mean": "Gõ phím",
+    "co-mean": "Typing",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "導入",
+    "read": "ĐẠO NHẬP",
+    "mean": "Install Cài vào, thêm vào",
+    "co-mean": "どうにゅう",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "インストール",
+    "read": "Empty data",
+    "mean": "Cài đặt",
+    "co-mean": "Install",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "アンインストール",
+    "read": "Empty data",
+    "mean": "Gỡ cài đặt",
+    "co-mean": "Uninstall",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "パージ",
+    "read": "Empty data",
+    "mean": "Làm sạch",
+    "co-mean": "Purge",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "元に戻す",
+    "read": "NGUYÊN LỆ",
+    "mean": "Restore Hồi lại",
+    "co-mean": "もとにもどす",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "指定",
+    "read": "CHỈ ĐỊNH",
+    "mean": "Designation Chỉ định",
+    "co-mean": "してい",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "追加",
+    "read": "TRUY GIA",
+    "mean": "Add Thêm vào",
+    "co-mean": "ついか",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "作成",
+    "read": "TÁC THÀNH",
+    "mean": "Create Tạo",
+    "co-mean": "さくせい",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "削除",
+    "read": "TƯỚC TRỪ",
+    "mean": "Delete Xóa",
+    "co-mean": "さくじょ",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "読み込む",
+    "read": "ĐỘC ",
+    "mean": "Read Đọc",
+    "co-mean": "よみこむ",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "編集",
+    "read": "BIÊN TẬP",
+    "mean": "Edit Chỉnh sửa",
+    "co-mean": "へんしゅう",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "抽出",
+    "read": "TRỪU XUẤT",
+    "mean": "Extraction Trích xuất",
+    "co-mean": "ちゅうしゅつ",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "更新",
+    "read": "CANH TÂN",
+    "mean": "Update Cập nhật",
+    "co-mean": "こうしん",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "改訂",
+    "read": "CẢI ĐÍNH",
+    "mean": "Revision Sửa lại",
+    "co-mean": "かいてい",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "切り替える",
+    "read": "THIẾT THẾ",
+    "mean": "Switch Thay đổi",
+    "co-mean": "きりかえる",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "フィルタ",
+    "read": "Empty data",
+    "mean": "Lọc",
+    "co-mean": "Filter",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "設定",
+    "read": "THIẾT ĐỊNH",
+    "mean": "Setting Cài đặt",
+    "co-mean": "せってい",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "除去",
+    "read": "TRỪ KHỨ",
+    "mean": "Remove Loại bỏ",
+    "co-mean": "じょきょ",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "復元",
+    "read": "PHỤC NGUYÊN",
+    "mean": "Restore Phục hồi",
+    "co-mean": "ふくげん",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "開始",
+    "read": "KHAI THỦY",
+    "mean": "Start Bắt đầu",
+    "co-mean": "かいし",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "変更",
+    "read": "BIẾN CANH",
+    "mean": "Change Thay đổi",
+    "co-mean": "へんこう",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ソート",
+    "read": "Empty data",
+    "mean": "Sort Sắp xếp",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "報告",
+    "read": "BÁO CÁO",
+    "mean": "Report Báo cáo",
+    "co-mean": "ほうこく",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "検索",
+    "read": "KIỂM TÁC",
+    "mean": "Search Tìm kiếm",
+    "co-mean": "けんさく",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "表示",
+    "read": "BIỂU KÌ",
+    "mean": "Show Hiển thị",
+    "co-mean": "ひょうじ",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "共有",
+    "read": "CỘNG HỮU",
+    "mean": "Share Chia sẻ",
+    "co-mean": "きょうゆう",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "管理",
+    "read": "QUẢN LÍ",
+    "mean": "Manage Quản lý",
+    "co-mean": "かんり",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "サーチ",
+    "read": "Empty data",
+    "mean": "Search Tìm kiếm",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "記載",
+    "read": "KÍ TÁI",
+    "mean": "Describe Miêu tả",
+    "co-mean": "きさい",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "ストップ",
+    "read": "Empty data",
+    "mean": "Stop Dừng",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "停止",
+    "read": "ĐÌNH CHỈ",
+    "mean": "Stop Dừng",
+    "co-mean": "ていし",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "申請",
+    "read": "THÂN THỈNH",
+    "mean": "Apply Đăng ký",
+    "co-mean": "しんせい",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "終了",
+    "read": "CHUNG LIỄU",
+    "mean": "Finish Kết thúc",
+    "co-mean": "しゅうりょう",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "チェンジ",
+    "read": "Empty data",
+    "mean": "Change Thay đổi",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "リダイレクト",
+    "read": "Empty data",
+    "mean": "Redirect Chuyển màn hình",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "移動",
+    "read": "DI ĐỘNG",
+    "mean": "Move Di chuyển",
+    "co-mean": "いどう",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "回復",
+    "read": "HỒI PHỤC",
+    "mean": "Recover Phục hồi",
+    "co-mean": "かいふく",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "生成",
+    "read": "SANH THÀNH",
+    "mean": "Generate Tạo",
+    "co-mean": "せいせい",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "投稿",
+    "read": "ĐẦU CẢO",
+    "mean": "Post Đăng",
+    "co-mean": "とうこう",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "埋める",
+    "read": "MAI",
+    "mean": "Fill Điền vào",
+    "co-mean": "うめる",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "アクセル",
+    "read": "Empty data",
+    "mean": "Access Truy cập",
+    "co-mean": "Empty data",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "遷移",
+    "read": "THIÊN DI",
+    "mean": "Redirect Chuyển màn hình",
+    "co-mean": "せんい",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "同意",
+    "read": "ĐỒNG Ý",
+    "mean": "Accept Đồng ý",
+    "co-mean": "どうい",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "消去",
+    "read": "TIÊU KHỨ",
+    "mean": "Erase Xóa bỏ",
+    "co-mean": "しょうきょ",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "承認",
+    "read": "THỪA NHẬN",
+    "mean": "Approval Phê duyệt",
+    "co-mean": "しょうにん",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "排除",
+    "read": "BÀI TRỪ",
+    "mean": "Exclude Loại trừ",
+    "co-mean": "はいじょ",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "訂正",
+    "read": "ĐÍNH CHÁNH",
+    "mean": "Correction Đính chính",
+    "co-mean": "ていせい",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "新規作成",
+    "read": "TÂN QUY TÁC THÀNH",
+    "mean": "Add new Tạo mới",
+    "co-mean": "しんきさくせい",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "適用",
+    "read": "THÍCH DỤNG",
+    "mean": "Apply Áp dụng",
+    "co-mean": "てきよう",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "参照",
+    "read": "THAM CHIẾU",
+    "mean": "Reference Tham chiếu, xem",
+    "co-mean": "さんしょう",
+    "explain": "Empty data"
+  },
+  {
+    "goi": "Empty data",
+    "kanji": "打ち切る",
+    "read": "ĐẢ THIẾT",
+    "mean": "Abort Bãi bỏ",
+    "co-mean": "うちきる",
+    "explain": "Empty data"
+  }
+]
