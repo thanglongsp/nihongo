@@ -71,7 +71,7 @@
 
 <div class="container mt-5" style="height: 40vh;">
     <div class="form-group">
-        <label for="index" class="label-index">Bắt đầu chữ từ số:</label>
+        <label for="index" class="label-index">Bắt đầu từ:</label>
         <input type="number" value="0" class="form-control" id="index" min="0">
     </div>
     <div class="row">
@@ -119,6 +119,7 @@
         let current_value = 0;
 
         function nextNewGoi() {
+			$("#index").val(current_value);
             let object = data[current_value];
             $("#goi").text(object['goi']);
             $("#div-read").click(function () {
