@@ -10,8 +10,8 @@
   {
     "goi": "コーディングガイドライン",
     "kanji": "-",
-    "read": " Coding guideline",
-    "mean": "hướng dẫn, Quy tắc code, ",
+    "read": "Coding guideline",
+    "mean": "hướng dẫn, Quy tắc code",
     "co-mean": "-",
     "explain": "-"
   },
@@ -27,7 +27,7 @@
     "goi": "対応",
     "kanji": "Đối ứng",
     "read": "たいおう",
-    "mean": "phản ứng,xử lý,tương ứng",
+    "mean": "xử lý, tương ứng",
     "co-mean": "support (IT)",
     "explain": "-"
   },
@@ -48,14 +48,6 @@
     "explain": "-"
   },
   {
-    "goi": "縮小表示する",
-    "kanji": "SÚC TIỂU BIỂU KÌ",
-    "read": "-",
-    "mean": "-",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
     "goi": "可読性",
     "kanji": "KHẢ ĐỘC TÍNH",
     "read": "かどくせい",
@@ -65,7 +57,7 @@
   },
   {
     "goi": "操作性",
-    "kanji": "-",
+    "kanji": "THAO TÁC TÍNH",
     "read": "そうさせい",
     "mean": "Tính khả dụng,Tính dễ sử dụng",
     "co-mean": "-",
@@ -73,7 +65,7 @@
   },
   {
     "goi": "メディアクエリ",
-    "kanji": "THAO TÁC TÍNH",
+    "kanji": "-",
     "read": "-",
     "mean": "◆ Truy vấn phương tiện truyền thông",
     "co-mean": "-",
@@ -121,7 +113,7 @@
   },
   {
     "goi": "横スクロール",
-    "kanji": "-",
+    "kanji": "HOÀNH",
     "read": "-",
     "mean": "cuộn sang ngang",
     "co-mean": "-",
@@ -155,7 +147,7 @@
     "goi": "ホバー",
     "kanji": "-",
     "read": "hover",
-    "mean": "-",
+    "mean": "hover",
     "co-mean": "-",
     "explain": "-"
   },
@@ -170,17 +162,9 @@
   {
     "goi": "ロールアウト",
     "kanji": "-",
-    "read": "roll out",
-    "mean": "-",
+    "read": "-",
+    "mean": "roll out",
     "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "潜水艦",
-    "kanji": "TIỀM THỦY HẠM",
-    "read": "せんすいかん",
-    "mean": "-",
-    "co-mean": "サブマリン= submarine Tàu ngầm",
     "explain": "-"
   },
   {
@@ -243,7 +227,7 @@
     "goi": "ピクセル",
     "kanji": "-",
     "read": "pixcel",
-    "mean": "-",
+    "mean": "pixcel",
     "co-mean": "-",
     "explain": "-"
   },
@@ -307,7 +291,7 @@
     "goi": "フォント",
     "kanji": "-",
     "read": "font",
-    "mean": "-",
+    "mean": "font",
     "co-mean": "-",
     "explain": "-"
   },
@@ -323,7 +307,7 @@
     "goi": "透かし",
     "kanji": "THẤU",
     "read": "watermark",
-    "mean": "-",
+    "mean": "watermark",
     "co-mean": "-",
     "explain": "-"
   },
@@ -331,7 +315,7 @@
     "goi": "ツール",
     "kanji": "-",
     "read": "tool",
-    "mean": "-",
+    "mean": "tool",
     "co-mean": "-",
     "explain": "-"
   },
@@ -346,7 +330,7 @@
   {
     "goi": "コンソール",
     "kanji": "-",
-    "read": "-",
+    "read": "console",
     "mean": "Giao diện điều khiển IT: Console trong chrome",
     "co-mean": "-",
     "explain": "-"
@@ -354,8 +338,8 @@
   {
     "goi": "出力",
     "kanji": "XUẤT LỰC",
-    "read": "output",
-    "mean": "-",
+    "read": "しゅつりょく",
+    "mean": "output",
     "co-mean": "-",
     "explain": "-"
   },
@@ -418,8 +402,8 @@
   {
     "goi": "変数",
     "kanji": "BIẾN SỔ",
-    "read": " variable",
-    "mean": "-",
+    "read": "へんすう",
+    "mean": "variable",
     "co-mean": "-",
     "explain": "-"
   },
@@ -466,7 +450,7 @@
   {
     "goi": "文字列",
     "kanji": "VĂN TỰ LIỆT",
-    "read": "-",
+    "read": "もじれつ",
     "mean": "chuỗi kí tự",
     "co-mean": "-",
     "explain": "-"
@@ -482,7 +466,7 @@
   {
     "goi": "エンコード",
     "kanji": "-",
-    "read": "-",
+    "read": "エンコード",
     "mean": "mã hóa",
     "co-mean": "-",
     "explain": "-"
@@ -490,7 +474,7 @@
   {
     "goi": "デコード",
     "kanji": "-",
-    "read": "-",
+    "read": "デコード",
     "mean": "giải mã",
     "co-mean": "-",
     "explain": "-"
@@ -507,7 +491,7 @@
     "goi": "閲覧",
     "kanji": "DUYỆT LÃM",
     "read": "えつらん",
-    "mean": "-",
+    "mean": "view",
     "co-mean": "view",
     "explain": "-"
   },
@@ -515,23 +499,23 @@
     "goi": "挿入",
     "kanji": "SÁP NHẬP",
     "read": "そうにゅう",
-    "mean": "-",
+    "mean": "insert",
     "co-mean": "insert",
     "explain": "-"
   },
   {
     "goi": "更新",
     "kanji": "CANH TÂN",
-    "read": "-",
-    "mean": "-",
+    "read": "こうしん",
+    "mean": "update",
     "co-mean": "update",
     "explain": "-"
   },
   {
     "goi": "削除",
     "kanji": "TƯỚC TRỪ",
-    "read": "-",
-    "mean": "-",
+    "read": "さくじょ",
+    "mean": "delete",
     "co-mean": "delete",
     "explain": "-"
   },
@@ -539,7 +523,7 @@
     "goi": "適用範囲",
     "kanji": "THÍCH DỤNG PHẠM VI",
     "read": "てきようはんい",
-    "mean": "-",
+    "mean": "Phạm vi ứng dụng",
     "co-mean": "-",
     "explain": "-"
   },
@@ -554,24 +538,8 @@
   {
     "goi": "再現する",
     "kanji": "TÁI HIỆN",
-    "read": "-",
-    "mean": "-",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "スピードくじ",
-    "kanji": "-",
-    "read": "-",
-    "mean": "Xổ số tốc độ",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "スクラッチくじ",
-    "kanji": "-",
-    "read": "-",
-    "mean": "Xổ số cào",
+    "read": "さいげんする",
+    "mean": "IT: Tái hiện lại",
     "co-mean": "-",
     "explain": "-"
   },
@@ -579,7 +547,7 @@
     "goi": "リマインド",
     "kanji": "-",
     "read": "-",
-    "mean": "reminde",
+    "mean": "remind",
     "co-mean": "-",
     "explain": "-"
   },
@@ -587,7 +555,7 @@
     "goi": "受け渡し",
     "kanji": "THỤ ĐỘ",
     "read": "うけわたし",
-    "mean": "giao hàng giao nhận",
+    "mean": "giao hàng, giao nhận",
     "co-mean": "-",
     "explain": "-"
   },
@@ -596,14 +564,6 @@
     "kanji": "ĐẶC KÍ",
     "read": "とっき",
     "mean": "Đặc biệt đề cập",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "-",
-    "kanji": "-",
-    "read": "-",
-    "mean": "-",
     "co-mean": "-",
     "explain": "-"
   },
@@ -618,7 +578,7 @@
   {
     "goi": "性能改善",
     "kanji": "TÍNH NĂNG CẢI THIỆN",
-    "read": "-",
+    "read": "きのうかいぜん",
     "mean": "Cải thiện tính năng",
     "co-mean": "-",
     "explain": "-"
@@ -626,40 +586,32 @@
   {
     "goi": "ロジック改修",
     "kanji": "CẢI TU",
-    "read": "-",
+    "read": "ロジックかいしゅう",
     "mean": "Sửa logic",
     "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "-",
-    "read": "-",
-    "mean": "-",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "手を貸して：giúp tui 1 tay",
+    "goi": "手を貸して",
     "kanji": "THỦ THẢI",
-    "read": "-",
-    "mean": "-",
+    "read": "てをかして",
+    "mean": "giúp tui 1 tay",
     "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "耳を貸して: nghe tui nói nè",
+    "goi": "耳を貸して: ",
     "kanji": "NHĨ THẢI",
-    "read": "-",
-    "mean": "-",
+    "read": "みみをかして",
+    "mean": "nghe tui nói nè",
     "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "顔を貸して: đến đây 1 chút nè.",
+    "goi": "顔を貸して",
     "kanji": "NHAN THẢI",
-    "read": "-",
-    "mean": "-",
+    "read": "かおをかして",
+    "mean": "đến đây 1 chút nè.",
     "co-mean": "-",
     "explain": "-"
   },
@@ -707,8 +659,8 @@
     "goi": "プロダクトビジョン",
     "kanji": "-",
     "read": "-",
-    "mean": "-",
-    "co-mean": "product vision",
+    "mean": "product vision",
+    "co-mean": "",
     "explain": "-"
   },
   {
@@ -729,7 +681,7 @@
   },
   {
     "goi": "目処",
-    "kanji": "-",
+    "kanji": "MỤC XỨ",
     "read": "めど",
     "mean": "Mục tiêu; mục đích, Quan điểm",
     "co-mean": "-",
@@ -738,7 +690,7 @@
   {
     "goi": "JANコード版",
     "kanji": "BẢN",
-    "read": "-",
+    "read": "JANコードはん",
     "mean": "-",
     "co-mean": "JAN code",
     "explain": "-"
@@ -746,7 +698,7 @@
   {
     "goi": "デスクリプション文言",
     "kanji": "VĂN NGÔN",
-    "read": "-",
+    "read": "デスクリプションもんごん",
     "mean": "Câu giải thích",
     "co-mean": "description pharse",
     "explain": "-"
@@ -754,10 +706,10 @@
   {
     "goi": "「バーコード読み込み」",
     "kanji": "ĐỘC ",
-    "read": "-",
+    "read": "よみこみ",
     "mean": "(quét mã code) ",
     "co-mean": "-",
-    "explain": "-"
+    "explain": "Đang tải(IT), 読み込み中: Installing"
   },
   {
     "goi": "審査 ",
@@ -776,17 +728,9 @@
     "explain": "臨時休講（りんじきゅうこ）nghỉ học tạm thời(để nhà trường tổ chức gì đó,như kì thi vào đại học hàng năm của 1 số trường thì nhà trường sẽ cho nghỉ học) | 臨時病院:Bệnh viện dã chiến | 臨時休業: tạm thời nghỉ kinh doanh , tạm thời đóng cửa "
   },
   {
-    "goi": "暫定のスケジュール: lịch trình tạm thời.| 暫定版 bản tạm thời (khi release app/web) | 暫定休業、 tạm thời đóng cửa,( tạm thời nghỉ kinh doanh)",
-    "kanji": "TẠM ĐỊNH, TẠM ĐỊNH BẢN, TẠM ĐỊNH HƯU NGHIỆP",
-    "read": "-",
-    "mean": "-",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
     "goi": "テキストの配置",
     "kanji": "PHỐI TRÍ",
-    "read": "-",
+    "read": "テキストのはいち",
     "mean": "IT用：Alignment：text alignment: căn chỉnh text",
     "co-mean": "-",
     "explain": "-"
@@ -794,7 +738,7 @@
   {
     "goi": "項目",
     "kanji": "HẠNG MỤC",
-    "read": "-",
+    "read": "こうもく",
     "mean": "mục",
     "co-mean": "-",
     "explain": "必須項目：mục cần thiết"
@@ -816,17 +760,17 @@
     "explain": "-"
   },
   {
-    "goi": "倣う: ならう",
+    "goi": "倣う",
     "kanji": "PHỎNG",
-    "read": "-",
+    "read": "ならう",
     "mean": "phỏng theo,bắt chước theo,làm theo>Lấy cái gì đó làm mẫu và làm giống như thế =>Khác với 習う là 倣う không mang ý học hỏi, đơn thuần là bắt chước lại y chang lại vậy thôi =>Khi nói k phân biệt nhưng viết thì có",
     "co-mean": "-",
     "explain": "• A社の製品に倣って商品開発を行う • 伝統に倣った技術が外国人を魅了する"
   },
   {
-    "goi": "一先ず:ひとまず: ",
+    "goi": "一先ず",
     "kanji": "NHẤT TIÊN",
-    "read": "-",
+    "read": "ひとまず",
     "mean": "trước tiên, tạm thời",
     "co-mean": "-",
     "explain": "-"
@@ -834,7 +778,7 @@
   {
     "goi": "ベリファイ",
     "kanji": "-",
-    "read": "-",
+    "read": "ベリファイ",
     "mean": "xác minh chính chủ",
     "co-mean": "本人確認",
     "explain": "-"
@@ -842,7 +786,7 @@
   {
     "goi": "工事種別",
     "kanji": "CÔNG SỰ CHỦNG BIỆT",
-    "read": "-",
+    "read": "こうじしゅべつ",
     "mean": "kiểu xây dựng",
     "co-mean": "-",
     "explain": "-"
@@ -850,7 +794,7 @@
   {
     "goi": "ブリッジSE",
     "kanji": "-",
-    "read": "-",
+    "read": "ブリッジSE",
     "mean": "Br SE",
     "co-mean": "-",
     "explain": "-"
@@ -858,8 +802,8 @@
   {
     "goi": "アイコン",
     "kanji": "-",
-    "read": "-",
-    "mean": "Icon Là các biểu tượng nhỏ nhỏ hiển thị trên màn hình Desktop. Khi ta rê chuột vào rồi click hay double click thì chương trình (program) sẽ được thực thi. ",
+    "read": "アイコン",
+    "mean": "icon",
     "co-mean": "-",
     "explain": "-"
   },
@@ -915,38 +859,38 @@
     "goi": "インターフェース",
     "kanji": "-",
     "read": "-",
-    "mean": "Interface Là hệ thống kết nối giữa máy tính và thiết bị ngoại vi. Trong lập trình thì interface là một bản thiết kế của một lớp. Nó chỉ bao gồm các phương thức trừu tượng. ",
+    "mean": "Interface",
     "co-mean": "-",
     "explain": "-"
   },
   {
     "goi": "インタプリタ",
     "kanji": "-",
-    "read": "-",
+    "read": "インタプリタ",
     "mean": "Trình thông dịch biên dịch một chương trình nguồn theo từng phân đoạn rồi thực thi các đoạn mã đã được biên dịch. Tức là vừa dịch ra mã máy vừa thực thi từng đoạn 1, khác với trình biên dịch là dịch luôn toàn bộ source code (chứ không phải từng dòng) thành các run file, ta hay gặp nhất là file .exe.",
     "co-mean": "-",
     "explain": "-"
   },
   {
     "goi": "ウィルス対策ソフト",
-    "kanji": "-",
-    "read": "-",
-    "mean": "Phần mềm diệt vi rút | Là phần mềm bảo vệ máy tính khỏi vi rút. Loại quét virut dựa trên hành vi bất thường của các chương trình và loại quét virut trên cơ sở so sánh với database danh sách virut. ",
+    "kanji": "ĐỐI SÁCH",
+    "read": "ウィルスたいさくソフト",
+    "mean": "Phần mềm diệt vi rút",
     "co-mean": "-",
     "explain": "-"
   },
   {
     "goi": "ウィンドウ",
     "kanji": "-",
-    "read": "-",
-    "mean": "Window Là màn hình nhỏ thuộc phạm vi bên trong màn hình thao tác. Tức là cái hiện ra khi ta chạy ứng dụng. ",
+    "read": "ウィンドウ",
+    "mean": "Window",
     "co-mean": "-",
     "explain": "-"
   },
   {
     "goi": "ウィンドウズ ",
     "kanji": "-",
-    "read": "-",
+    "read": "ウィンドウズ",
     "mean": "Windows Hệ điều hành của Microsoft.",
     "co-mean": "-",
     "explain": "-"
@@ -962,7 +906,7 @@
   {
     "goi": "エンコード",
     "kanji": "-",
-    "read": "-",
+    "read": "エンコード",
     "mean": "Encode – mã hoá ký tự",
     "co-mean": "-",
     "explain": "-"
@@ -970,7 +914,7 @@
   {
     "goi": "エンコーダ",
     "kanji": "-",
-    "read": "-",
+    "read": "エンコーダ",
     "mean": "Encoder – bộ mã hoá Phần mềm chuyển đổi (mã hoá) dữ liệu.",
     "co-mean": "-",
     "explain": "-"
@@ -1010,7 +954,7 @@
   {
     "goi": "キーボード",
     "kanji": "-",
-    "read": "-",
+    "read": "キーボード",
     "mean": "Bàn phím (keyboard)",
     "co-mean": "-",
     "explain": "-"
@@ -1018,7 +962,7 @@
   {
     "goi": "キーロガー",
     "kanji": "-",
-    "read": "-",
+    "read": "キーロガー",
     "mean": "Keylogger.Phần mềm (virut) chạy ngầm ghi lại thao tác phím. Vì nó không thể phát hiện ngay cả với phần mềm chống vi rút, nên có thể bị lấy cắp các thông tin quan trọng như mật khẩu và hay mã số thẻ ngân hàng khi người sử dụng bị nhiễm loại virut này.",
     "co-mean": "-",
     "explain": "-"
@@ -1059,7 +1003,7 @@
     "goi": "クライアント",
     "kanji": "-",
     "read": "-",
-    "mean": "clint",
+    "mean": "client",
     "co-mean": "-",
     "explain": "-"
   },
@@ -1138,7 +1082,7 @@
   {
     "goi": "検索",
     "kanji": "KIỂM TÁC",
-    "read": "-",
+    "read": "けんさく",
     "mean": "Search",
     "co-mean": "-",
     "explain": "-"
@@ -1148,14 +1092,6 @@
     "kanji": "KIỂM THU THƯ",
     "read": "けんしゅうしょ",
     "mean": "Acceptance report",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "工数",
-    "kanji": "CÔNG SỔ",
-    "read": "こうすう",
-    "mean": "Cost",
     "co-mean": "-",
     "explain": "-"
   },
@@ -1210,7 +1146,7 @@
   {
     "goi": "システム設計",
     "kanji": "THIẾT KẾ",
-    "read": "-",
+    "read": "しすてむせってい",
     "mean": "System design (Thiết kế hệ thống)",
     "co-mean": "-",
     "explain": "-"
@@ -1322,7 +1258,7 @@
   {
     "goi": "実装",
     "kanji": "THỰC TRANG",
-    "read": "-",
+    "read": "じっそう",
     "mean": "triển khai",
     "co-mean": "-",
     "explain": "-"
@@ -1346,7 +1282,7 @@
   {
     "goi": "初期表示",
     "kanji": "SƠ KÌ BIỂU THỊ",
-    "read": "-",
+    "read": "しょきひょうじ",
     "mean": "hiển thị ban đầu",
     "co-mean": "-",
     "explain": "-"
@@ -1394,7 +1330,7 @@
   {
     "goi": "再生",
     "kanji": "TÁI SANH",
-    "read": "-",
+    "read": "さいせい",
     "mean": "play",
     "co-mean": "-",
     "explain": "-"
@@ -1402,7 +1338,7 @@
   {
     "goi": "停止",
     "kanji": "ĐÌNH CHỈ",
-    "read": "-",
+    "read": "ていし",
     "mean": "Pause",
     "co-mean": "-",
     "explain": "-"
@@ -1426,7 +1362,7 @@
   {
     "goi": "前の曲",
     "kanji": "TIỀN KHÚC",
-    "read": "-",
+    "read": "まえのきょく",
     "mean": "previous",
     "co-mean": "-",
     "explain": "-"
@@ -1434,7 +1370,7 @@
   {
     "goi": "次の曲",
     "kanji": "KHỨ THÚC",
-    "read": "-",
+    "read": "つぎのきょく",
     "mean": "next",
     "co-mean": "-",
     "explain": "-"
@@ -1450,7 +1386,7 @@
   {
     "goi": "再生速度",
     "kanji": "TÁI SANH TỐC ĐỘ",
-    "read": "-",
+    "read": "さいせいそくど",
     "mean": "playback speed",
     "co-mean": "-",
     "explain": "-"
@@ -1458,7 +1394,7 @@
   {
     "goi": "倍速",
     "kanji": "BỘI TỐC",
-    "read": "-",
+    "read": "ばいそく",
     "mean": "2x speed",
     "co-mean": "-",
     "explain": "-"
@@ -1466,7 +1402,7 @@
   {
     "goi": "半分の速度",
     "kanji": "BÁN PHÂN TỐC ĐỘ",
-    "read": "-",
+    "read": "はんぶんのそくど",
     "mean": "half speed",
     "co-mean": "-",
     "explain": "-"
@@ -1474,7 +1410,7 @@
   {
     "goi": "巻き戻し",
     "kanji": "QUYỂN LỆ",
-    "read": "-",
+    "read": "まきもどし",
     "mean": "backward",
     "co-mean": "-",
     "explain": "-"
@@ -1482,7 +1418,7 @@
   {
     "goi": "字幕",
     "kanji": "TỰ MẠC",
-    "read": "-",
+    "read": "じまく",
     "mean": "subtitle",
     "co-mean": "-",
     "explain": "-"
@@ -1490,7 +1426,7 @@
   {
     "goi": "自動再生",
     "kanji": "TỰ ĐỘNG TÁI SINH",
-    "read": "-",
+    "read": "じどうさいせい",
     "mean": "autoplay",
     "co-mean": "-",
     "explain": "-"
@@ -1704,14 +1640,6 @@
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "-",
-    "read": "-",
-    "mean": "-",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
     "goi": "踏み台",
     "kanji": "ĐẠP THAI",
     "read": "ふみだい",
@@ -1723,7 +1651,7 @@
     "goi": "エクスポート",
     "kanji": "-",
     "read": "-",
-    "mean": "-",
+    "mean": "export",
     "co-mean": "-",
     "explain": "-"
   },
@@ -1752,16 +1680,8 @@
     "explain": "-"
   },
   {
-    "goi": "後日、リリースタイミングを策定予定です。",
-    "kanji": "-",
-    "read": "-",
-    "mean": "-",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
     "goi": "概算見積",
-    "kanji": "-",
+    "kanji": "KHÁI　TOÁN　HIỆN　TÍCH",
     "read": "がいさん",
     "mean": "báo giá sơ bộ",
     "co-mean": "-",
@@ -1769,7 +1689,7 @@
   },
   {
     "goi": "通話",
-    "kanji": "-",
+    "kanji": "THÔNG THOẠI",
     "read": "つうわ",
     "mean": "gọi điện thoại",
     "co-mean": "-",
@@ -1786,7 +1706,7 @@
   {
     "goi": "設定を切り替える",
     "kanji": "THIẾT ĐỊNH THIẾT THẾ",
-    "read": "-",
+    "read": "せっていをきりかえる",
     "mean": "Thay đổi cài đặt",
     "co-mean": "-",
     "explain": "-"
@@ -1816,26 +1736,10 @@
     "explain": "-"
   },
   {
-    "goi": "UGCとは、「一般ユーザーによって作られたコンテンツ」",
-    "kanji": "NHẤT BÀN",
-    "read": "UGC（User Generated Contents＝ユーザー生成コンテンツ） ",
-    "mean": "-",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
     "goi": "Gmail へのアクセス権を付与するユーザーを追加",
     "kanji": "quyền phó dự",
     "read": "-",
-    "mean": "-",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "Gmail へのアクセスを許可するユーザーのメールアドレスを入力",
-    "kanji": "HỨA KHẢ",
-    "read": "-",
-    "mean": "-",
+    "mean": "Đã thêm người dùng để cấp quyền truy cập vào Gmail",
     "co-mean": "-",
     "explain": "-"
   },
@@ -1858,7 +1762,7 @@
   {
     "goi": "やり取り",
     "kanji": "THỦ",
-    "read": "-",
+    "read": "やりとり",
     "mean": "giao dịch",
     "co-mean": "-",
     "explain": "-"
@@ -1882,7 +1786,7 @@
   {
     "goi": "引継ぎのプロセス",
     "kanji": "DẪN KẾ",
-    "read": "-",
+    "read": "ひきつぎぎのプロセス",
     "mean": "Quy trình bàn giao",
     "co-mean": "-",
     "explain": "-"
@@ -1890,7 +1794,7 @@
   {
     "goi": "受け入れテスト　＝受け入れ検証",
     "kanji": "THỤ KIỂM CHỨNG",
-    "read": "-",
+    "read": "うけいれテスト",
     "mean": " Test nghiệm thu",
     "co-mean": "-",
     "explain": "-"
@@ -1904,34 +1808,18 @@
     "explain": "-"
   },
   {
-    "goi": "喫食",
-    "kanji": "KHIẾT THỰC",
-    "read": "きっしょく",
-    "mean": "-",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "食事予約情報を同期するAPI",
-    "kanji": "THỰC SỰ DƯ ƯỚC TÍNH BÁO - ĐỒNG KÌ",
-    "read": "-",
-    "mean": "-",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
     "goi": "並び順",
     "kanji": "TỊNH THUẬN",
-    "read": "Sort",
-    "mean": "-",
+    "read": "ならびじゅん",
+    "mean": "Sort",
     "co-mean": "-",
     "explain": "-"
   },
   {
     "goi": "・呼出しタイミング",
     "kanji": "HÔ XUẤT",
-    "read": "Call timing",
-    "mean": "-",
+    "read": "よびだしタイミング",
+    "mean": "Call timing",
     "co-mean": "-",
     "explain": "-"
   },
@@ -1939,78 +1827,38 @@
     "goi": "取下げ",
     "kanji": "THỦ HẠ",
     "read": "とりさげ",
-    "mean": "-",
+    "mean": "Cancel",
     "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "-",
-    "read": "-",
-    "mean": "-",
+    "goi": "・発生する",
+    "kanji": "PHÁT SANH",
+    "read": "はっせいする",
+    "mean": "vấn đề đã phát sinh ngoài dự tính",
     "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "Sự khác nhau giữa 発生する và 生じる và 起きる",
-    "kanji": "-",
-    "read": "-",
-    "mean": "-",
+    "goi": "・生じる",
+    "kanji": "SANH",
+    "read": "しょうじる",
+    "mean": "về điều này có lo lắng sẽ phát sinh vấn đề này",
     "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "・発生する → vấn đề đã phát sinh ngoài dự tính",
-    "kanji": "-",
-    "read": "-",
-    "mean": "-",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "・生じる → về điều này có lo lắng sẽ phát sinh vấn đề này",
-    "kanji": "-",
-    "read": "-",
-    "mean": "-",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "・起きる → dùng được cho cả 2 trường hợp",
-    "kanji": "-",
-    "read": "-",
-    "mean": "-",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "Ví dụ :",
-    "kanji": "-",
-    "read": "-",
-    "mean": "-",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "思いがけない損失が発生した → Tổn thất đã xảy ra rồi",
-    "kanji": "-",
-    "read": "-",
-    "mean": "-",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "損失が生じる可能性がある → Dự tính có khả năng phá",
-    "kanji": "-",
-    "read": "-",
-    "mean": "-",
+    "goi": "・起きる",
+    "kanji": "KHỞI",
+    "read": "おきる",
+    "mean": "dùng được cho cả 2 trường hợp",
     "co-mean": "-",
     "explain": "-"
   },
   {
     "goi": "進捗",
     "kanji": "TIẾN DUỆ",
-    "read": "-",
+    "read": "しんちょく",
     "mean": "tiến độ công việc (IT) Progress",
     "co-mean": "-",
     "explain": "進捗状況進捗会　họp tiến độ "
@@ -2042,7 +1890,7 @@
   {
     "goi": "基本設計",
     "kanji": "CƠ BỔN THIẾT KẾ",
-    "read": "-",
+    "read": "きほんせっけい",
     "mean": "Thiết kế cơ bản",
     "co-mean": "-",
     "explain": "-"
@@ -2050,7 +1898,7 @@
   {
     "goi": "詳細設計",
     "kanji": "TƯỜNG TẾ THIẾT KẾ",
-    "read": "-",
+    "read": "しょうさいせっけい",
     "mean": "Thiết kế chi tiết",
     "co-mean": "-",
     "explain": "-"
@@ -2058,7 +1906,7 @@
   {
     "goi": "製造(Coding)",
     "kanji": "CHẾ TẠO",
-    "read": "-",
+    "read": "せいぞう",
     "mean": "Chế tác (Coding)",
     "co-mean": "-",
     "explain": "-"
@@ -2066,7 +1914,7 @@
   {
     "goi": "単体テスト",
     "kanji": "ĐƠN THỂ",
-    "read": "-",
+    "read": "たんたいテスト",
     "mean": "Kiểm thử đơn vị",
     "co-mean": "-",
     "explain": "-"
@@ -2074,7 +1922,7 @@
   {
     "goi": "結合テスト",
     "kanji": "KẾT HỢP",
-    "read": "-",
+    "read": "けつごうテスト",
     "mean": "Kiểm thử tích hợp",
     "co-mean": "-",
     "explain": "-"
@@ -2082,7 +1930,7 @@
   {
     "goi": "権限を請求する",
     "kanji": "QUYỀN HẠN THỈNH CẦU",
-    "read": "請求: せいきゅう",
+    "read": "けんげんをせいきゅうする",
     "mean": "yêu cầu cấp quyền",
     "co-mean": "-",
     "explain": "-"
@@ -2090,7 +1938,7 @@
   {
     "goi": "要件定義書",
     "kanji": "YÊU KIỆN ĐỊNH NGHĨA THƯ",
-    "read": "-",
+    "read": "ようけんていぎしょ",
     "mean": "bản định nghĩa yêu cầu, tài liệu yêu cầu mô tả",
     "co-mean": "-",
     "explain": "-"
@@ -2098,23 +1946,15 @@
   {
     "goi": "要求分析（要件定義）",
     "kanji": "YẾU CẦU PHÂN TÍCH (YẾU KIỆN ĐỊNH NGHĨA)",
-    "read": "-",
-    "mean": "𝗣𝗵𝗮̂𝗻 𝘁𝗶́𝗰𝗵 𝘆𝗲̂𝘂 𝗰𝗮̂̀𝘂",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "・要求分析書（要件定義書）",
-    "kanji": "YÊU CẦU PHÂN TÍCH THƯ ( YÊU KIỆN ĐỊNH NGHĨA THƯ)",
-    "read": "-",
-    "mean": "Tài liệu phân tích yêu cầu",
+    "read": "ようきゅうぶんせき",
+    "mean": "𝗣Phân tích yêu cầu",
     "co-mean": "-",
     "explain": "-"
   },
   {
     "goi": "基本設計（外部設計）",
     "kanji": "CƠ BỔN THIẾT KẾ (NGOẠI BỘ THIẾT KẾ)",
-    "read": "-",
+    "read": "きほんせっけい　（がいぶせっけ）",
     "mean": "𝗧𝗵𝗶𝗲̂́𝘁 𝗸𝗲̂́ 𝗰𝗼̛ 𝗯𝗮̉𝗻",
     "co-mean": "-",
     "explain": "-"
@@ -2122,7 +1962,7 @@
   {
     "goi": "・業務フロー ",
     "kanji": "NGHIỆP VỤ",
-    "read": "-",
+    "read": "ぎょうむフロー",
     "mean": "Flow nghiệp vụ",
     "co-mean": "-",
     "explain": "-"
@@ -2130,7 +1970,7 @@
   {
     "goi": "・システム構成図  ",
     "kanji": "CẤU THÀNH ĐỒ",
-    "read": "-",
+    "read": "システムこうせいず",
     "mean": "Sơ đồ cấu trúc hệ thống",
     "co-mean": "-",
     "explain": "-"
@@ -2138,7 +1978,7 @@
   {
     "goi": "・ER図  ",
     "kanji": "ĐỒ",
-    "read": "-",
+    "read": "ERず",
     "mean": "Sơ đồ ER (Sơ đồ quan hệ)",
     "co-mean": "-",
     "explain": "-"
@@ -2146,15 +1986,15 @@
   {
     "goi": "・テーブル定義書　",
     "kanji": "ĐỊNH NGHĨA THƯ",
-    "read": "-",
+    "read": "テーブルていぎしょ",
     "mean": "Tài liệu định nghĩa database",
     "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "・機能一覧表　",
+    "goi": "・機能一覧表",
     "kanji": "KI NĂNG NHẤT LÃM BỘ",
-    "read": "-",
+    "read": "きのういちらんひょう",
     "mean": "Danh sách chức năng",
     "co-mean": "-",
     "explain": "-"
@@ -2162,128 +2002,48 @@
   {
     "goi": "・基本設計書　",
     "kanji": "CƠ BẢN THIẾT KẾ THƯ",
-    "read": "-",
+    "read": "きほんせっけいしょ",
     "mean": "Tài liệu thiết kế cơ bản",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "詳細設計（内部設計）",
-    "kanji": "TƯỜNG TẾ THIẾT KẾ (NỘI BỘ THIẾT KẾ)",
-    "read": "-",
-    "mean": "𝗧𝗵𝗶𝗲̂́𝘁 𝗸𝗲̂́ 𝗰𝗵𝗶 𝘁𝗶𝗲̂́𝘁",
     "co-mean": "-",
     "explain": "-"
   },
   {
     "goi": "・画面遷移図　",
     "kanji": "HỌA DIỆN THIÊN DI ĐỒ",
-    "read": "-",
+    "read": "がめんせんいず",
     "mean": "Sơ đồ di chuyển màn hình",
     "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "・詳細設計書（内部設計書）",
-    "kanji": "TƯỜNG TẾ THIẾT KẾ THƯ",
-    "read": "-",
-    "mean": "Tài liệu thiết kế chi tiết",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "・プロジェクト共通ルール　",
+    "goi": "・プロジェクト共通ルール",
     "kanji": "CỘNG THÔNG",
-    "read": "-",
+    "read": "プロジェクトきょうつうルール",
     "mean": "Quy tắc chung trong dự án",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "プログラミング　",
-    "kanji": "-",
-    "read": "-",
-    "mean": "𝗖𝗼𝗱𝗲",
     "co-mean": "-",
     "explain": "-"
   },
   {
     "goi": "・コーディング規約　",
     "kanji": "QUY ƯỚC",
-    "read": "-",
+    "read": "コーディングきやく",
     "mean": "Quy tắc code (coding convention)",
     "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "単体テスト",
-    "kanji": "ĐƠN THỂ",
-    "read": "-",
-    "mean": " 𝗨𝗻𝗶𝘁 𝘁𝗲𝘀𝘁 / 𝗧𝗲𝘀𝘁 𝗰𝗵𝘂̛́𝗰 𝗻𝗮̆𝗻𝗴, 𝗸𝗶𝗲̂̉𝗺 𝘁𝗿𝗮 𝗺𝘂̛́𝗰 đ𝗼̛𝗻 𝘃𝗶̣ ( 𝗨𝗻𝗶𝘁 )",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "・単体テスト仕様書　",
-    "kanji": "SĨ DẠNG THƯ",
-    "read": "-",
-    "mean": "Testcase Unit test",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "・単体テスト報告書   ",
+    "goi": "・単体テスト報告書",
     "kanji": "BÁO CÁO THƯ",
-    "read": "-",
+    "read": "たんたいテストほうこくしょ",
     "mean": " Báo cáo Unit test",
     "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "結合テスト  ",
+    "goi": "結合テスト",
     "kanji": "KẾT HỢP",
-    "read": "-",
+    "read": "けつごうテスト",
     "mean": " 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻 𝘁𝗲𝘀𝘁/𝗰𝗼𝗺𝗯𝗶𝗻𝗮𝘁𝗶𝗼𝗻 𝘁𝗲𝘀𝘁 / 𝗧𝗲𝘀𝘁 𝘁𝗶́𝗰𝗵 𝗵𝗼̛̣𝗽",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "・結合テスト仕様書　",
-    "kanji": "SĨ DẠNG THƯ",
-    "read": "-",
-    "mean": "Testcase test tích hợp",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "・結合テスト報告書　",
-    "kanji": "BÁO CÁO THƯ",
-    "read": "-",
-    "mean": "Báo cáo test tích hợp",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "総合テスト ",
-    "kanji": "TỔNG HỢP",
-    "read": "-",
-    "mean": "𝗦𝘆𝘀𝘁𝗲𝗺 𝘁𝗲𝘀𝘁 / 𝗧𝗲𝘀𝘁 𝗵𝗲̣̂ 𝘁𝗵𝗼̂́𝗻𝗴",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "・総合テスト仕様書　",
-    "kanji": "TỔNG HỢP",
-    "read": "-",
-    "mean": "Testcase System test　",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "・総合テスト報告書",
-    "kanji": "TỔNG HỢP",
-    "read": "-",
-    "mean": "Báo cáo System test",
     "co-mean": "-",
     "explain": "-"
   },
@@ -2291,22 +2051,22 @@
     "goi": "システムテスト",
     "kanji": "-",
     "read": "-",
-    "mean": " System test.",
+    "mean": "System test.",
     "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": " 障害 (しょうがい)",
+    "goi": "障害",
     "kanji": "CHƯỚNG HẠI",
-    "read": "-",
+    "read": "しょうがい",
     "mean": "Hệ thống bị chạy sai, hỏng dữ liệu do lỗi hệ thống.",
     "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "不具合（ふぐあい）",
+    "goi": "不具合",
     "kanji": "BẤT CỤ HỢP",
-    "read": "-",
+    "read": "ふぐあい",
     "mean": "Lỗi, bug.",
     "co-mean": "-",
     "explain": "不具合を対応します"
@@ -2328,18 +2088,18 @@
     "explain": "エラーが発生しました。"
   },
   {
-    "goi": "例外 (exception)",
+    "goi": "例外",
     "kanji": "LỆ NGOẠI",
-    "read": "-",
-    "mean": "-",
+    "read": "れいがい",
+    "mean": "exception",
     "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": " データベース  (DB)",
+    "goi": " データベース",
     "kanji": "-",
     "read": "-",
-    "mean": "-",
+    "mean": "ＤＢ",
     "co-mean": "-",
     "explain": "Cơ sở dữ liệu (database)"
   },
@@ -2347,14 +2107,14 @@
     "goi": "テーブル",
     "kanji": "-",
     "read": "-",
-    "mean": "-",
+    "mean": "table",
     "co-mean": "-",
     "explain": "Bảng (table)"
   },
   {
     "goi": "外部キー  (FK)",
     "kanji": "NGOẠI BỘ",
-    "read": "-",
+    "read": "がいぶキー",
     "mean": "-",
     "co-mean": "-",
     "explain": "Khóa ngoại."
@@ -2363,15 +2123,15 @@
     "goi": "エンティティ  (実体)",
     "kanji": "THỰC THỂ",
     "read": "-",
-    "mean": "-",
+    "mean": "エンティティ  (じったい）",
     "co-mean": "-",
-    "explain": " entity"
+    "explain": "entity"
   },
   {
     "goi": "主キー  (PK)",
     "kanji": "chủ",
     "read": "-",
-    "mean": "-",
+    "mean": "Khóa chính",
     "co-mean": "-",
     "explain": "Khóa chính"
   },
@@ -2379,15 +2139,15 @@
     "goi": "コラム (列)",
     "kanji": "LIỆT",
     "read": "-",
-    "mean": "-",
+    "mean": "コラム（れつ）",
     "co-mean": "-",
     "explain": "Cột"
   },
   {
     "goi": "行",
     "kanji": "HÀNH",
-    "read": "-",
-    "mean": "-",
+    "read": "ぎょう",
+    "mean": "IT: row",
     "co-mean": "-",
     "explain": " Hàng"
   },
@@ -2395,7 +2155,7 @@
     "goi": "レコード",
     "kanji": "-",
     "read": "-",
-    "mean": "-",
+    "mean": "record",
     "co-mean": "-",
     "explain": "Dữ liệu (record)"
   },
@@ -2403,7 +2163,7 @@
     "goi": "フィルード",
     "kanji": "-",
     "read": "-",
-    "mean": "-",
+    "mean": "Trường",
     "co-mean": "-",
     "explain": " Trường, miền, phạm vi (field)"
   },
@@ -2411,7 +2171,7 @@
     "goi": "リレーショナル",
     "kanji": "-",
     "read": "-",
-    "mean": "-",
+    "mean": "relational",
     "co-mean": "-",
     "explain": "Có quan hệ (relational)"
   },
@@ -2419,7 +2179,7 @@
     "goi": "降順",
     "kanji": "HÀNG THUẬN",
     "read": "こうじゅん",
-    "mean": "-",
+    "mean": "Sắp xếp giảm dần",
     "co-mean": "-",
     "explain": "Sắp xếp giảm dần"
   },
@@ -2427,7 +2187,7 @@
     "goi": "昇順",
     "kanji": "THĂNG THUẬN",
     "read": "しょうじゅん",
-    "mean": "-",
+    "mean": "Sắp xếp tăng dần",
     "co-mean": "-",
     "explain": "Sắp xếp tăng dần"
   },
@@ -2435,7 +2195,7 @@
     "goi": "要件定義",
     "kanji": "YẾU KIỆN ĐỊNH NGHĨA",
     "read": "ようけんていぎ",
-    "mean": "-",
+    "mean": "Requirement definition",
     "co-mean": "-",
     "explain": "Requirement definition / Mô tả yêu cầu"
   },
@@ -2443,7 +2203,7 @@
     "goi": "ヒアリング",
     "kanji": "-",
     "read": "-",
-    "mean": "-",
+    "mean": "Hearing",
     "co-mean": "-",
     "explain": "Hearing/ Họp trao đổi"
   },
@@ -2451,7 +2211,7 @@
     "goi": "修正する",
     "kanji": "TU CHÁNH",
     "read": "しゅうせいする",
-    "mean": "-",
+    "mean": "Sửa",
     "co-mean": "-",
     "explain": "Sửa"
   },
@@ -2459,7 +2219,7 @@
     "goi": "デプロイ",
     "kanji": "-",
     "read": "-",
-    "mean": "-",
+    "mean": "Deploy",
     "co-mean": "-",
     "explain": "Deploy/ triển khai tiến hành sử dụng phần mềm hoàn thiện trong môi trường ứng dụng thực tế"
   },
@@ -2467,7 +2227,7 @@
     "goi": "本番ローンチ",
     "kanji": "BỔN PHIÊN",
     "read": "ほんばんろーんち",
-    "mean": "-",
+    "mean": "Production launch",
     "co-mean": "-",
     "explain": "Production launch"
   },
@@ -2475,7 +2235,7 @@
     "goi": "納品",
     "kanji": "NẠP PHẨM",
     "read": "のうひん",
-    "mean": "-",
+    "mean": "Giao hàng",
     "co-mean": "-",
     "explain": "Giao hàng/ bàn giao sản phẩm cho khách hàng"
   },
@@ -2483,7 +2243,7 @@
     "goi": "メインテナンス ",
     "kanji": "-",
     "read": "-",
-    "mean": "-",
+    "mean": "Maintenance",
     "co-mean": "-",
     "explain": "Maintenance ( nâng cấp, chỉnh sửa, duy trì)"
   },
@@ -2491,7 +2251,7 @@
     "goi": "本番環境",
     "kanji": "BỔN PHIÊN HOÀN CẢNH",
     "read": "-",
-    "mean": "-",
+    "mean": "ほんばんかんきょー",
     "co-mean": "-",
     "explain": "môi trường product"
   },
@@ -2578,7 +2338,7 @@
   {
     "goi": "APIを呼び出す",
     "kanji": "HÔ XUẤT",
-    "read": "-",
+    "read": "APIをよびだす",
     "mean": "call API",
     "co-mean": "-",
     "explain": "-"
@@ -2586,21 +2346,13 @@
   {
     "goi": "アクセストークンを取得します",
     "kanji": "THỦ ĐẮC",
-    "read": "-",
+    "read": "アクセストークンをしゅとくします",
     "mean": "Lấy access token",
     "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "BEがMillviAPIを呼び出す要求を処理",
-    "kanji": "YẾU CẦU - XỨ LÍ",
-    "read": "-",
-    "mean": "-",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "塩味  ",
+    "goi": "塩味",
     "kanji": "DIÊM VỊ",
     "read": "しおあじ",
     "mean": "vị mặn",
@@ -2608,50 +2360,18 @@
     "explain": "-"
   },
   {
-    "goi": "甘味  ",
-    "kanji": "CAM VỊ",
-    "read": "あまみ",
-    "mean": "vị ngọt",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "酸味",
-    "kanji": "TOAN VỊ",
-    "read": "さんみ",
-    "mean": "  vị chua",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "苦味",
-    "kanji": "KHỔ VỊ",
-    "read": " にがみ",
-    "mean": " vị đắng",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "うま味",
-    "kanji": "vị",
-    "read": " うまみ",
-    "mean": " vị mì chính",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "IT: 活性: active,",
+    "goi": "活性,",
     "kanji": "HOẠT TÍNH",
     "read": "かっせい",
-    "mean": "-",
+    "mean": "active",
     "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "非活性: inactive",
+    "goi": "非活性",
     "kanji": "PHI HOẠT TÍNH",
-    "read": "-",
-    "mean": "Không hoạt động",
+    "read": "ひかっせい",
+    "mean": "inactive、Không hoạt động",
     "co-mean": "-",
     "explain": "-"
   },
@@ -2666,7 +2386,7 @@
   {
     "goi": "メンバーが担当者に設定されている",
     "kanji": "ĐẢM ĐƯƠNG GIẢ",
-    "read": "-",
+    "read": "メンバーがたんとうしゃにせっていされている",
     "mean": "member được set cho làm task worker",
     "co-mean": "-",
     "explain": "-"
@@ -2674,7 +2394,7 @@
   {
     "goi": "未設定",
     "kanji": "VỊ THIẾT ĐỊNH",
-    "read": "-",
+    "read": "みせってい",
     "mean": "chưa thiết lập, chưa đặt",
     "co-mean": "-",
     "explain": "開始日を未設定にする: start date chưa thiết lập"
@@ -2682,7 +2402,7 @@
   {
     "goi": "現在日付を開始日に設定する",
     "kanji": "HIỆN TẠI NHẬT PHÓ - KHAI THỦY NHẬT",
-    "read": "-",
+    "read": "げんざいひづけをかいしびにせっていする",
     "mean": "đặt ngày hiện tại thành start date",
     "co-mean": "-",
     "explain": "-"
@@ -2690,7 +2410,7 @@
   {
     "goi": "引用",
     "kanji": "DẪN DỤNG",
-    "read": "-",
+    "read": "いんよう",
     "mean": "quote (trích dẫn)",
     "co-mean": "-",
     "explain": "-"
@@ -2698,7 +2418,7 @@
   {
     "goi": "ステータスを未着手に更新する",
     "kanji": "VỊ TRỨ THỦ - CANH TÂN",
-    "read": "-",
+    "read": "ステータスをみちゃくしゅにこうしんする",
     "mean": "update status là 未着手 (chưa làm) ",
     "co-mean": "-",
     "explain": "-"
@@ -2706,15 +2426,15 @@
   {
     "goi": "自動",
     "kanji": "TỰ ĐỘNG",
-    "read": "-",
+    "read": "じどう",
     "mean": "auto",
     "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "期限 ",
+    "goi": "期限",
     "kanji": "KÌ HẠN",
-    "read": "-",
+    "read": "きげん",
     "mean": "Due date",
     "co-mean": "-",
     "explain": "-"
@@ -2738,7 +2458,7 @@
   {
     "goi": "契約",
     "kanji": "KHẾ ƯỚC",
-    "read": "-",
+    "read": "けいやく",
     "mean": "contract",
     "co-mean": "-",
     "explain": "-"
@@ -2754,7 +2474,7 @@
   {
     "goi": "前ページ",
     "kanji": "TIỀN",
-    "read": "-",
+    "read": "ぜんページ",
     "mean": "-",
     "co-mean": "-",
     "explain": "-"
@@ -2763,22 +2483,14 @@
     "goi": "一つ前のページのタスク情報を表示する",
     "kanji": "TÌNH BÁO",
     "read": "-",
-    "mean": "-",
+    "mean": "ひとつぜんのページのタスクじょうほうをひょうじする",
     "co-mean": "-",
     "explain": "-"
   },
   {
     "goi": "次ページ",
     "kanji": "THỨ ",
-    "read": "-",
-    "mean": "-",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "一つ後のページのタスク情報を表示する",
-    "kanji": "BIỂU KÌ",
-    "read": "-",
+    "read": "つぎページ",
     "mean": "-",
     "co-mean": "-",
     "explain": "-"
@@ -2794,7 +2506,7 @@
   {
     "goi": "読み取りモード",
     "kanji": "ĐỘC THỦ",
-    "read": "-",
+    "read": "よみとりモード",
     "mean": "Read mode",
     "co-mean": "-",
     "explain": "-"
@@ -2802,7 +2514,7 @@
   {
     "goi": "編集モード",
     "kanji": "BIÊN TẬP",
-    "read": "-",
+    "read": "へんしゅうモード",
     "mean": "Edit mode",
     "co-mean": "-",
     "explain": "-"
@@ -2832,33 +2544,17 @@
     "explain": "init develop to develope | khởi tạo develop sang develope"
   },
   {
-    "goi": "Valiadate",
-    "kanji": "-",
-    "read": "-",
-    "mean": "xác thực, kiểm tra phù hợp của dữ liệu",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
     "goi": "再現する",
     "kanji": "TÁI HIỆN",
-    "read": "-",
+    "read": "さいげんする",
     "mean": "reproduce, tái hiện",
-    "co-mean": "-",
-    "explain": "-"
-  },
-  {
-    "goi": "タスク一覧からタスク詳細への画面遷移 ",
-    "kanji": "NHẤT LÃM",
-    "read": "-",
-    "mean": "-",
     "co-mean": "-",
     "explain": "-"
   },
   {
     "goi": "不正報告",
     "kanji": "BẤT CHÍNH BÁO CÁO",
-    "read": "-",
+    "read": "ふせいほうこく",
     "mean": "-",
     "co-mean": "-",
     "explain": "-"
@@ -2880,9 +2576,9 @@
     "explain": "-"
   },
   {
-    "goi": "関連リンク ",
+    "goi": "関連リンク",
     "kanji": "QUAN LIÊN",
-    "read": "-",
+    "read": "かんれんリンク",
     "mean": "Link liên kết ",
     "co-mean": "-",
     "explain": "-"
@@ -2920,9 +2616,9 @@
     "explain": "注意喚起 tạo sự chú ý!!!"
   },
   {
-    "goi": "構成 ",
+    "goi": "構成",
     "kanji": "CẤU THÀNH",
-    "read": "-",
+    "read": "こうせい",
     "mean": ":IT configuration, cáu hình",
     "co-mean": "-",
     "explain": "-"
@@ -2938,7 +2634,7 @@
   {
     "goi": "読み込みをする",
     "kanji": "ĐỘC",
-    "read": "-",
+    "read": "よみこみをする",
     "mean": "đọc",
     "co-mean": "-",
     "explain": "-"
@@ -2963,2584 +2659,2568 @@
     "goi": "複製",
     "kanji": "PHỨC CHẾ",
     "read": "ふくせい",
-    "mean": "-",
+    "mean": "Duplicate",
     "co-mean": "IT: Duplicate",
     "explain": "-"
   },
   {
     "goi": "複製元",
     "kanji": "PHỨC CHẾ NGUYÊN",
-    "read": "-",
+    "read": "ふくせいもと",
     "mean": "nguồn copy",
     "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "挿入そうにゅう",
-    "read": "SÁP NHẬP",
+    "goi": "挿入",
+    "kanji": "SÁP NHẬP",
+    "read": "そうにゅう",
     "mean": "Chèn",
     "co-mean": "Insert",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "境界線 きょうかいせん",
-    "read": "CẢNH GIỚI TUYẾN",
+    "goi": "境界線",
+    "kanji": "CẢNH GIỚI TUYẾN",
+    "read": "きょうかいせん",
     "mean": "Ranh giới",
     "co-mean": "Border",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "フォーマット",
+    "goi": "フォーマット",
+    "kanji": "-",
     "read": "-",
     "mean": "Định dạng",
     "co-mean": "Format",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "印刷 いんさつ",
-    "read": "ẤN XOÁT",
+    "goi": "印刷",
+    "kanji": "ẤN XOÁT",
+    "read": "いんさつ",
     "mean": "In ấn",
     "co-mean": "Print",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "置換 ちかん",
-    "read": "TRÍ HOÁN",
+    "goi": "置換",
+    "kanji": "TRÍ HOÁN",
+    "read": "ちかん",
     "mean": "Thay thế",
     "co-mean": "Replace",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "選択 せんたく",
-    "read": "TUYỂN TRẠCH",
+    "goi": "選択",
+    "kanji": "TUYỂN TRẠCH",
+    "read": "せんたく",
     "mean": "Lựa chọn",
     "co-mean": "Selection",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "上書き うわがき",
-    "read": "THƯỢNG THƯ",
+    "goi": "上書き",
+    "kanji": "THƯỢNG THƯ",
+    "read": "うわがき",
     "mean": "Ghi đè",
     "co-mean": "Overwrite",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "グリッド",
+    "goi": "グリッド",
+    "kanji": "-",
     "read": "-",
     "mean": "Lưới",
     "co-mean": "Grid",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "フォント",
+    "goi": "フォント",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Font",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "デザイン",
+    "goi": "デザイン",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Design",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "レイアウト",
+    "goi": "レイアウト",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Layout",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "センター",
+    "goi": "センター",
+    "kanji": "-",
     "read": "-",
     "mean": "Chính giữa",
     "co-mean": "Center",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "グラフ",
+    "goi": "グラフ",
+    "kanji": "-",
     "read": "-",
     "mean": "Biểu đồ",
     "co-mean": "Graph",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "書き込む かきこむ",
-    "read": "THƯ ",
+    "goi": "書き込む",
+    "kanji": "THƯ",
+    "read": "かきこむ",
     "mean": "Viết",
     "co-mean": "Write",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "欄 らん",
-    "read": "LAN",
+    "goi": "欄",
+    "kanji": "LAN",
+    "read": "らん",
     "mean": "Cột",
     "co-mean": "Column",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "コラム",
+    "goi": "コラム",
+    "kanji": "-",
     "read": "-",
     "mean": "Cột",
     "co-mean": "Column",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "改行 かいぎょう",
-    "read": "CẢI HÀNH",
+    "goi": "改行",
+    "kanji": "CẢI HÀNH",
+    "read": "かいぎょう",
     "mean": "Xuống dòng",
     "co-mean": "Line break",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "文字 もじ",
-    "read": "VĂN TỰ",
+    "goi": "文字",
+    "kanji": "VĂN TỰ",
+    "read": "もじ",
     "mean": "Chữ",
     "co-mean": "Character",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "大文字 おおもじ",
-    "read": "ĐẠI VĂN TỰ",
+    "goi": "大文字",
+    "kanji": "ĐẠI VĂN TỰ",
+    "read": "おおもじ",
     "mean": "Chữ hoa",
     "co-mean": "Uppercase",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "小文字 こもじ",
-    "read": "TIỂU VĂN TỰ",
+    "goi": "小文字",
+    "kanji": "TIỂU VĂN TỰ",
+    "read": "こもじ",
     "mean": "Chữ thường",
     "co-mean": "Lowercase",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "形式 けいしき",
-    "read": "HÌNH THỨC",
+    "goi": "形式",
+    "kanji": "HÌNH THỨC",
+    "read": "けいしき",
     "mean": "Định dạng",
     "co-mean": "Format",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "インデント",
+    "goi": "インデント",
+    "kanji": "-",
     "read": "-",
     "mean": "Thụt dòng",
     "co-mean": "Indent",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "メモ",
+    "goi": "メモ",
+    "kanji": "-",
     "read": "-",
     "mean": "Ghi chú lại",
     "co-mean": "Memo",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "サイズ",
+    "goi": "サイズ",
+    "kanji": "-",
     "read": "-",
     "mean": "Kích thước",
     "co-mean": "Size",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "スタイル",
+    "goi": "スタイル",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Style",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "全角文字 ぜんかくもじ",
-    "read": "TOÀN GIÁC VĂN TỰ",
+    "goi": "全角文字",
+    "kanji": "TOÀN GIÁC VĂN TỰ",
+    "read": "ぜんかくもじ",
     "mean": "-",
     "co-mean": "Full-width character",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "プレビュー",
+    "goi": "プレビュー",
+    "kanji": "-",
     "read": "-",
     "mean": "Xem trước",
     "co-mean": "Preview",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "半角文字 はんかくもじ",
-    "read": "BÁN GIÁC VĂN TỰ",
+    "goi": "半角文字",
+    "kanji": "BÁN GIÁC VĂN TỰ",
+    "read": "はんかくもじ",
     "mean": "-",
     "co-mean": "Half-width character",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "文字化け もじばけ",
-    "read": "VĂN TỰ HÓA",
+    "goi": "文字化け",
+    "kanji": "VĂN TỰ HÓA",
+    "read": "もじばけ",
     "mean": "Vỡ font chữ",
     "co-mean": "Garbled",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "エディター",
+    "goi": "エディター",
+    "kanji": "-",
     "read": "-",
     "mean": "Trình soạn thảo",
     "co-mean": "Editor",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ボールド",
+    "goi": "ボールド",
+    "kanji": "-",
     "read": "-",
     "mean": "In đậm",
     "co-mean": "Bold",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "イタリック",
+    "goi": "イタリック",
+    "kanji": "-",
     "read": "-",
     "mean": "In nghiêng",
     "co-mean": "Italic",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "アンダーライン",
+    "goi": "アンダーライン",
+    "kanji": "-",
     "read": "-",
     "mean": "Gạch chân",
     "co-mean": "Underline",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "左揃え ひだりそろえ",
-    "read": "TẢ TIỄN",
+    "goi": "左揃え",
+    "kanji": "TẢ TIỄN",
+    "read": "ひだりそろえ",
     "mean": "Canh trái",
     "co-mean": "Left justification",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "右揃え みぎそろえ",
-    "read": "HỮU TIỄN",
+    "goi": "右揃え",
+    "kanji": "HỮU TIỄN",
+    "read": "みぎそろえ",
     "mean": "Canh phải",
     "co-mean": "Right justification",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "中央揃え ちゅうおうそろえ",
-    "read": "TRUNG ƯƠNG TIỄN",
+    "goi": "中央揃え",
+    "kanji": "TRUNG ƯƠNG TIỄN",
+    "read": "ちゅうおうそろえ",
     "mean": "Canh giữa",
     "co-mean": "Centering",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "空欄 くうらん",
-    "read": "KHÔNG LAN",
+    "goi": "空欄",
+    "kanji": "KHÔNG LAN",
+    "read": "くうらん",
     "mean": "Chỗ trống",
     "co-mean": "Blank space",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "両端揃え りょうたんそろえ",
-    "read": "LƯỠNG ĐOAN TIỄN",
+    "goi": "両端揃え",
+    "kanji": "LƯỠNG ĐOAN TIỄN",
+    "read": "りょうたんそろえ",
     "mean": "Canh đều",
     "co-mean": "Full justification",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "記入 きにゅう",
-    "read": "KÍ NHẬP",
+    "goi": "記入",
+    "kanji": "KÍ NHẬP",
+    "read": "きにゅう",
     "mean": "Ghi chép",
     "co-mean": "Record",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "有理数 ゆうりすう",
-    "read": "HỮU LÍ SỔ",
+    "goi": "有理数",
+    "kanji": "HỮU LÍ SỔ",
+    "read": "ゆうりすう",
     "mean": "Số hữu tỷ",
     "co-mean": "Rational number",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "複素数 ふくそすう",
-    "read": "PHỨC TỐ SỔ",
+    "goi": "複素数",
+    "kanji": "PHỨC TỐ SỔ",
+    "read": "ふくそすう",
     "mean": "Số phức",
     "co-mean": "Complex number",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "シンボル",
+    "goi": "シンボル",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Symbol",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "格納領域 かくのうりょういき",
-    "read": "CÁCH NẠP LĨNH VỰC",
+    "goi": "格納領域",
+    "kanji": "CÁCH NẠP LĨNH VỰC",
+    "read": "かくのうりょういき",
     "mean": "Vùng lưu trữ",
     "co-mean": "Storage area",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "レコード",
+    "goi": "レコード",
+    "kanji": "-",
     "read": "-",
     "mean": "Bản ghi",
     "co-mean": "Record",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "マルチテナント",
+    "goi": "マルチテナント",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Multitenancy",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "データ連携 データれんけい",
-    "read": "LIÊN HUỀ",
+    "goi": "データ連携",
+    "kanji": "LIÊN HUỀ",
+    "read": "データれんけい",
     "mean": "Liên kết dữ liệu",
     "co-mean": "Data linkage",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ビット",
+    "goi": "ビット",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Bit",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "バイト",
+    "goi": "バイト",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Byte",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "キロバイト",
+    "goi": "キロバイト",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Kilobyte",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "メガバイト",
+    "goi": "メガバイト",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Megabyte",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ギガバイト",
+    "goi": "ギガバイト",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Gigabyte",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "テラバイト",
+    "goi": "テラバイト",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Terabyte",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "データタイプ",
+    "goi": "データタイプ",
+    "kanji": "-",
     "read": "-",
     "mean": "Kiểu dữ liệu",
     "co-mean": "Data type",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ハッシュ",
+    "goi": "ハッシュ",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Hash",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "文字列 もじれつ",
-    "read": "VĂN TỰ LIỆT",
+    "goi": "文字列",
+    "kanji": "VĂN TỰ LIỆT",
+    "read": "もじれつ",
     "mean": "Chuỗi ký tự",
     "co-mean": "String",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "リレーションシップ",
+    "goi": "リレーションシップ",
+    "kanji": "-",
     "read": "-",
     "mean": "Mối quan hệ",
     "co-mean": "Relationship",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "データベース",
+    "goi": "データベース",
+    "kanji": "-",
     "read": "-",
     "mean": "Cơ sở dữ liệu",
     "co-mean": "Database",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "データ",
+    "goi": "データ",
+    "kanji": "-",
     "read": "-",
     "mean": "Dữ liệu",
     "co-mean": "Data",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "リファレンス",
+    "goi": "リファレンス",
+    "kanji": "-",
     "read": "-",
     "mean": "Sự quan hệ",
     "co-mean": "Reference",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "クエリー",
+    "goi": "クエリー",
+    "kanji": "-",
     "read": "-",
     "mean": "Chất vấn",
     "co-mean": "Query",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "配列 はいれつ",
-    "read": "PHỐI LIỆT",
+    "goi": "配列",
+    "kanji": "PHỐI LIỆT",
+    "read": "はいれつ",
     "mean": "Mảng",
     "co-mean": "Array",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "数値 すうち",
-    "read": "SỔ TRỊ",
+    "goi": "数値",
+    "kanji": "SỔ TRỊ",
+    "read": "すうち",
     "mean": "Giá trị số",
     "co-mean": "Numerical value",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "論理値 ろんりち",
-    "read": "LUẬN LÍ TRỊ",
+    "goi": "論理値",
+    "kanji": "LUẬN LÍ TRỊ",
+    "read": "ろんりち",
     "mean": "Giá trị true false",
     "co-mean": "Logical value",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "整数 せいすう",
-    "read": "CHỈNH SỔ",
+    "goi": "整数",
+    "kanji": "CHỈNH SỔ",
+    "read": "せいすう",
     "mean": "Số nguyên",
     "co-mean": "Integer",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "数字 すうじ",
-    "read": "SỔ TỰ",
+    "goi": "数字",
+    "kanji": "SỔ TỰ",
+    "read": "すうじ",
     "mean": "Chữ số",
     "co-mean": "Numeral",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "基数 きすう",
-    "read": "CƠ SỔ",
+    "goi": "基数",
+    "kanji": "CƠ SỔ",
+    "read": "きすう",
     "mean": "Cơ số",
     "co-mean": "Cardinal number",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "2進数 2しんすう",
-    "read": "TIẾN SỔ",
+    "goi": "2進数",
+    "kanji": "TIẾN SỔ",
+    "read": "2しんすう",
     "mean": "Cơ số 2",
     "co-mean": "Binary",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "8進数 8しんすう",
-    "read": "TIẾN SỔ",
+    "goi": "8進数",
+    "kanji": "TIẾN SỔ",
+    "read": "8しんすう",
     "mean": "Cơ số 8",
     "co-mean": "Octal",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "10進数 10しんすう",
-    "read": "TIẾN SỔ",
+    "goi": "10進数",
+    "kanji": "TIẾN SỔ",
+    "read": "10しんすう",
     "mean": "Cơ số 10",
     "co-mean": "Decimal",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "16進数 16しんすう",
-    "read": "TIẾN SỔ",
+    "goi": "16進数",
+    "kanji": "TIẾN SỔ",
+    "read": "16しんすう",
     "mean": "Cơ số 16",
     "co-mean": "Hexadecimal",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "オペレーター",
+    "goi": "オペレーター",
+    "kanji": "-",
     "read": "-",
     "mean": "Người trực tổng đài",
     "co-mean": "Operator",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "疎通不具合 そつうふぐあい",
-    "read": "SƠ THÔNG BẤT CỤ HỢP",
+    "goi": "疎通不具合",
+    "kanji": "SƠ THÔNG BẤT CỤ HỢP",
+    "read": "そつうふぐあい",
     "mean": "Lỗi kết nối",
     "co-mean": "Communication failure",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "遠隔えんかく",
-    "read": "-",
+    "goi": "遠隔",
+    "kanji": "VIỄN CÁCH",
+    "read": "えんかく",
     "mean": "Từ xa",
     "co-mean": "Remote",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "IPアドレス",
+    "goi": "IPアドレス",
+    "kanji": "-",
     "read": "-",
     "mean": "Địa chỉ IP",
     "co-mean": "Ip address",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ネームサーバーアドレス",
+    "goi": "ネームサーバーアドレス",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Name server address",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "送り手 おくりて",
-    "read": "TỐNG THỦ",
+    "goi": "送り手",
+    "kanji": "TỐNG THỦ",
+    "read": "おくりて",
     "mean": "Bên gửi",
     "co-mean": "Sending side",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ローカルホスト",
+    "goi": "ローカルホスト",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Localhost",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ソケット",
+    "goi": "ソケット",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Socket",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ポート",
+    "goi": "ポート",
+    "kanji": "-",
     "read": "-",
     "mean": "Cổng",
     "co-mean": "Port",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "リクエストヘッダ",
+    "goi": "リクエストヘッダ",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Request header",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "リクエストボディ",
+    "goi": "リクエストボディ",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Request body",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "レスポンスヘッダ",
+    "goi": "レスポンスヘッダ",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Response header",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "レスポンスボディ",
+    "goi": "レスポンスボディ",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Response body",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "プロキシ",
+    "goi": "プロキシ",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Proxy",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ストリーム",
+    "goi": "ストリーム",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Stream",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "受けて うけて",
-    "read": "THỤ",
+    "goi": "受けて",
+    "kanji": "THỤ",
+    "read": "うけて",
     "mean": "Bên nhận",
     "co-mean": "Receiving side",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "光ファイバ ひかりファイバ",
-    "read": "QUANG",
+    "goi": "光ファイバ",
+    "kanji": "QUANG",
+    "read": "ひかりファイバ",
     "mean": "Cáp quang",
     "co-mean": "Fiber Optics",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "インターネット",
+    "goi": "インターネット",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Internet",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "接続 せつぞく",
-    "read": "TIẾP TỤC",
+    "goi": "接続",
+    "kanji": "TIẾP TỤC",
+    "read": "せつぞく",
     "mean": "Kết nối",
     "co-mean": "Connect",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "プロトコル",
+    "goi": "プロトコル",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Protocol",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "コネクト",
+    "goi": "コネクト",
+    "kanji": "-",
     "read": "-",
     "mean": "Kết nối",
     "co-mean": "Connect",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "内線番号 ないせんばんごう",
-    "read": "NỘI TUYẾN PHIÊN HÀO",
+    "goi": "内線番号",
+    "kanji": "NỘI TUYẾN PHIÊN HÀO",
+    "read": "ないせんばんごう",
     "mean": "Số nội tuyến",
     "co-mean": "Internal number",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ホスト",
+    "goi": "ホスト",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Host",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "オンライン",
+    "goi": "オンライン",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Online",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "オフライン",
+    "goi": "オフライン",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Offline",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "連動 れんどう",
-    "read": "LIÊN ĐỘNG",
+    "goi": "連動",
+    "kanji": "LIÊN ĐỘNG",
+    "read": "れんどう",
     "mean": "Liên kết",
     "co-mean": "Link",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "無線 むせん",
-    "read": "VÔ TUYẾN",
+    "goi": "無線",
+    "kanji": "VÔ TUYẾN",
+    "read": "むせん",
     "mean": "Không dây",
     "co-mean": "Wireless",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "有線 ゆうせん",
-    "read": "HỮU TUYẾN",
+    "goi": "有線",
+    "kanji": "HỮU TUYẾN",
+    "read": "ゆうせん",
     "mean": "Có dây",
     "co-mean": "Wire",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ブルーツース",
+    "goi": "ブルーツース",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Bluetooth",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "通話 つうわ",
-    "read": "THÔNG THOẠI",
+    "goi": "通話",
+    "kanji": "THÔNG THOẠI",
+    "read": "つうわ",
     "mean": "Gọi điện",
     "co-mean": "Telephone call",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "サーバー",
+    "goi": "サーバー",
+    "kanji": "-",
     "read": "-",
     "mean": "Máy chủ",
     "co-mean": "Server",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ドメイン",
+    "goi": "ドメイン",
+    "kanji": "-",
     "read": "-",
     "mean": "Tên miền",
     "co-mean": "Domain",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ネットワーク",
+    "goi": "ネットワーク",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Network",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "脆弱性 ぜいじゃくせい",
-    "read": "THÚY NHƯỢC TÍNH",
+    "goi": "脆弱性",
+    "kanji": "THÚY NHƯỢC TÍNH",
+    "read": "ぜいじゃくせい",
     "mean": "Lỗ hổng",
     "co-mean": "Vulnerability",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "証明書 しょうめいしょ",
-    "read": "CHỨNG MINH THƯ",
+    "goi": "証明書",
+    "kanji": "CHỨNG MINH THƯ",
+    "read": "しょうめいしょ",
     "mean": "Giấy chứng nhận",
     "co-mean": "Certificate",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "個人情報 こじんじょうほう",
-    "read": "CÁ NHÂN TÌNH BÁO",
+    "goi": "個人情報",
+    "kanji": "CÁ NHÂN TÌNH BÁO",
+    "read": "こじんじょうほう",
     "mean": "Thông tin cá nhân",
     "co-mean": "Persional Information",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ハッキング",
+    "goi": "ハッキング",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Hacking",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "暗号化 あんごうか",
-    "read": "ÁM HÀO HÓA",
+    "goi": "暗号化",
+    "kanji": "ÁM HÀO HÓA",
+    "read": "あんごうか",
     "mean": "Mã hóa",
     "co-mean": "Encrypt",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "デジタル署名 デジタルしょめい",
-    "read": "THỰ DANH",
+    "goi": "デジタル署名",
+    "kanji": "THỰ DANH",
+    "read": "デジタルしょめい",
     "mean": "Chữ ký điện tử",
     "co-mean": "Digital Signature",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "認証 にんしょう",
-    "read": "NHẬN CHỨNG",
+    "goi": "認証",
+    "kanji": "NHẬN CHỨNG",
+    "read": "にんしょう",
     "mean": "Chứng nhận",
     "co-mean": "Certification",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "暗証番号 あんしょうばんごう",
-    "read": "ÁM CHỨNG PHIÊN HÀO",
+    "goi": "暗証番号",
+    "kanji": "ÁM CHỨNG PHIÊN HÀO",
+    "read": "あんしょうばんごう",
     "mean": "Mã số bảo vệ",
     "co-mean": "Password Number",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "アラート",
+    "goi": "アラート",
+    "kanji": "-",
     "read": "-",
     "mean": "Thông báo",
     "co-mean": "Alert",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "アラーム",
+    "goi": "アラーム",
+    "kanji": "-",
     "read": "-",
     "mean": "Báo động",
     "co-mean": "Alarm",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "クレジットカード",
+    "goi": "クレジットカード",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Credit card",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "デビットカード",
+    "goi": "デビットカード",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Debit card",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "パスワード",
+    "goi": "パスワード",
+    "kanji": "-",
     "read": "-",
     "mean": "Mật khẩu",
     "co-mean": "Password",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "復号化 ふくごうか",
-    "read": "PHỤC HÀO HÓA",
+    "goi": "復号化",
+    "kanji": "PHỤC HÀO HÓA",
+    "read": "ふくごうか",
     "mean": "Giải mã",
     "co-mean": "Decrypt",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "アカウント",
+    "goi": "アカウント",
+    "kanji": "-",
     "read": "-",
     "mean": "Tài khoản",
     "co-mean": "Account",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "位置情報 いちじょうほう",
-    "read": "VỊ TRÍ TÌNH BÁO",
+    "goi": "位置情報",
+    "kanji": "VỊ TRÍ TÌNH BÁO",
+    "read": "いちじょうほう",
     "mean": "Thông tin địa điểm",
     "co-mean": "Location information",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "許可 きょか",
-    "read": "HỨA KHẢ",
+    "goi": "許可",
+    "kanji": "HỨA KHẢ",
+    "read": "きょか",
     "mean": "Cho phép",
     "co-mean": "Allow",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "情報 じょうほう",
-    "read": "TÌNH BÁO",
+    "goi": "情報",
+    "kanji": "TÌNH BÁO",
+    "read": "じょうほう",
     "mean": "Thông tin địa điểm",
     "co-mean": "Information",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "警告 けいこく",
-    "read": "CẢNH CÁO",
+    "goi": "警告",
+    "kanji": "CẢNH CÁO",
+    "read": "けいこく",
     "mean": "Cảnh báo",
     "co-mean": "Warning",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ライセンス",
+    "goi": "ライセンス",
+    "kanji": "-",
     "read": "-",
     "mean": "Giấy phép",
     "co-mean": "License",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ウイルス",
+    "goi": "ウイルス",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Virus",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "セキュリティー",
+    "goi": "セキュリティー",
+    "kanji": "-",
     "read": "-",
     "mean": "Bảo mật",
     "co-mean": "Security",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "権限 けんげん",
-    "read": "QUYỀN HẠN",
+    "goi": "権限",
+    "kanji": "QUYỀN HẠN",
+    "read": "けんげん",
     "mean": "Quyền hạn",
     "co-mean": "Authority",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "共有フォルダ きょうゆうフォルダ",
-    "read": "CỘNG HỮU",
+    "goi": "共有フォルダ",
+    "kanji": "CỘNG HỮU",
+    "read": "きょうゆうフォルダ",
     "mean": "Thư mục chia sẻ",
     "co-mean": "Shared Folder",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "共有ファイル きょうゆうファイル",
-    "read": "CỘNG HỮU",
+    "goi": "共有ファイル",
+    "kanji": "CỘNG HỮU",
+    "read": "きょうゆうファイル",
     "mean": "File chia sẻ",
     "co-mean": "Shared File",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "隠しファイル かくしファイル",
-    "read": "ẨN",
+    "goi": "隠しファイル",
+    "kanji": "ẨN",
+    "read": "かくしファイル",
     "mean": "File ẩn",
     "co-mean": "Hidden File",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "拡張子 かくちょうし",
-    "read": "KHUẾCH TRƯƠNG TỬ",
+    "goi": "拡張子",
+    "kanji": "KHUẾCH TRƯƠNG TỬ",
+    "read": "かくちょうし",
     "mean": "Đuôi file",
     "co-mean": "Extension",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "アドイン",
+    "goi": "アドイン",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Add-in",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "プラグイン",
+    "goi": "プラグイン",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Plugin",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ツール",
+    "goi": "ツール",
+    "kanji": "-",
     "read": "-",
     "mean": "Công cụ",
     "co-mean": "Tool",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ランチャー",
+    "goi": "ランチャー",
+    "kanji": "-",
     "read": "-",
     "mean": "Trình khởi chạy",
     "co-mean": "Launcher",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "アプリケーション",
+    "goi": "アプリケーション",
+    "kanji": "-",
     "read": "-",
     "mean": "Ứng dụng",
     "co-mean": "Application",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "フォルダー",
+    "goi": "フォルダー",
+    "kanji": "-",
     "read": "-",
     "mean": "Thư mục",
     "co-mean": "Folder",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "アプリケーション",
+    "goi": "アプリケーション",
+    "kanji": "-",
     "read": "-",
     "mean": "Ứng dụng",
     "co-mean": "App",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ファイル",
+    "goi": "ファイル",
+    "kanji": "-",
     "read": "-",
     "mean": "Tập tin",
     "co-mean": "File",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "メモ帳 メモちょう",
-    "read": "TRƯỚNG",
+    "goi": "メモ帳",
+    "kanji": "TRƯỚNG",
+    "read": "メモちょう",
     "mean": "-",
     "co-mean": "Notepad",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "カーソル",
+    "goi": "カーソル",
+    "kanji": "-",
     "read": "-",
     "mean": "con trỏ",
     "co-mean": "Cursor",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "オン",
+    "goi": "オン",
+    "kanji": "-",
     "read": "-",
     "mean": "Mở",
     "co-mean": "On",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "オフ",
+    "goi": "オフ",
+    "kanji": "-",
     "read": "-",
     "mean": "Tắt",
     "co-mean": "Off",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "テキストエディタ",
+    "goi": "テキストエディタ",
+    "kanji": "-",
     "read": "-",
     "mean": "Trình soạn thảo văn bản",
     "co-mean": "Text editor",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "デバイス",
+    "goi": "デバイス",
+    "kanji": "-",
     "read": "-",
     "mean": "Thiết bị",
     "co-mean": "Device",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "オペレーティングシステム",
+    "goi": "オペレーティングシステム",
+    "kanji": "-",
     "read": "-",
     "mean": "Hệ điều hành",
     "co-mean": "Operation system",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "システム",
+    "goi": "システム",
+    "kanji": "-",
     "read": "-",
     "mean": "Hệ thống",
     "co-mean": "System",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ギャラリー",
+    "goi": "ギャラリー",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Gallery",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ディレクトリ",
+    "goi": "ディレクトリ",
+    "kanji": "-",
     "read": "-",
     "mean": "Đường dẫn thư mục",
     "co-mean": "Directory",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "管理者 かんりしゃ",
-    "read": "QUẢN LÍ GIẢ",
+    "goi": "管理者",
+    "kanji": "QUẢN LÍ GIẢ",
+    "read": "かんりしゃ",
     "mean": "Người quản lý",
     "co-mean": "Administrator",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "キャッシュ",
+    "goi": "キャッシュ",
+    "kanji": "-",
     "read": "-",
     "mean": "Bộ nhớ đệm",
     "co-mean": "Cache",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "モデレーター",
+    "goi": "モデレーター",
+    "kanji": "-",
     "read": "-",
     "mean": "Người điều hành",
     "co-mean": "Moderator",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "インターネットエクスプローラー",
+    "goi": "インターネットエクスプローラー",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Internet explorer",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "バッチ",
+    "goi": "バッチ",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Batch",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "コマンドプロンプト",
+    "goi": "コマンドプロンプト",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Command prompt",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "リードミー",
+    "goi": "リードミー",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Readme",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ターミナル",
+    "goi": "ターミナル",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Terminal",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "電卓 でんたく",
-    "read": "ĐIỆN TRÁC",
+    "goi": "電卓",
+    "kanji": "ĐIỆN TRÁC",
+    "read": "でんたく",
     "mean": "Máy tính",
     "co-mean": "Calculator",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ペイント",
+    "goi": "ペイント",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Paint",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ショートカット",
+    "goi": "ショートカット",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "ショートカット",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "スクリーンショット",
+    "goi": "スクリーンショット",
+    "kanji": "-",
     "read": "-",
     "mean": "Ảnh chụp màn hình",
     "co-mean": "Screenshot",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "スクショ",
+    "goi": "スクショ",
+    "kanji": "-",
     "read": "-",
     "mean": "Ảnh chụp màn hình",
     "co-mean": "Screenshot",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ボリューム",
+    "goi": "ボリューム",
+    "kanji": "-",
     "read": "-",
     "mean": "Âm lượng",
     "co-mean": "Volume",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "電源 でんげん",
-    "read": "ĐIỆN NGUYÊN",
+    "goi": "電源",
+    "kanji": "ĐIỆN NGUYÊN",
+    "read": "でんげん",
     "mean": "Nguồn điện",
     "co-mean": "Power",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "セーフモード",
+    "goi": "セーフモード",
+    "kanji": "-",
     "read": "-",
     "mean": "Chế độ an toàn",
     "co-mean": "Safe mode",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ポインタ",
+    "goi": "ポインタ",
+    "kanji": "-",
     "read": "-",
     "mean": "Con trỏ",
     "co-mean": "Pointer",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "マイコンピュータ",
+    "goi": "マイコンピュータ",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "My Computer",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ウインドーズ",
+    "goi": "ウインドーズ",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Windows",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ゴミ箱 ゴミばこ",
-    "read": "TƯƠNG",
+    "goi": "ゴミ箱",
+    "kanji": "TƯƠNG",
+    "read": "ゴミばこ",
     "mean": "Thùng rác",
     "co-mean": "Recycle Bin",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "エクスプローラ",
+    "goi": "エクスプローラ",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Explorer",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "コントロールパネル",
+    "goi": "コントロールパネル",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Control Panel",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ウインドウ",
+    "goi": "ウインドウ",
+    "kanji": "-",
     "read": "-",
     "mean": "Cửa sổ",
     "co-mean": "Window",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "バージョン",
+    "goi": "バージョン",
+    "kanji": "-",
     "read": "-",
     "mean": "Phiên bản",
     "co-mean": "Version",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "～版 ～ばん",
-    "read": "BẢN",
+    "goi": "～版",
+    "kanji": "BẢN",
+    "read": "～ばん",
     "mean": "Phiên bản ~",
     "co-mean": "~ version",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "機能",
-    "read": "KI NĂNG",
+    "goi": "機能",
+    "kanji": "KI NĂNG",
+    "read": "きのう",
     "mean": "Function Chức năng",
-    "co-mean": "きのう",
+    "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ワークフロー",
+    "goi": "ワークフロー",
+    "kanji": "-",
     "read": "-",
     "mean": "Tiến trình công việc",
     "co-mean": "Workflow",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "処理",
-    "read": "XỨ LÍ",
+    "goi": "処理",
+    "kanji": "XỨ LÍ",
+    "read": "しょり",
     "mean": "Process Tiến trình",
-    "co-mean": "しょり",
+    "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "リリース",
+    "goi": "リリース",
+    "kanji": "-",
     "read": "-",
     "mean": "Tung ra",
     "co-mean": "Release",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "改善",
-    "read": "CẢI THIỆN",
+    "goi": "改善",
+    "kanji": "CẢI THIỆN",
+    "read": "かいぜん",
     "mean": "Improve Cải thiện",
-    "co-mean": "かいぜん",
+    "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "モブプロ",
+    "goi": "モブプロ",
+    "kanji": "-",
     "read": "-",
     "mean": "Lập trình nhóm",
     "co-mean": "Mob programming",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ペアプロ",
+    "goi": "ペアプロ",
+    "kanji": "-",
     "read": "-",
     "mean": "Lập trình cặp",
     "co-mean": "Pair programming",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "配備",
-    "read": "PHỐI BỊ",
+    "goi": "配備",
+    "kanji": "PHỐI BỊ",
+    "read": "はいび",
     "mean": "Deployment Triển khai",
-    "co-mean": "はいび",
+    "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ソフトウエア",
+    "goi": "ソフトウエア",
+    "kanji": "-",
     "read": "-",
     "mean": "Phần mềm",
     "co-mean": "Software",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ハードウエア",
+    "goi": "ハードウエア",
+    "kanji": "-",
     "read": "-",
     "mean": "Phần cứng",
     "co-mean": "Hardware",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "要件",
-    "read": "YẾU KIỆN",
+    "goi": "要件",
+    "kanji": "YẾU KIỆN",
+    "read": "ようけん",
     "mean": "Requirement Yêu cầu",
-    "co-mean": "ようけん",
+    "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "要件定義 ようけんていぎ",
-    "read": "YẾU KIỆN ĐỊNH NGHĨA",
+    "goi": "要件定義",
+    "kanji": "YẾU KIỆN ĐỊNH NGHĨA",
+    "read": "ようけんていぎ",
     "mean": "Định nghĩa yêu cầu",
     "co-mean": "Requirement definition",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "アナリスト",
+    "goi": "アナリスト",
+    "kanji": "-",
     "read": "-",
     "mean": "Phân tích",
     "co-mean": "Analyst",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "問題",
-    "read": "VẤN ĐỀ",
+    "goi": "問題",
+    "kanji": "VẤN ĐỀ",
+    "read": "もんだい",
     "mean": "Issue Vấn đề",
-    "co-mean": "もんだい",
+    "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "メジャーアップデート",
+    "goi": "メジャーアップデート",
+    "kanji": "-",
     "read": "-",
     "mean": "Nâng cấp lớn",
     "co-mean": "Major update",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "テスト",
+    "goi": "テスト",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Test",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "本番環境",
-    "read": "BỔN PHIÊN HOÀN CẢNH",
+    "goi": "本番環境",
+    "kanji": "BỔN PHIÊN HOÀN CẢNH",
+    "read": "ほんばんかんきょう",
     "mean": "Production environment Môi trường sản phẩm",
-    "co-mean": "ほんばんかんきょう",
+    "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "単体テスト",
-    "read": "ĐƠN THỂ",
+    "goi": "単体テスト",
+    "kanji": "ĐƠN THỂ",
+    "read": "たんたいテスト",
     "mean": "Unit test",
-    "co-mean": "たんたいテスト",
+    "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "結合テスト",
-    "read": "KẾT HỢP",
+    "goi": "結合テスト",
+    "kanji": "KẾT HỢP",
+    "read": "けつごうテスト",
     "mean": "Integration test",
-    "co-mean": "けつごうテスト",
+    "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "機能テスト",
-    "read": "KI NĂNG",
+    "goi": "機能テスト",
+    "kanji": "KI NĂNG",
+    "read": "きのうテスト",
     "mean": "Function test",
-    "co-mean": "きのうテスト",
+    "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "基本設計 きほんせっけい",
-    "read": "CƠ BỔN THIẾT KẾ",
+    "goi": "基本設計",
+    "kanji": "CƠ BỔN THIẾT KẾ",
+    "read": "きほんせっけい",
     "mean": "Thiết kế cơ bản",
     "co-mean": "Basic design",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "詳細設計 しょうさいせっけい",
-    "read": "TƯỜNG TẾ THIẾT KẾ",
+    "goi": "詳細設計",
+    "kanji": "TƯỜNG TẾ THIẾT KẾ",
+    "read": "しょうさいせっけい",
     "mean": "Thiết kế chi tiết",
     "co-mean": "Detailed design",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "外部設計 がいぶせっけい",
-    "read": "NGOẠI BỘ THIẾT KẾ",
+    "goi": "外部設計",
+    "kanji": "NGOẠI BỘ THIẾT KẾ",
+    "read": "がいぶせっけい",
     "mean": "Thiết kế cơ bản",
     "co-mean": "External design",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "内部設計 ないぶせっけい",
-    "read": "NỘI BỘ THIẾT KẾ",
+    "goi": "内部設計",
+    "kanji": "NỘI BỘ THIẾT KẾ",
+    "read": "ないぶせっけい",
     "mean": "Thiết kế chi tiết",
     "co-mean": "Internal design",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "性能 せいのう",
-    "read": "TÍNH NĂNG",
+    "goi": "性能",
+    "kanji": "TÍNH NĂNG",
+    "read": "せいのう",
     "mean": "Tính năng",
     "co-mean": "Feature",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "機能一覧 きのういちらん",
-    "read": "KI NĂNG NHẤT LÃM",
+    "goi": "機能一覧",
+    "kanji": "KI NĂNG NHẤT LÃM",
+    "read": "きのういちらん",
     "mean": "Danh sách chức năng",
     "co-mean": "Functions list",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "画面遷移図 がめんせんいず",
-    "read": "HỌA DIỆN THIÊN DI DỰ",
+    "goi": "画面遷移図",
+    "kanji": "HỌA DIỆN THIÊN DI DỰ",
+    "read": "がめんせんいず",
     "mean": "Sơ đồ di chuyển màn hình",
     "co-mean": "Screen transition diagram",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "画面設計書 がめんせっけいしょ",
-    "read": "HỌA DIỆN THIẾT KẾ THƯ",
+    "goi": "画面設計書",
+    "kanji": "HỌA DIỆN THIẾT KẾ THƯ",
+    "read": "がめんせっけいしょ",
     "mean": "Tài liệu thiết kế màn hình",
     "co-mean": "Screen design document",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "実装 じっそう",
-    "read": "THỰC TRANG",
+    "goi": "実装",
+    "kanji": "THỰC TRANG",
+    "read": "じっそう",
     "mean": "Thực hiện、triển khai, code",
     "co-mean": "Implement",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "テーブル設計書 テーブルせっけいしょ",
-    "read": "THIẾT KẾ THƯ",
+    "goi": "テーブル設計書",
+    "kanji": "THIẾT KẾ THƯ",
+    "read": "テーブルせっけいしょ",
     "mean": "Tài liệu thiết kế table",
     "co-mean": "Table design document",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "設計 せっけい",
-    "read": "THIẾT KẾ",
-    "mean": "Thiết kế",
-    "co-mean": "Design",
-    "explain": "-"
-  },
-  {
-    "goi": "-",
-    "kanji": "ER図 ERず",
-    "read": "DỰ",
+    "goi": "実体関連モデル",
+    "kanji": "THỰC THỂ QUAN LIÊN",
+    "read": "じったいかんれんモデル",
     "mean": "Mô hình quan hệ thực thể",
     "co-mean": "Entity relationship diagram",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "実体関連モデル じったいかんれんモデル",
-    "read": "THỰC THỂ QUAN LIÊN",
-    "mean": "Mô hình quan hệ thực thể",
-    "co-mean": "Entity relationship diagram",
-    "explain": "-"
-  },
-  {
-    "goi": "-",
-    "kanji": "フェーズ",
+    "goi": "フェーズ",
+    "kanji": "Giai đoạn",
     "read": "-",
-    "mean": "Giai đoạn",
+    "mean": "-",
     "co-mean": "Phase",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "計画",
-    "read": "KẾ HỌA",
+    "goi": "計画",
+    "kanji": "KẾ HỌA",
+    "read": "けいかく",
     "mean": "Plan Kế hoạch",
-    "co-mean": "けいかく",
+    "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "プラン",
+    "goi": "プラン",
+    "kanji": "-",
     "read": "-",
     "mean": "Plan Kế hoạch",
     "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "要件一覧 ようけんいちらん",
-    "read": "YÊU CẦU NHẤT LÃM",
+    "goi": "要件一覧",
+    "kanji": "YÊU CẦU NHẤT LÃM",
+    "read": "ようけんいちらん",
     "mean": "Danh sách yêu cầu",
     "co-mean": "Requirement list",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "進捗 しんちょく",
-    "read": "TIẾN DUỆ",
+    "goi": "進捗",
+    "kanji": "TIẾN DUỆ",
+    "read": "しんちょく",
     "mean": "Tiến độ",
     "co-mean": "Progress",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "開発 かいはつ",
-    "read": "KHAI PHÁT",
+    "goi": "開発",
+    "kanji": "KHAI PHÁT",
+    "read": "かいはつ",
     "mean": "Phát triển",
     "co-mean": "Development",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "開発環境 かいはつかんきょう",
-    "read": "KHAI PHÁT HOÀN CẢNH",
+    "goi": "開発環境",
+    "kanji": "KHAI PHÁT HOÀN CẢNH",
+    "read": "かいはつかんきょう",
     "mean": "Môi trường phát triển",
     "co-mean": "Development environment",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "レビュー",
+    "goi": "レビュー",
+    "kanji": "-",
     "read": "-",
     "mean": "Xem lại",
     "co-mean": "Review",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "引き継ぎ ひきつぎ",
-    "read": "DẪN KẾ",
+    "goi": "引き継ぎ",
+    "kanji": "DẪN KẾ",
+    "read": "ひきつぎ",
     "mean": "Tiếp quản",
     "co-mean": "Take over",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "デッドライン",
+    "goi": "デッドライン",
+    "kanji": "-",
     "read": "-",
     "mean": "Hạn chót",
     "co-mean": "Deadline",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "システムアナリスト",
+    "goi": "システムアナリスト",
+    "kanji": "-",
     "read": "-",
     "mean": "Phân tích hệ thống",
     "co-mean": "System analyst",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "パターン",
+    "goi": "パターン",
+    "kanji": "-",
     "read": "-",
     "mean": "Mô hình",
     "co-mean": "Pattern",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "パッケージ",
+    "goi": "パッケージ",
+    "kanji": "-",
     "read": "-",
     "mean": "Đóng gói",
     "co-mean": "Package",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "環境構築 かんきょうこうちく",
-    "read": "HOÀN CẢNH CẤU TRÚC",
+    "goi": "環境構築",
+    "kanji": "HOÀN CẢNH CẤU TRÚC",
+    "read": "かんきょうこうちく",
     "mean": "Thiết lập môi trường",
     "co-mean": "Environment setup",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "タスク",
+    "goi": "タスク",
+    "kanji": "-",
     "read": "-",
     "mean": "Công việc",
     "co-mean": "Task",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ソフトウエア",
+    "goi": "ソフトウエア",
+    "kanji": "-",
     "read": "-",
     "mean": "Phần mềm",
     "co-mean": "Software",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ハードウエア",
+    "goi": "ハードウエア",
+    "kanji": "-",
     "read": "-",
     "mean": "Phần cứng",
     "co-mean": "Hardware",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "納期",
-    "read": "NẠP KÌ",
+    "goi": "納期",
+    "kanji": "NẠP KÌ",
+    "read": "のうき",
     "mean": "Deadline",
-    "co-mean": "のうき",
+    "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "セットアップ",
+    "goi": "セットアップ",
+    "kanji": "-",
     "read": "-",
     "mean": "Cài đặt",
     "co-mean": "Setup",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "アンロック",
+    "goi": "アンロック",
+    "kanji": "-",
     "read": "-",
     "mean": "Mở khóa",
     "co-mean": "Unlock",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "スキャン",
+    "goi": "スキャン",
+    "kanji": "-",
     "read": "-",
     "mean": "Quét",
     "co-mean": "Scan",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ミュート",
+    "goi": "ミュート",
+    "kanji": "-",
     "read": "-",
     "mean": "Tắt âm",
     "co-mean": "Mute",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "チェック",
+    "goi": "チェック",
+    "kanji": "-",
     "read": "-",
     "mean": "Kiểm tra",
     "co-mean": "Check",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "タッチ",
+    "goi": "タッチ",
+    "kanji": "-",
     "read": "-",
     "mean": "Chạm",
     "co-mean": "Touch",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "圧縮",
-    "read": "ÁP SÚC",
+    "goi": "圧縮",
+    "kanji": "ÁP SÚC",
+    "read": "あっしゅく",
     "mean": "Compression Nén",
-    "co-mean": "あっしゅく",
+    "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "リネーム",
+    "goi": "リネーム",
+    "kanji": "-",
     "read": "-",
     "mean": "Rename Đổi tên",
     "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "展開",
-    "read": "TRIỂN KHAI",
+    "goi": "展開",
+    "kanji": "TRIỂN KHAI",
+    "read": "てんかい",
     "mean": "Expand Giải nén",
-    "co-mean": "てんかい",
+    "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "解除",
-    "read": "GIẢI TRỪ",
+    "goi": "解除",
+    "kanji": "GIẢI TRỪ",
+    "read": "かいじょ",
     "mean": "Unlock Gỡ bỏ",
-    "co-mean": "かいじょ",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "起動",
-    "read": "KHỞI ĐỘNG",
+    "goi": "起動",
+    "kanji": "KHỞI ĐỘNG",
+    "read": "きどう",
     "mean": "Start up Khởi động",
-    "co-mean": "きどう",
+    "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "リブート",
+    "goi": "リブート",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Reboot",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ブート",
+    "goi": "ブート",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Boot",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ログオフ",
+    "goi": "ログオフ",
+    "kanji": "-",
     "read": "-",
     "mean": "-",
     "co-mean": "Log off",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ドロップ",
+    "goi": "ドロップ",
+    "kanji": "-",
     "read": "-",
     "mean": "Thả",
     "co-mean": "Drop",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "最小化",
-    "read": "TỐI TIỂU HÓA",
+    "goi": "最小化",
+    "kanji": "TỐI TIỂU HÓA",
+    "read": "さいしょうか",
     "mean": "Minimize Thu nhỏ cửa sổ",
-    "co-mean": "さいしょうか",
+    "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "最大化",
-    "read": "TỐI ĐẠI HÓA",
+    "goi": "最大化",
+    "kanji": "TỐI ĐẠI HÓA",
+    "read": "さいだいか",
     "mean": "Maximize Phóng to cửa sổ",
-    "co-mean": "さいだいか",
+    "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "押下",
-    "read": "ÁP HẠ",
+    "goi": "押下",
+    "kanji": "ÁP HẠ",
+    "read": "おうか",
     "mean": "Press Ấn xuống",
-    "co-mean": "おうか",
+    "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "コール",
+    "goi": "コール",
+    "kanji": "-",
     "read": "-",
     "mean": "Gọi",
     "co-mean": "Call",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "マウント",
+    "goi": "マウント",
+    "kanji": "-",
     "read": "-",
     "mean": "Gắn kết",
     "co-mean": "Mount",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "アンマウント",
+    "goi": "アンマウント",
+    "kanji": "-",
     "read": "-",
     "mean": "Tháo gắn kết",
     "co-mean": "Unmount",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "クリック",
+    "goi": "クリック",
+    "kanji": "",
     "read": "-",
     "mean": "Click chuột",
     "co-mean": "Click",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "コピー",
+    "goi": "コピー",
+    "kanji": "",
     "read": "-",
     "mean": "Sao chép",
     "co-mean": "Copy",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "貼り付け",
-    "read": "THIẾP PHÓ",
+    "goi": "貼り付け",
+    "kanji": "THIẾP PHÓ",
+    "read": "はりつけ",
     "mean": "Paste Dán",
-    "co-mean": "はりつけ",
+    "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "キャンセル",
+    "goi": "キャンセル",
+    "kanji": "-",
     "read": "-",
     "mean": "Cancel Hủy bỏ",
     "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "保存",
-    "read": "BẢO TỒN",
-    "mean": " Save Lưu",
-    "co-mean": "ほぞん",
+    "goi": "保存",
+    "kanji": "BẢO TỒN",
+    "read": "ほぞん",
+    "mean": "Save Lưu",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "アップグレード",
+    "goi": "アップグレード",
+    "kanji": "",
     "read": "-",
     "mean": "Nâng cấp",
     "co-mean": "Upgrade",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "閉じる",
-    "read": "BẾ",
+    "goi": "閉じる",
+    "kanji": "BẾ",
+    "read": "とじる",
     "mean": "Close Đóng",
-    "co-mean": "とじる",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "開く",
-    "read": "KHAI",
+    "goi": "開く",
+    "kanji": "KHAI",
+    "read": "ひらく",
     "mean": "Open Mở",
-    "co-mean": "ひらく",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "戻る",
-    "read": "LỆ",
+    "goi": "戻る",
+    "kanji": "LỆ",
+    "read": "もどる",
     "mean": "Back Quay lại",
-    "co-mean": "もどる",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ブロック",
+    "goi": "ブロック",
+    "kanji": "",
     "read": "-",
     "mean": "Chặn",
     "co-mean": "Block",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "アップロード",
+    "goi": "アップロード",
+    "kanji": "",
     "read": "-",
     "mean": "Tải lên",
     "co-mean": "Upload",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ダウンロード",
+    "goi": "ダウンロード",
+    "kanji": "",
     "read": "-",
     "mean": "Tải xuống",
     "co-mean": "Download",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "解凍",
-    "read": "GIẢI ĐỐNG",
+    "goi": "解凍",
+    "kanji": "GIẢI ĐỐNG",
+    "read": "かいとう",
     "mean": "Unpack Giải nén",
-    "co-mean": "かいとう",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "切り取り",
-    "read": "THIẾT THỦ",
+    "goi": "切り取り",
+    "kanji": "THIẾT THỦ",
+    "read": "きりとり",
     "mean": "Cut Cắt",
-    "co-mean": "きりとり",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "スクロール",
+    "goi": "スクロール",
+    "kanji": "",
     "read": "-",
     "mean": "Cuộn",
     "co-mean": "Scroll",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ドラッグ",
+    "goi": "ドラッグ",
+    "kanji": "",
     "read": "-",
     "mean": "Kéo",
     "co-mean": "Drag",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ダブルクリック",
+    "goi": "ダブルクリック",
+    "kanji": "",
     "read": "-",
     "mean": "Click đôi",
     "co-mean": "Double click",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "右クリック",
-    "read": "HỮU",
+    "goi": "右クリック",
+    "kanji": "HỮU",
+    "read": "みぎクリック",
     "mean": "Right click Click chuột phải",
-    "co-mean": "みぎクリック",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "再起動",
-    "read": "TÁI KHỞI ĐỘNG",
+    "goi": "再起動",
+    "kanji": "TÁI KHỞI ĐỘNG",
+    "read": "さいきどう",
     "mean": "Restart Khởi động lại",
-    "co-mean": "さいきどう",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "シャットダウン",
+    "goi": "シャットダウン",
+    "kanji": "",
     "read": "-",
     "mean": "Shutdown",
     "co-mean": "Tắt ",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "スリープ",
+    "goi": "スリープ",
+    "kanji": "",
     "read": "-",
     "mean": "Sleep",
     "co-mean": "Tắt tạm thời",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ロック",
+    "goi": "ロック",
+    "kanji": "",
     "read": "-",
     "mean": "Lock",
     "co-mean": "Khóa",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "インポート",
+    "goi": "インポート",
+    "kanji": "",
     "read": "-",
     "mean": "Đưa vào",
     "co-mean": "Import",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "エクスポート",
+    "goi": "エクスポート",
+    "kanji": "",
     "read": "-",
     "mean": "Xuất ra",
     "co-mean": "Export",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "タイピング",
+    "goi": "タイピング",
+    "kanji": "",
     "read": "-",
     "mean": "Gõ phím",
     "co-mean": "Typing",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "導入",
-    "read": "ĐẠO NHẬP",
+    "goi": "導入",
+    "kanji": "ĐẠO NHẬP",
+    "read": "どうにゅう",
     "mean": "Install Cài vào, thêm vào",
-    "co-mean": "どうにゅう",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "インストール",
+    "goi": "インストール",
+    "kanji": "",
     "read": "-",
     "mean": "Cài đặt",
     "co-mean": "Install",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "アンインストール",
+    "goi": "アンインストール",
+    "kanji": "",
     "read": "-",
     "mean": "Gỡ cài đặt",
     "co-mean": "Uninstall",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "パージ",
+    "goi": "パージ",
+    "kanji": "",
     "read": "-",
     "mean": "Làm sạch",
     "co-mean": "Purge",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "元に戻す",
-    "read": "NGUYÊN LỆ",
+    "goi": "元に戻す",
+    "kanji": "NGUYÊN LỆ",
+    "read": "もとにもどす",
     "mean": "Restore Hồi lại",
-    "co-mean": "もとにもどす",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "指定",
-    "read": "CHỈ ĐỊNH",
+    "goi": "指定",
+    "kanji": "CHỈ ĐỊNH",
+    "read": "してい",
     "mean": "Designation Chỉ định",
-    "co-mean": "してい",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "追加",
-    "read": "TRUY GIA",
+    "goi": "追加",
+    "kanji": "TRUY GIA",
+    "read": "ついか",
     "mean": "Add Thêm vào",
-    "co-mean": "ついか",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "作成",
-    "read": "TÁC THÀNH",
+    "goi": "作成",
+    "kanji": "TÁC THÀNH",
+    "read": "さくせい",
     "mean": "Create Tạo",
-    "co-mean": "さくせい",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "削除",
-    "read": "TƯỚC TRỪ",
+    "goi": "削除",
+    "kanji": "TƯỚC TRỪ",
+    "read": "さくじょ",
     "mean": "Delete Xóa",
-    "co-mean": "さくじょ",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "読み込む",
+    "goi": "読み込む",
+    "kanji": "よみこむ",
     "read": "ĐỘC ",
     "mean": "Read Đọc",
-    "co-mean": "よみこむ",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "編集",
-    "read": "BIÊN TẬP",
+    "goi": "編集",
+    "kanji": "BIÊN TẬP",
+    "read": "へんしゅう",
     "mean": "Edit Chỉnh sửa",
-    "co-mean": "へんしゅう",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "抽出",
-    "read": "TRỪU XUẤT",
+    "goi": "抽出",
+    "kanji": "TRỪU XUẤT",
+    "read": "ちゅうしゅつ",
     "mean": "Extraction Trích xuất",
-    "co-mean": "ちゅうしゅつ",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "更新",
-    "read": "CANH TÂN",
+    "goi": "更新",
+    "kanji": "CANH TÂN",
+    "read": "こうしん",
     "mean": "Update Cập nhật",
-    "co-mean": "こうしん",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "改訂",
-    "read": "CẢI ĐÍNH",
+    "goi": "改訂",
+    "kanji": "CẢI ĐÍNH",
+    "read": "かいてい",
     "mean": "Revision Sửa lại",
-    "co-mean": "かいてい",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "切り替える",
-    "read": "THIẾT THẾ",
+    "goi": "切り替える",
+    "kanji": "THIẾT THẾ",
+    "read": "きりかえる",
     "mean": "Switch Thay đổi",
-    "co-mean": "きりかえる",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "フィルタ",
+    "goi": "フィルタ",
+    "kanji": "",
     "read": "-",
     "mean": "Lọc",
     "co-mean": "Filter",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "設定",
-    "read": "THIẾT ĐỊNH",
+    "goi": "設定",
+    "kanji": "THIẾT ĐỊNH",
+    "read": "せってい",
     "mean": "Setting Cài đặt",
-    "co-mean": "せってい",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "除去",
-    "read": "TRỪ KHỨ",
+    "goi": "除去",
+    "kanji": "TRỪ KHỨ",
+    "read": "じょきょ",
     "mean": "Remove Loại bỏ",
-    "co-mean": "じょきょ",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "復元",
-    "read": "PHỤC NGUYÊN",
+    "goi": "復元",
+    "kanji": "PHỤC NGUYÊN",
+    "read": "ふくげん",
     "mean": "Restore Phục hồi",
-    "co-mean": "ふくげん",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "開始",
-    "read": "KHAI THỦY",
+    "goi": "開始",
+    "kanji": "KHAI THỦY",
+    "read": "かいし",
     "mean": "Start Bắt đầu",
-    "co-mean": "かいし",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "変更",
-    "read": "BIẾN CANH",
+    "goi": "変更",
+    "kanji": "BIẾN CANH",
+    "read": "へんこう",
     "mean": "Change Thay đổi",
-    "co-mean": "へんこう",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ソート",
+    "goi": "ソート",
+    "kanji": "",
     "read": "-",
     "mean": "Sort Sắp xếp",
     "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "報告",
-    "read": "BÁO CÁO",
+    "goi": "報告",
+    "kanji": "BÁO CÁO",
+    "read": "ほうこく",
     "mean": "Report Báo cáo",
-    "co-mean": "ほうこく",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "検索",
-    "read": "KIỂM TÁC",
+    "goi": "検索",
+    "kanji": "KIỂM TÁC",
+    "read": "けんさく",
     "mean": "Search Tìm kiếm",
-    "co-mean": "けんさく",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "表示",
-    "read": "BIỂU KÌ",
+    "goi": "表示",
+    "kanji": "BIỂU KÌ",
+    "read": "ひょうじ",
     "mean": "Show Hiển thị",
-    "co-mean": "ひょうじ",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "共有",
-    "read": "CỘNG HỮU",
+    "goi": "共有",
+    "kanji": "CỘNG HỮU",
+    "read": "きょうゆう",
     "mean": "Share Chia sẻ",
-    "co-mean": "きょうゆう",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "管理",
-    "read": "QUẢN LÍ",
+    "goi": "管理",
+    "kanji": "QUẢN LÍ",
+    "read": "かんり",
     "mean": "Manage Quản lý",
-    "co-mean": "かんり",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "サーチ",
+    "goi": "サーチ",
+    "kanji": "",
     "read": "-",
     "mean": "Search Tìm kiếm",
     "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "記載",
-    "read": "KÍ TÁI",
+    "goi": "記載",
+    "kanji": "KÍ TÁI",
+    "read": "きさい",
     "mean": "Describe Miêu tả",
-    "co-mean": "きさい",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "ストップ",
+    "goi": "ストップ",
+    "kanji": "",
     "read": "-",
     "mean": "Stop Dừng",
     "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "停止",
-    "read": "ĐÌNH CHỈ",
+    "goi": "停止",
+    "kanji": "ĐÌNH CHỈ",
+    "read": "ていし",
     "mean": "Stop Dừng",
-    "co-mean": "ていし",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "申請",
-    "read": "THÂN THỈNH",
+    "goi": "申請",
+    "kanji": "THÂN THỈNH",
+    "read": "しんせい",
     "mean": "Apply Đăng ký",
-    "co-mean": "しんせい",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "終了",
-    "read": "CHUNG LIỄU",
+    "goi": "終了",
+    "kanji": "CHUNG LIỄU",
+    "read": "しゅうりょう",
     "mean": "Finish Kết thúc",
-    "co-mean": "しゅうりょう",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "チェンジ",
+    "goi": "チェンジ",
+    "kanji": "",
     "read": "-",
     "mean": "Change Thay đổi",
     "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "リダイレクト",
+    "goi": "リダイレクト",
+    "kanji": "",
     "read": "-",
     "mean": "Redirect Chuyển màn hình",
     "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "移動",
-    "read": "DI ĐỘNG",
+    "goi": "移動",
+    "kanji": "DI ĐỘNG",
+    "read": "いどう",
     "mean": "Move Di chuyển",
-    "co-mean": "いどう",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "回復",
-    "read": "HỒI PHỤC",
+    "goi": "回復",
+    "kanji": "HỒI PHỤC",
+    "read": "かいふく",
     "mean": "Recover Phục hồi",
-    "co-mean": "かいふく",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "生成",
-    "read": "SANH THÀNH",
+    "goi": "生成",
+    "kanji": "SANH THÀNH",
+    "read": "せいせい",
     "mean": "Generate Tạo",
-    "co-mean": "せいせい",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "投稿",
-    "read": "ĐẦU CẢO",
+    "goi": "投稿",
+    "kanji": "ĐẦU CẢO",
+    "read": "とうこう",
     "mean": "Post Đăng",
-    "co-mean": "とうこう",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "埋める",
-    "read": "MAI",
+    "goi": "埋める",
+    "kanji": "MAI",
+    "read": "うめる",
     "mean": "Fill Điền vào",
-    "co-mean": "うめる",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "アクセル",
+    "goi": "アクセル",
+    "kanji": "",
     "read": "-",
     "mean": "Access Truy cập",
     "co-mean": "-",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "遷移",
-    "read": "THIÊN DI",
+    "goi": "遷移",
+    "kanji": "THIÊN DI",
+    "read": "せんい",
     "mean": "Redirect Chuyển màn hình",
-    "co-mean": "せんい",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "同意",
-    "read": "ĐỒNG Ý",
+    "goi": "同意",
+    "kanji": "ĐỒNG Ý",
+    "read": "どうい",
     "mean": "Accept Đồng ý",
-    "co-mean": "どうい",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "消去",
-    "read": "TIÊU KHỨ",
+    "goi": "消去",
+    "kanji": "TIÊU KHỨ",
+    "read": "しょうきょ",
     "mean": "Erase Xóa bỏ",
-    "co-mean": "しょうきょ",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "承認",
-    "read": "THỪA NHẬN",
+    "goi": "承認",
+    "kanji": "THỪA NHẬN",
+    "read": "しょうにん",
     "mean": "Approval Phê duyệt",
-    "co-mean": "しょうにん",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "排除",
-    "read": "BÀI TRỪ",
+    "goi": "排除",
+    "kanji": "BÀI TRỪ",
+    "read": "はいじょ",
     "mean": "Exclude Loại trừ",
-    "co-mean": "はいじょ",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "訂正",
-    "read": "ĐÍNH CHÁNH",
+    "goi": "訂正",
+    "kanji": "ĐÍNH CHÁNH",
+    "read": "ていせい",
     "mean": "Correction Đính chính",
-    "co-mean": "ていせい",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "新規作成",
-    "read": "TÂN QUY TÁC THÀNH",
+    "goi": "新規作成",
+    "kanji": "TÂN QUY TÁC THÀNH",
+    "read": "しんきさくせい",
     "mean": "Add new Tạo mới",
-    "co-mean": "しんきさくせい",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "適用",
-    "read": "THÍCH DỤNG",
+    "goi": "適用",
+    "kanji": "THÍCH DỤNG",
+    "read": "てきよう",
     "mean": "Apply Áp dụng",
-    "co-mean": "てきよう",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "参照",
-    "read": "THAM CHIẾU",
+    "goi": "参照",
+    "kanji": "THAM CHIẾU",
+    "read": "さんしょう",
     "mean": "Reference Tham chiếu, xem",
-    "co-mean": "さんしょう",
+    "co-mean": "",
     "explain": "-"
   },
   {
-    "goi": "-",
-    "kanji": "打ち切る",
-    "read": "ĐẢ THIẾT",
+    "goi": "打ち切る",
+    "kanji": "ĐẢ THIẾT",
+    "read": "うちきる",
     "mean": "Abort Bãi bỏ",
-    "co-mean": "うちきる",
+    "co-mean": "",
     "explain": "-"
   }
 ]

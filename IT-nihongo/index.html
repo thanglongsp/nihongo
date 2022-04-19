@@ -10,8 +10,9 @@
     <style>
         .div-btn-next {
             display: flex;
-            align-items: center;
-            flex-direction: column;
+            flex-direction: row;
+            margin-top: 15px;
+            justify-content: end;
         }
 
         .div-col {
@@ -38,6 +39,28 @@
         .container-fluid {
             background: #5e2525 !important;
         }
+
+        .form-group {
+            margin-left: -10px;
+            margin-bottom: 15px;
+        }
+
+        .label-index {
+            color: brown;
+
+        }
+
+        #index {
+            width: 20vw;
+        }
+
+        button {
+            margin-left: 10px;
+        }
+
+        #back, #next {
+            display: flex;
+        }
     </style>
 </head>
 <body>
@@ -47,6 +70,10 @@
 </div>
 
 <div class="container mt-5" style="height: 40vh;">
+    <div class="form-group">
+        <label for="index" class="label-index">Bắt đầu chữ từ số:</label>
+        <input type="number" value="0" class="form-control" id="index" min="0">
+    </div>
     <div class="row">
         <div class="div-col" id="div-kanji">
             <h3>Kanji</h3>
@@ -69,9 +96,10 @@
             <p id="explain">Click to show</p>
         </div>
     </div>
-</div>
-<div class="div-btn-next">
-    <button id="next" type="button" class="btn btn-primary">Next</button>
+    <div class="div-btn-next">
+        <button id="back" type="button" class="btn btn-warning">Back</button>
+        <button id="next" type="button" class="btn btn-primary">Next</button>
+    </div>
 </div>
 </body>
 </html>
@@ -110,18 +138,38 @@
             });
         }
 
-        $("#next").click(function () {
-            if (data.length - 1 == current_value) {
-                current_value = 0;
-            } else {
-                current_value += 1;
-            }
+        function resetInfo() {
             $("#mean").text('Click to show');
             $("#kanji").text('Click to show');
             $("#description").text('Click to show');
             $("#read").text('Click to show');
             $("#co-mean").text('Click to show');
             $("#explain").text('Click to show');
+        }
+
+        $("#next").click(function () {
+            if (data.length - 1 == current_value) {
+                current_value = 0;
+            } else {
+                current_value += 1;
+            }
+            resetInfo();
+            nextNewGoi();
+        });
+
+        $("#back").click(function () {
+            if (data.length - 1 == current_value || current_value == 0) {
+                current_value = 0;
+            } else {
+                current_value -= 1;
+            }
+            resetInfo();
+            nextNewGoi();
+        });
+
+        $("#index").change(function () {
+            current_value = $("#index")[0].value - 1;
+            resetInfo();
             nextNewGoi();
         });
     });
